@@ -48,7 +48,7 @@ const DateForm = ({ taskId, data }: DateProps) => {
   const onSubmit = async (values: z.infer<typeof formSchema>) => {
     try {
       await httpClient.patch(`/list/${taskId}`, values);
-      toast.success("Course updated!");
+      toast.success("Task updated!");
       setIsEditing((prevState) => !prevState);
       router.refresh();
     } catch (error: any) {
