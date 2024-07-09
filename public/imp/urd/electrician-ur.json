@@ -1,0 +1,644 @@
+[
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["ایمپیئر"],
+    "questionText": "بجلی کی بنیادی اکائی کیا ہے؟",
+    "options": ["وولٹ", "ایمپیئر", "واٹ", "اوہم"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["ایمیٹر"],
+    "questionText": "برقی رو (Current) کو ناپنے کے لیے کون سا آلہ استعمال ہوتا ہے؟",
+    "options": ["وولٹ میٹر", "ایمیٹر", "اوہم میٹر", "واٹ میٹر"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["اوہم"],
+    "questionText": "برقی مزاحمت (Resistance) کی اکائی کیا ہے؟",
+    "options": ["وولٹ", "ایمپیئر", "واٹ", "اوہم"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "DC میں کرنٹ کی سمت تبدیل نہیں ہوتی، جبکہ AC میں ہوتی ہے"
+    ],
+    "questionText": "ڈائریکٹ کرنٹ (DC) اور آلٹرنیٹنگ کرنٹ (AC) میں کیا فرق ہے؟",
+    "options": [
+      "DC میں کرنٹ کی سمت تبدیل نہیں ہوتی، جبکہ AC میں ہوتی ہے",
+      "AC میں کرنٹ کی سمت تبدیل نہیں ہوتی، جبکہ DC میں ہوتی ہے",
+      "DC لمبی فاصلے تک سفر کر سکتا ہے، جبکہ AC نہیں کر سکتا",
+      "AC لمبی فاصلے تک سفر کر سکتا ہے، جبکہ DC نہیں کر سکتا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["سرکٹ کو زیادہ کرنٹ سے بچانا"],
+    "questionText": "برقی سرکٹ (Electrical Circuit) میں فیوز کا کیا کام ہے؟",
+    "options": [
+      "وولٹیج بڑھانا",
+      "کرنٹ کو کنٹرول کرنا",
+      "سرکٹ کو زیادہ کرنٹ سے بچانا",
+      "سرکٹ کو زیادہ وولٹیج سے بچانا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["وائر سٹرپر"],
+    "questionText": "تاروں کو کاٹنے کے لیے کون سا آلہ استعمال ہوتا ہے؟",
+    "options": ["سکریو ڈرایور", "ہتھوڑا", "وائر سٹرپر", "پلائر"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["حفاظتی اصولوں پر عمل کرنا"],
+    "questionText": "بجلی کے کام کرتے وقت کون سی چیز سب سے اہم ہے؟",
+    "options": [
+      "جلدی کرنا",
+      "صحیح آلات کا استعمال",
+      "حفاظتی اصولوں پر عمل کرنا",
+      "نئے آلات استعمال کرنا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "برقی جھٹکے سے بچنے کے لیے کون سا آلہ استعمال ہوتا ہے؟",
+    "options": ["فیوز", "سرکٹ بریکر", "ارتھنگ", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["تین"],
+    "questionText": "گھریلو وائرنگ میں عام طور پر کتنے تار استعمال ہوتے ہیں؟",
+    "options": ["دو", "تین", "چار", "پانچ"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["سفید یا سرمئی"],
+    "questionText": "نیوٹرل تار کا رنگ کیا ہوتا ہے؟",
+    "options": ["کالا", "سرخ", "سبز", "سفید یا سرمئی"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["سبز یا سبز اور پیلا"],
+    "questionText": "ارتھنگ تار کا رنگ کیا ہوتا ہے؟",
+    "options": ["کالا", "سرخ", "سبز یا سبز اور پیلا", "سفید"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["14 AWG"],
+    "questionText": "گھریلو وائرنگ میں زیادہ تر کون سے سائز کے تار استعمال ہوتے ہیں؟",
+    "options": ["10 AWG", "14 AWG", "18 AWG", "22 AWG"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["زیادہ کرنٹ سے سرکٹ کو بچانا"],
+    "questionText": "سرکٹ بریکر کا کیا کام ہے؟",
+    "options": [
+      "کرنٹ کو بڑھانا",
+      "وولٹیج کو بڑھانا",
+      "زیادہ کرنٹ سے سرکٹ کو بچانا",
+      "زیادہ وولٹیج سے سرکٹ کو بچانا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["آرگون"],
+    "questionText": "لائٹ بلب میں کون سی گیس بھری ہوتی ہے؟",
+    "options": ["آکسیجن", "کاربن ڈائی آکسائیڈ", "نائٹروجن", "آرگون"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["وولٹیج کو بڑھانا یا کم کرنا"],
+    "questionText": "ٹرانسفارمر کا کام کیا ہے؟",
+    "options": [
+      "وولٹیج کو بڑھانا یا کم کرنا",
+      "کرنٹ کو بڑھانا یا کم کرنا",
+      "بجلی پیدا کرنا",
+      "بجلی کو ذخیرہ کرنا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["50 ہرٹز"],
+    "questionText": "گھریلو استعمال میں آنے والی بجلی کی فریکوئنسی کتنی ہوتی ہے؟",
+    "options": ["25 ہرٹز", "50 ہرٹز", "60 ہرٹز", "100 ہرٹز"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["ہر کمپوننٹ میں ایک جیسا ہوتا ہے"],
+    "questionText": "سیریز سرکٹ میں کرنٹ کا بہاؤ کیسا ہوتا ہے؟",
+    "options": [
+      "ہر کمپوننٹ میں مختلف ہوتا ہے",
+      "ہر کمپوننٹ میں ایک جیسا ہوتا ہے",
+      "صرف ایک راستے سے گزرتا ہے",
+      "دو یا زیادہ راستوں سے گزرتا ہے"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["ہر کمپوننٹ میں ایک جیسا ہوتا ہے"],
+    "questionText": "پیرلل سرکٹ میں وولٹیج کا فرق کیسا ہوتا ہے؟",
+    "options": [
+      "ہر کمپوننٹ میں مختلف ہوتا ہے",
+      "ہر کمپوننٹ میں ایک جیسا ہوتا ہے",
+      "صرف ایک راستے سے گزرتا ہے",
+      "دو یا زیادہ راستوں سے گزرتا ہے"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["Miniature Circuit Breaker"],
+    "questionText": "ایم سی بی (MCB) کا کیا مطلب ہے؟",
+    "options": [
+      "Main Circuit Board",
+      "Miniature Circuit Breaker",
+      "Maximum Current Breaker",
+      "Metal Circuit Board"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["بجلی کا استعمال ناپنا"],
+    "questionText": "گھر میں بجلی کے میٹر کا کیا کام ہے؟",
+    "options": [
+      "بجلی پیدا کرنا",
+      "بجلی کا استعمال ناپنا",
+      "بجلی کو ذخیرہ کرنا",
+      "وولٹیج کو کنٹرول کرنا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["15 ایمپیئر سرکٹ"],
+    "questionText": "گھر میں لائٹس اور پنکھے کن سرکٹس سے چلتے ہیں؟",
+    "options": [
+      "15 ایمپیئر سرکٹ",
+      "20 ایمپیئر سرکٹ",
+      "30 ایمپیئر سرکٹ",
+      "50 ایمپیئر سرکٹ"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["30 ایمپیئر سرکٹ"],
+    "questionText": "اے سی (AC) کو چلانے کے لیے کون سا سرکٹ استعمال ہوتا ہے؟",
+    "options": [
+      "15 ایمپیئر سرکٹ",
+      "20 ایمپیئر سرکٹ",
+      "30 ایمپیئر سرکٹ",
+      "50 ایمپیئر سرکٹ"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["تین"],
+    "questionText": "تھری فیز سپلائی میں کتنے وولٹیج ہوتے ہیں؟",
+    "options": ["ایک", "دو", "تین", "چار"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "گھر میں بجلی کی وائرنگ کرتے وقت کن چیزوں کا خیال رکھنا چاہیے؟",
+    "options": [
+      "تاروں کا صحیح سائز",
+      "سرکٹ بریکر کا مناسب استعمال",
+      "ارتھنگ",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["مین سوئچ"],
+    "questionText": "اگر گھر کی لائٹس نہیں جل رہیں تو سب سے پہلے کیا چیک کرنا چاہیے؟",
+    "options": ["میٹر بورڈ میں ایم سی بی", "لائٹ بلب", "وائرنگ", "مین سوئچ"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "اگر کسی آلے میں کرنٹ نہیں آرہا تو اس کی وجہ کیا ہو سکتی ہے؟",
+    "options": [
+      "فیوز جل گیا ہے",
+      "ایم سی بی ٹرپ ہو گیا ہے",
+      "وائرنگ میں خرابی ہے",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["وولٹیج چیک کرنا"],
+    "questionText": "ٹیسٹ لائٹ (Test Light) کا کیا کام ہے؟",
+    "options": [
+      "وولٹیج چیک کرنا",
+      "کرنٹ چیک کرنا",
+      "مزاحمت چیک کرنا",
+      "پاور چیک کرنا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["Pakistan Electrical Code (PEC)"],
+    "questionText": "پاکستان میں برقی تنصیبات کے لیے کون سے ضابطے لاگو ہیں؟",
+    "options": [
+      "National Electric Code (NEC)",
+      "Pakistan Electrical Code (PEC)",
+      "International Electrotechnical Commission (IEC)",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["واٹر اور ڈسٹ پروٹیکشن"],
+    "questionText": "برقی آلات پر لگے آئی پی کوڈ (IP Code) سے کیا مراد ہے؟",
+    "options": [
+      "انرجی ایفیشنسی",
+      "پاور ریٹنگ",
+      "واٹر اور ڈسٹ پروٹیکشن",
+      "وولٹیج ریٹنگ"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["آلہ کو ارتھ کرنا ضروری ہے"],
+    "questionText": "برقی آلات پر لکھی گئی ارتھنگ کی علامت کیا ظاہر کرتی ہے؟",
+    "options": [
+      "آلہ ڈبل انسولیٹڈ ہے",
+      "آلہ کو ارتھ کرنا ضروری ہے",
+      "آلہ واٹر پروف ہے",
+      "آلہ فائر پروف ہے"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["ائیر کنڈیشنر"],
+    "questionText": "گھر میں سب سے زیادہ بجلی کون سا آلہ استعمال کرتا ہے؟",
+    "options": ["فریج", "ٹیلی ویژن", "ائیر کنڈیشنر", "واشنگ مشین"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["بلب کی توانائی کی کھپت"],
+    "questionText": "بجلی کے بلب کی ریٹنگ واٹ (Watt) میں ہوتی ہے، اس سے کیا مراد ہے؟",
+    "options": [
+      "بلب کی روشنی کی شدت",
+      "بلب کی عمر",
+      "بلب کی توانائی کی کھپت",
+      "بلب کی وولٹیج"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["مکینیکل توانائی"],
+    "questionText": "برقی موٹر میں کون سی توانائی برقی توانائی میں تبدیل ہوتی ہے؟",
+    "options": [
+      "مکینیکل توانائی",
+      "کیمیائی توانائی",
+      "حرارتی توانائی",
+      "روشنی کی توانائی"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "بجلی کے آلات کی باقاعدہ دیکھ بھال کیوں ضروری ہے؟",
+    "options": [
+      "کارکردگی بہتر بنانے کے لیے",
+      "عمر بڑھانے کے لیے",
+      "حفاظت کو یقینی بنانے کے لیے",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "برقی موٹر کے برشوں کا معائنہ کب کرنا چاہیے؟",
+    "options": [
+      "جب موٹر شور کرے",
+      "جب موٹر زیادہ گرم ہو",
+      "جب موٹر چلنا بند کر دے",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["سالانہ"],
+    "questionText": "ایم سی بیز (MCBs) کو کتنے عرصے بعد چیک کرنا چاہیے؟",
+    "options": ["روزانہ", "ہفتہ وار", "ماہانہ", "سالانہ"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["اوہم کا قانون"],
+    "questionText": "وولٹیج، کرنٹ اور مزاحمت کے درمیان کیا تعلق ہے؟",
+    "options": [
+      "اوہم کا قانون",
+      "کیرچوف کا قانون",
+      "فاراڈے کا قانون",
+      "کولمب کا قانون"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["0.5 کلو واٹ گھنٹہ"],
+    "questionText": "100 واٹ کے بلب کو 5 گھنٹے جلانے سے کتنی بجلی استعمال ہوگی؟",
+    "options": [
+      "0.5 کلو واٹ گھنٹہ",
+      "1 کلو واٹ گھنٹہ",
+      "5 کلو واٹ گھنٹہ",
+      "10 کلو واٹ گھنٹہ"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["20 اوہم"],
+    "questionText": "ایک سرکٹ میں 10 اوہم کے دو ریزسٹر (Resistors) سیریز میں لگے ہیں، ان کی کل مزاحمت کتنی ہوگی؟",
+    "options": ["5 اوہم", "10 اوہم", "15 اوہم", "20 اوہم"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["10 اوہم"],
+    "questionText": "ایک سرکٹ میں 20 اوہم کے دو ریزسٹر (Resistors) پیرلل میں لگے ہیں، ان کی کل مزاحمت کتنی ہوگی؟",
+    "options": ["10 اوہم", "20 اوہم", "30 اوہم", "40 اوہم"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["برقی توانائی کو مکینیکل توانائی میں تبدیل کرنا"],
+    "questionText": "ڈی سی موٹر (DC Motor) کا کام کیا ہے؟",
+    "options": [
+      "بجلی پیدا کرنا",
+      "برقی توانائی کو مکینیکل توانائی میں تبدیل کرنا",
+      "وولٹیج کو بڑھانا",
+      "کرنٹ کو کم کرنا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "اے سی موٹر (AC Motor) اور ڈی سی موٹر (DC Motor) میں کیا فرق ہے؟",
+    "options": [
+      "اے سی موٹر AC سپلائی پر چلتا ہے، جبکہ ڈی سی موٹر DC سپلائی پر چلتا ہے",
+      "اے سی موٹر زیادہ طاقتور ہوتا ہے، جبکہ ڈی سی موٹر کم طاقتور ہوتا ہے",
+      "اے سی موٹر کی رفتار زیادہ ہوتی ہے، جبکہ ڈی سی موٹر کی کم ہوتی ہے",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["مکینیکل توانائی کو برقی توانائی میں تبدیل کرنا"],
+    "questionText": "جنریٹر (Generator) کا کام کیا ہے؟",
+    "options": [
+      "مکینیکل توانائی کو برقی توانائی میں تبدیل کرنا",
+      "برقی توانائی کو مکینیکل توانائی میں تبدیل کرنا",
+      "وولٹیج کو بڑھانا",
+      "کرنٹ کو کم کرنا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "اگر کسی موٹر کے بیرنگ (Bearings) خراب ہو جائیں تو کیا ہوتا ہے؟",
+    "options": [
+      "موٹر چلنا بند کر دیتا ہے",
+      "موٹر زیادہ شور کرتا ہے",
+      "موٹر زیادہ گرم ہوتا ہے",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "اگر کسی گھر میں بار بار فیوز جل رہے ہوں تو اس کی ممکنہ وجوہات کیا ہو سکتی ہیں؟",
+    "options": ["زیادہ لوڈ", "شارٹ سرکٹ", "پرانی یا خراب وائرنگ", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["اوورلوڈ ریلے"],
+    "questionText": "موٹر کے اوورلوڈ (Overload) سے بچنے کے لیے کون سا آلہ استعمال ہوتا ہے؟",
+    "options": ["فیوز", "ایم سی بی", "اوورلوڈ ریلے", "ارتھ لیکیج سرکٹ بریکر"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "ایل ای ڈی بلب (LED Bulb) اور عام بلب میں کیا فرق ہے؟",
+    "options": [
+      "ایل ای ڈی بلب زیادہ توانائی بچاتا ہے",
+      "ایل ای ڈی بلب کی عمر زیادہ ہوتی ہے",
+      "ایل ای ڈی بلب کم گرم ہوتا ہے",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["لیمپ"],
+    "questionText": "برقی خاکے میں ایک دائرے کے اندر کراس کی علامت کس چیز کو ظاہر کرتی ہے؟",
+    "options": ["لیمپ", "ریزسٹر", "کیپسیٹر", "فیوز"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["سوئچ"],
+    "questionText": "برقی خاکے میں ایک مستطیل کے اندر ایک لکیر کی علامت کس چیز کو ظاہر کرتی ہے؟",
+    "options": ["سوئچ", "بیٹری", "ٹرانسفارمر", "موٹر"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["اے سی کرنٹ"],
+    "questionText": "برقی خاکے میں لہروں کی علامت کس چیز کو ظاہر کرتی ہے؟",
+    "options": ["ارتھنگ", "اے سی کرنٹ", "ڈی سی کرنٹ", "نیوٹرل تار"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  }
+]

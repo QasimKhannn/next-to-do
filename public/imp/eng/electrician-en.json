@@ -1,0 +1,779 @@
+[
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Ampere"],
+    "questionText": "What is the basic unit of electricity?",
+    "options": ["Volt", "Ampere", "Watt", "Ohm"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Ammeter"],
+    "questionText": "Which instrument is used to measure electric current?",
+    "options": ["Voltmeter", "Ammeter", "Wattmeter", "Ohmmeter"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "DC flows in one direction, while AC changes direction periodically"
+    ],
+    "questionText": "What is the difference between Direct Current (DC) and Alternating Current (AC)?",
+    "options": [
+      "DC flows in one direction, while AC changes direction periodically",
+      "AC flows in one direction, while DC changes direction periodically",
+      "DC can travel long distances, while AC cannot",
+      "AC can travel long distances, while DC cannot"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["To protect the circuit from over current"],
+    "questionText": "What is the function of a fuse in an electrical circuit?",
+    "options": [
+      "To increase voltage",
+      "To control current",
+      "To protect the circuit from over current",
+      "To protect the circuit from over voltage"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Wire Strippers"],
+    "questionText": "Which tool is used to cut wires?",
+    "options": ["Screwdriver", "Hammer", "Wire stripper", "Pliers"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Following safety rules"],
+    "questionText": "What is the most important thing while working with electricity?",
+    "options": [
+      "Working quickly",
+      "Using the right tools",
+      "Following safety rules",
+      "Using new tools"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "Which device is used to protect against electric shock?",
+    "options": [
+      "Fuse",
+      "Circuit breaker",
+      "Earthing/Grounding",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Three"],
+    "questionText": "How many wires are typically used in household wiring?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Gray or White"],
+    "questionText": "What is the color of neutral wire?",
+    "options": ["Black", "Red", "Green", "Gray or White"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Green or Green and Yellow"],
+    "questionText": "What is the color of the earth wire?",
+    "options": ["Black", "Red", "Green or Green and Yellow", "White"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["14 AWG"],
+    "questionText": "Which wire guage is commonly used in household wiring?",
+    "options": ["10 AWG", "14 AWG", "18 AWG", "22 AWG"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["To protect the circuit from overcurrent"],
+    "questionText": "What is the function of a circuit breaker?",
+    "options": [
+      "To increase current",
+      "To increase voltage",
+      "To protect the circuit from overcurrent",
+      "To protect the circuit from overvoltage"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Argon"],
+    "questionText": "Which gas is filled in a ligh bulb?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Argon"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["To increase or decrease voltage"],
+    "questionText": "What is the function of a transformer?",
+    "options": [
+      " To increase or decrease voltage",
+      " To increase or decrease current",
+      "To generate electricity",
+      "To store electricity"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["50 Hertz"],
+    "questionText": "What is the frequency of electricity used in households?",
+    "options": ["25 Hertz", "50 Hertz", "60 Hertz", "100 Hertz"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Same in each component"],
+    "questionText": "How does current flows in a series circuit?",
+    "options": [
+      "Different in each component",
+      "Same in each component",
+      "Flows through only one path",
+      "Flows through two or more paths"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Same in each component"],
+    "questionText": "How is the voltage drop in a parallel circuit?",
+    "options": [
+      "Different in each component",
+      "Same in each component",
+      "Flows through only one path",
+      "Flows through two or more paths"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Miniature Circuit Breaker"],
+    "questionText": "What does MCB stands for?",
+    "options": [
+      "Main Circuit Board",
+      "Miniature Circuit Breaker",
+      " Maximum Current Breaker",
+      "Metal Circuit Board"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["To measure electricity consumption"],
+    "questionText": "What is the function of an electricity meter in a house?",
+    "options": [
+      "To generate electricity",
+      "To measure electricity consumption",
+      "To store electricity",
+      "To Control Voltage"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["30 Amp circuit"],
+    "questionText": "Which circuits are lights and fans usually connectd to in a house?",
+    "options": [
+      "15 Amp circuit",
+      "20 Amp circuit",
+      "30 Amp circuit",
+      "50 Amp circuit"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Three"],
+    "questionText": "How many voltages are there in a a three-phase supply?",
+    "options": ["One", "Two", "Three", "Four"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "What factors should be considered while wiring a house?",
+    "options": [
+      "Correct wire size",
+      "Proper use of circuit breakers",
+      "Earthing/Grounding",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Main switch"],
+    "questionText": "If the lights in the house are not working, what should be checked first?",
+    "options": [
+      "MCB at the meter board",
+      "Light bulb",
+      "Wiring",
+      "Main switch"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Main switch"],
+    "questionText": "If an appliance is not receiving current, what could be the reason?",
+    "options": [
+      "Fuse is blown",
+      "MCB has tripped",
+      "There is a fault in the wiring",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["To check voltage"],
+    "questionText": "What is the function of a test light?",
+    "options": [
+      "To check voltage",
+      "To check current",
+      "To check resistance",
+      "To check power"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Pakistan Electrical Code (PEC)"],
+    "questionText": "Which electrical codes are applicable in Pakistan?",
+    "options": [
+      " National Electric Code (NEC)",
+      "Pakistan Electrical Code (PEC)",
+      "International Electrotechnical Commission (IEC)",
+      "To check power"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Water and dust protection"],
+    "questionText": "What does IP Code on electrical appliances indicate?",
+    "options": [
+      "Energy Efficiency",
+      "Power Rating",
+      "Water and dust protection",
+      "Voltage rating"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Appliance needs to be earthed"],
+    "questionText": "What does the earthing symbol on electrical appliances indicate?",
+    "options": [
+      "Appliance is double insulated",
+      "Appliance needs to be earthed",
+      " Appliance is waterproof",
+      " Appliance is fireproof"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Air Conditioner"],
+    "questionText": "Which appliance consumes the most electricity in a house?",
+    "options": [
+      " Refrigerator",
+      "Air Conditioner",
+      " Television",
+      "Washing Machine"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Power consumption of the bulb"],
+    "questionText": "The rating of a light bulb is in watts. What does this indicates?",
+    "options": [
+      "Brightness of the bulb",
+      " Power consumption of the bulb",
+      "Voltage of the bulb",
+      "Lifespan of the bulb"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Mechanical energy"],
+    "questionText": "Which energy is convertedinto electrical energy in an electric motor?",
+    "options": [
+      "Mechanical energy",
+      "Thermal energy",
+      "Light energy",
+      "Chemcial energy"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "Why is regular maintenance of electrical appliances necessary?",
+    "options": [
+      "To improve perfomance",
+      "To increase lifespan",
+      "To ensure saftey",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "When should the brushes of an electric motor be inspected?",
+    "options": [
+      "When the motor is overheating",
+      "When the motor is noisy",
+      "When the motor stops working",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Yearly"],
+    "questionText": "How often should MCBs be checked?",
+    "options": ["Daily", "Weekly", "Monthly", "Yearly"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Ohm's Law"],
+    "questionText": "What is the relationship between voltage, current and resistance?",
+    "options": [
+      "Ohm's Law",
+      "Kirchoff's Law",
+      " Faraday's Law",
+      "Coulomb's Law"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["0.5 Kilowatt-hour"],
+    "questionText": "How much energy will be consumed by burning a 100-watt bulbfor 5 hours?",
+    "options": [
+      "0.5 Kilowatt-hour ",
+      "1 Kilowatt-hour",
+      "5 Kilowatt-hour",
+      "10 Kilowatt-hour"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["20 Ohms"],
+    "questionText": "Two resistors of 10 ohms each are connected in series in a circuit. What will be their total resistance?",
+    "options": ["5 Ohms ", "10 Ohms", "15 Ohms", "20 Ohms"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["10 Ohms"],
+    "questionText": "  Two resistors of 20 ohms each are connected in parallel in a circuit. What will be their total resistance?",
+    "options": ["10 Ohms ", "20 Ohms", "30 Ohms", "40 Ohms"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["To convert electrical energy into mechanical energy"],
+    "questionText": " What is the function of a DC motor?",
+    "options": [
+      " To generate electricity",
+      "To convert electrical energy into mechanical energy",
+      "To increase voltage",
+      "To decrease current"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": " What is the difference between an AC motor and a DC motor?",
+    "options": [
+      "AC motor runs on AC supply, while DC motor runs on DC supply",
+      "AC motor is more powerful than DC motor",
+      "AC motor has higher speed then DC motor",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["To convert mechanical energy into electrical energy"],
+    "questionText": " What is the function of a generator?",
+    "options": [
+      "To convert mechanical energy into electrical energy",
+      "To convert electrical energy into  mechanical energy",
+      "To increase voltage",
+      "To decrease current"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": " What happens if the bearings of the mtotr fails?",
+    "options": [
+      "Motor stops working",
+      "Motor becomes noisy",
+      "Motor overheats",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "If fuses are blowing repeatedly in a house, what could be the possible reasons?",
+    "options": [
+      "Overload",
+      " Short circuit",
+      " Old or faulty wiring",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Overload Relay"],
+    "questionText": "Which device is used to protect a motor from overload?",
+    "options": ["Fuse", "MCB", " Overload Relay", "ELCB"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "What is the difference between an LED bulb and a regular bulb?",
+    "options": [
+      "LED bulb saves more energy",
+      "LED bulb has a longer lifespan",
+      "LED bulbs produces less heat",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Solar energy"],
+    "questionText": " Which energy does a solar panel convert into electrical energy",
+    "options": [
+      "Solar energy",
+      "Wind energy",
+      "Thermal energy",
+      "Water energy"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["To convert DC to AC"],
+    "questionText": "What is the function of an inverter",
+    "options": [
+      "To convert DC to AC",
+      "to convert DC to AC",
+      "To increase voltage",
+      "To decrease current"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [" Kilowatt-hour"],
+    "questionText": "What is the unit of measurement for electricity bills",
+    "options": ["Volt", "Ampere", "Watt", " Kilowatt-hour"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Wire"],
+    "questionText": "What does a straight line represent in an electrical diagram?",
+    "options": ["Wire", "Switch", "Battery", "Bulb"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Lamp"],
+    "questionText": "What does a circle with a cross inside represent in an electrical diagram?",
+    "options": ["Lamp", "Resistor", "Capacitor", "Fuse"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Switch"],
+    "questionText": "What does a rectangle with a line inside represent in an electrical diagram?",
+    "options": ["Switch", "Battery", "Transformer", "Motor"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["AC Current"],
+    "questionText": "What do wavy lines represents in an electrical diagram?",
+    "options": [
+      "Earthing/Grounding",
+      "AC Current",
+      "DC Current",
+      "Neutral Wire"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Capacitor"],
+    "questionText": "What does a symbol with two wires and a third line above them represents in an electrical diagram?",
+    "options": ["Capacitor", "Transistor", "Diode", "Inductor"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Designing the circuit"],
+    "questionText": "What is the first step in wiring a new house?",
+    "options": [
+      "Cutting wires",
+      "Installing switch boards",
+      "Installing lights",
+      "Designing the circuit"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "What is the function of a conduit?",
+    "options": [
+      "To support wires",
+      "To protect wires from weather",
+      "To protect wires from rodents",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "Why are cable trays used?",
+    "options": [
+      "To organize cables",
+      "To facilitate cable installation",
+      "To make cable maintinance easier",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Three phase AC motor"],
+    "questionText": "Which type of motor is a Star Delta Starter used for?",
+    "options": [
+      "DC motor",
+      "Single phase AC motor",
+      "Three phase AC motor",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Concealed wiring"],
+    "questionText": "Which type of wiring is the safest for electrical appliances in a house?",
+    "options": [
+      "Open wiring",
+      "Concealed wiring",
+      "Cleat wiring",
+      "Any wiring"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  }
+]

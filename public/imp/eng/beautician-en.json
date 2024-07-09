@@ -1,0 +1,597 @@
+[
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which skin type is dry and rough?",
+    "options": ["Normal", "Dry", "Oily", "Combination"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "What is the best way to cleanse the skin?",
+    "options": [
+      "Washing with Soap",
+      "Cleaning with a Cleanser",
+      "Cleansing with a Toner",
+      "Washing with Water"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "What shoukd be used to protect the skin from the sun'sharmful rays?",
+    "options": ["Facewash", "Moisturizer", "Sunscreen", "Facemask"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "How should the skin be kept clean to prevent acne?",
+    "options": [
+      "Washing once a day",
+      "Washing twice a day",
+      "Sleeping with makeup on",
+      "Eating oily food"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "What should be used to maintain skin moisture?",
+    "options": ["Facewash", "Toner", "Scrub", "Moisturizer"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which hair type produces more oil?",
+    "options": ["Normal", "Dry", "Oily", "Curly"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which shampoo should be used to prevent dandruff?",
+    "options": [
+      "Anti-dandruff shampoo",
+      "Volume shampoo",
+      "Color protect shampoo",
+      "Any shampoo"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "What is the correct way to comb hair?",
+    "options": [
+      "Combing wet hair",
+      "Combing dry hair",
+      "Combing from roots to end",
+      "Combing from ends to roots"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "What should be done before coloring hair?",
+    "options": [
+      "Washing hair thoroughly",
+      "Applying oil to hair",
+      "Doing an allergy test",
+      "Drying hair"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which oil should be used to strengthen hair?",
+    "options": ["Coconut oil", "Olive oil", "Mustard oil", "Almond oil"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which foundation shade matches the skin tone?",
+    "options": [
+      "One shade darker than the skin",
+      "One shade lighter than the skin",
+      "Exact match to the skin tone",
+      "Any shade"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which makeup product is used to smoothen and even out the skin tone?",
+    "options": ["Blushon", "Foundation", "Lipstick", "Eyeshadow"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which makeup product is used to highlight the eyes?",
+    "options": ["Mascara", "Concealer", "Bronzer", "Primer"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which makeup product is used to color and enhance the shape of the lips?",
+    "options": ["Blushon", "Eyeliner", "Lipstick", "Highlighter"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which makeup product is used to contour and highlight facial features?",
+    "options": ["Primer", "Concealer", "Bronzer and Highlighter", "Foundation"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which makeup product is used to conceal dark circles under the eyes?",
+    "options": ["Blushon", "Concealer", "Mascara", "Primer"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "What should be applied to the face before makeup?",
+    "options": ["Moisturizer", "Foundation", "Powder", "Concealer"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "What should be used to make makeup last longer?",
+    "options": [
+      "Makeup Remover",
+      "Facewash",
+      "Setting powder or Spray",
+      "Moisturizer"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which solution should be used to clean makeup brushes?",
+    "options": ["Soapy water", "Alcohol", "Bleach", "Vinegar"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which product should be used to remove eye makeup?",
+    "options": ["Facewash", "Soap", "Makeup Remover", "Toner"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which food is beneficial for strengthening nails?",
+    "options": ["Sugar", "Protein", "Carbohydrates", "Fats"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "What should be done before applying nail polish on nails?",
+    "options": [
+      "Filling the nails",
+      "Buffing the nails",
+      "Applying a base coat",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which method can used to dry nail polish quickly?",
+    "options": [
+      "Dipping nails in warm water",
+      "Blowing cool air on the nails",
+      "Spraying hair spray on the nails",
+      "Using a nail dryer"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "What should be done to make nails long and strong?",
+    "options": [
+      "Trimming nails regularly",
+      "Eating a healthy diet",
+      "Mositurizing nails",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which tool is used to clean nails?",
+    "options": ["Nail clipper", "Nail file", "Cuticle pusher", "Nail brush"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which material is used for nail extensions?",
+    "options": ["Acrylic", "Gel", "Fiberglass", "All of the above"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which tools are used to create nail art on nails?",
+    "options": [
+      "Dotting tool",
+      "Striping tape",
+      "Nail brush",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which light is used to create gel polish on nails?",
+    "options": ["UV Lamp", "LED Lamp", "Sunlight", "Any Light"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which tool is used to remove cuticles on nails?",
+    "options": ["Nail clipper", "Nail file", "Cuticle pusher", "Nail brush"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which tool is used to buff nails?",
+    "options": ["Nail clipper", "Nail file", "Cuticle pusher", "Nail buffer"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "How often should makeup brushed be cleaned?",
+    "options": ["Daily", "Weekly", "Monthly", "Yearly"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "At what temprature should towels used in a beauty salon be washed?",
+    "options": ["30° Celcius", "60° Celcius", "90° Celcius", "120° Celcius"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "What precautions should be taken before cooring a client's hair?",
+    "options": [
+      "Patch test",
+      "Inquire about client's health",
+      "Wear gloves",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which items should be disposable for customers use in a beauty salon?",
+    "options": ["Towels", "Spoonges", "Nail files", "All of the above"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "What precautions should be taken to protect the customer from infection during beauty treatments?",
+    "options": [
+      "Sterilization of tools",
+      "Hand  hygiene",
+      "Cleanliness of workplace",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "What precautions should be taken to prevent fire in the salon?",
+    "options": [
+      "Install fire alarm",
+      "Keep fire extinguisher",
+      "Take care of electrical appliances",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "What should be done to avoid chemical burns?",
+    "options": [
+      "Read instructions before using chemicals",
+      "Wear gloves",
+      "Protect eyes",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Where should chemicals used in the salon be stored?",
+    "options": [
+      "Away from children",
+      "In a cool, dry place",
+      "With proper labeling",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "How should items used for customers be cleaned?",
+    "options": [
+      "With hot water and soap",
+      "With disinfectant",
+      "Drying properly",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "What arrangement should be made in the salon to reduce air pollution?",
+    "options": [
+      "Ventilation system",
+      "Air purifying plant",
+      "Air freshner",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which tool is used to straighten hair?",
+    "options": ["Hair dryer", "Curling iron", "Flat iron", "Hair brush"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which tools is used to remove facial hair?",
+    "options": ["Trimmer", "Tweezers", "Scissors", "Hair brush"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which tools is used for massage?",
+    "options": ["Massage bed", "Massage stone", "Massage oil", "Hair brush"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "How should makeup brushes be stored?",
+    "options": [
+      "In the open",
+      "In a plastic bag",
+      "In a brush holder",
+      "Any way"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which tool is used for skin cleansing?",
+    "options": [
+      "Face steamer",
+      "Face brush",
+      "Face massager",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which tool is used for hair cutting?",
+    "options": ["Hair dryer", "Scissors", "Clipper", "All of the above"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which tool is used to color hair?",
+    "options": ["Hair dryer", "Brush", "Bowl", "All of the above"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "Which tool is used to apply henna?",
+    "options": ["Cone", "Brush", "Stick", "All of the above"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dry"],
+    "questionText": "What is the most important quality for a beautician??",
+    "options": [
+      "Good communication",
+      "Creativity",
+      "Cleanliness",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  }
+]

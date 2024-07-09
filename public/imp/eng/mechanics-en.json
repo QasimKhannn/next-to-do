@@ -1,0 +1,644 @@
+[
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Newton"],
+    "questionText": "What is the unit of Force?",
+    "options": ["Newton", "Watt", "Joule", "Pascal"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Rotational effect of force"],
+    "questionText": "Torque is a measure of?",
+    "options": [
+      "Amount of force",
+      "Rotational effect of force",
+      "Distance of force",
+      "Angle of force"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Increase in force"],
+    "questionText": "What is Mechanical Advantage?",
+    "options": [
+      "Reduction in work",
+      "Increase in force",
+      "Increase in distance",
+      "Increase in speed of doing work"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Exhaust ,Power ,Compression ,Intake"],
+    "questionText": "What are the four strokes in the engine?",
+    "options": [
+      "Exhaust ,Power ,Compression ,Intake",
+      "Power ,Compression ,Exhaust ,Intake",
+      "Exhaust ,Intake ,Power ,Compression",
+      "Power ,Compression ,Intake ,Exhaust"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Wheel wrench"],
+    "questionText": "Which tool is used to open the wheels of a car?",
+    "options": ["Wrench", "Screwdriver", "Spark plug wrench", "Wheel wrench"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Dipstick"],
+    "questionText": "Which instrument is used to check engine oil level?",
+    "options": ["Dipstick", "Torque wrench", "Feeler gauge", "Hydrometer"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Battery charger"],
+    "questionText": "Which device is used to charge the vehicle battery?",
+    "options": ["Alternator", "Battery charger", "Starter motor", "Regulator"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["To rotate the crankshaft"],
+    "questionText": "What is the function of the piston in the engine?",
+    "options": [
+      "To burn fuel",
+      "To compress air",
+      "To rotate the crankshaft",
+      "To open and close valves"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["To mix fuel and air"],
+    "questionText": "What is the function of carburetor?",
+    "options": [
+      "To filter fuel",
+      "To mix fuel and air",
+      "To cool the engine",
+      "To lubricate the engine"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Movement of pistons and valves"],
+    "questionText": "What does the timing belt control?",
+    "options": [
+      "Movement of pistons and valves",
+      "Fuel injection timing",
+      "Engine temperature",
+      "Engine speed"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["To decrease or stop the speed of the vehicle"],
+    "questionText": "What is the main function of brake system (System Brake)?",
+    "options": [
+      "To increase the speed of the vehicle",
+      "To decrease or stop the speed of the vehicle",
+      "To change the direction of the vehicle",
+      "To cool the engine of the vehicle"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["To absorb shocks and provide a comfortable ride"],
+    "questionText": "What is the main function of the vehicle suspension system (System Suspension)?",
+    "options": [
+      "To provide fuel to the vehicle",
+      "To rotate the wheels of the vehicle",
+      "To absorb shocks and provide a comfortable ride",
+      "To change the direction of the vehicle"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["To transfer power from the engine to the wheels"],
+    "questionText": "What is the basic function of transmission system?",
+    "options": [
+      "To transfer power from the engine to the wheels",
+      "To start the vehicle",
+      "To provide electricity to the vehicle",
+      "To measure the speed of the vehicle"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["To cool the engine"],
+    "questionText": "What is the main function of cooling system (System Cooling).",
+    "options": [
+      "To lubricate the engine",
+      "To cool the engine",
+      "To provide fuel to the engine",
+      "To control engine speed"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["According to the manufacturer's instructions"],
+    "questionText": "When should engine oil be changed?",
+    "options": [
+      "Every 1000 kilometers",
+      "Every 5000 kilometers",
+      "Every 10000 kilometers",
+      "According to the manufacturer's instructions"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["According to the manufacturer's instructions"],
+    "questionText": "What should be the air pressure in car tires?",
+    "options": [
+      "PSI 10",
+      "PSI 20",
+      "PSI 30",
+      "According to the manufacturer's instructions"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "When should brake pads be replaced?",
+    "options": [
+      "When the brakes make noise",
+      "When the brakes take longer to stop the vehicle",
+      "When the brake pads become thin",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "If the engine does not start, what could be the possible cause?",
+    "options": [
+      "Dead battery",
+      "Faulty starter motor",
+      "Lack of fuel",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "If smoke is coming out of the car, what could be the possible cause?",
+    "options": [
+      "Burning engine oil",
+      "Burning transmission fluid",
+      "Coolant leak",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "If car tires are wearing out quickly, what could be the possible cause?",
+    "options": [
+      "Low tire pressure",
+      "Wheel alignment",
+      "Poor quality tires",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Refrigerant"],
+    "questionText": "Which gas is used in car air conditioning systems?",
+    "options": ["Carbon dioxide", "Nitrogen", "Refrigerant", "Oxygen"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["To cool the coolant"],
+    "questionText": "What is the function of a car radiator?",
+    "options": [
+      "To cool engine oil",
+      "To cool transmission fluid",
+      "To cool coolant",
+      "To cool the battery"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Sulfuric acid"],
+    "questionText": "Which acid is used in a car battery?",
+    "options": [
+      "Hydrochloric acid",
+      "Sulfuric acid",
+      "Nitric acid",
+      "Carbonic acid"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Exhaust"],
+    "questionText": "What causes a car engine to produce smoke after burning fuel?",
+    "options": ["Piston", "Spark plug", "Cylinder", "Exhaust"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Brake sign"],
+    "questionText": "What Warning sign appears when the car's brakes fail?",
+    "options": ["Engine sign", "Battery sign", "Brake sign", "Oil sign"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Spark plug"],
+    "questionText": "What ignites the fuel in a caar engine?",
+    "options": ["Piston", "Spark plug", "Cylinder", "Exhaust"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Transferring engine power to the wheels and controlling the car's speed"
+    ],
+    "questionText": "What is the function of a gearbox in a car?",
+    "options": [
+      "Starting the car",
+      "Increasing the car's speed",
+      "Changing the car's direction",
+      "Trasferring engine power to the wheels and controlling the car's speed"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Compression"],
+    "questionText": "What is used to ignie fuel in a diesel engine?",
+    "options": ["Spark plug", "Compression", "Carburetor", "Injector"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["To reduce engine noise"],
+    "questionText": "What is the function of a car silencer?",
+    "options": [
+      "To reduce engine noise",
+      "To cool the engine",
+      "To increase the car's speed",
+      "To change the car's direction"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "What information is written on the sidewall of a car tire?",
+    "options": [
+      "Tire size and load index",
+      "Tire manufacturing date",
+      "Tire pressure",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Carburetor or fuel injector"],
+    "questionText": "What causes the mixture of fuel and air in a car engine?",
+    "options": [
+      "Silencer",
+      "Carburetor or fuel injector",
+      "Battery",
+      "Radiator"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "Which part of the car needs to be replaced regularly?",
+    "options": ["Tires", "Air filter", "Brake pads", "All of the above"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Light brown or transparent"],
+    "questionText": "What color should the engine oil of a car be?",
+    "options": ["Black", "Red", "Light brown or transparent", "White"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Lead"],
+    "questionText": "Which metal coating is applied to the terminals of a car battery?",
+    "options": ["Gold", "Silver", "Copper", "Lead"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "Which gauge is used to check a certain aspect of the car engine?",
+    "options": [
+      "Fuel gauge",
+      "Temperature gauge",
+      "Pressure gauge",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Light yellow"],
+    "questionText": "What color should the brake fluid of a car be?",
+    "options": ["Black", "Red", "Light yellow", "Blue"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Spark plug"],
+    "questionText": "What cause the explosion of fuel in a car engine?",
+    "options": ["Piston", "Spark plug", "Cylinder", "Exhaust"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["To absorb shocks from the road"],
+    "questionText": "What is the function of a shock absorber in a car?",
+    "options": [
+      "To increase the car's speed",
+      "To absorb shocks from the road",
+      "To provide fuel to the car",
+      "To change the direction of the car"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Nitrogen"],
+    "questionText": "Which gas is usually filled inside car tires?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Helium"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Gear oil"],
+    "questionText": "What type of oil is used in a cat's transmission?",
+    "options": [
+      "Engine oil",
+      "Brake fluid",
+      "Gear oil",
+      "Power steering fluid"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Transmission"],
+    "questionText": "Which part of the car transfers the engine's motion to the wheels?",
+    "options": ["Brake", "Suspension", "Transmission", "Steering"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Oil pump"],
+    "questionText": "What helps pump oil in a car engines?",
+    "options": ["Water pump", "Oil pump", "Fuel pump", "Air pump"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Carburetor or fuel injector"],
+    "questionText": "What ensures the correct ratio of fuel and air in a car engine?",
+    "options": [
+      "Silencer",
+      "Carburetor or fuel injector",
+      "Battery",
+      "Radiator"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Friction material"],
+    "questionText": "What are brake pads made of?",
+    "options": ["Rubber", "Steel", "Friction material", "Plastic"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Lead and antimony"],
+    "questionText": "Which metals are used in a car battery?",
+    "options": [
+      "Lead and antimony",
+      "Copper and aluminum",
+      "Iron and nickel",
+      "Silver and gold"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Refrigerant"],
+    "questionText": "Which gas is used in car air conditioning systems?",
+    "options": ["Carbon dioxide", "Nitrogen", "Refrigerant", "Oxygen"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Brake booster"],
+    "questionText": "What helps increase the force applied to the brake pedal in a car?",
+    "options": [
+      "Brake lines",
+      "Brake drums",
+      "Brake booster",
+      "Master cylinder"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Cylinder"],
+    "questionText": "In which part of the car engine does the mixture of fuel and air burn to create energy?",
+    "options": ["Cylinder", "Crankshaft", "Piston", "Valves"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Spark plug"],
+    "questionText": "What in a  car engine creates the spark that ignites the fuel?",
+    "options": ["Battery", "Starter motor", "Alternator", "Spark plug"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Compression"],
+    "questionText": "What is used to iginite fuel in a diesel engine?",
+    "options": ["Spark plug", "Compression", "Carburetor", "Injector"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  }
+]

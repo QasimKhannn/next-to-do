@@ -4,6 +4,8 @@ import { db } from "@/lib/db";
 
 import { SendForm } from "./_components/send-form";
 import Languages from "./_components/languages";
+import CsvDownloadButton from "./_components/download-csv";
+import urduData from "@/public/imp/urd/beautician-ur.json";
 
 const ToDoList = async () => {
   const engData = await db.question.findMany({
@@ -25,6 +27,12 @@ const ToDoList = async () => {
       <Separator />
       <SendForm data={recepients} />
       {/* <Languages engData={engData} urdData={urdData} /> */}
+      <CsvDownloadButton
+        data={urduData}
+        filename="beautician-ur.csv"
+        delimiter=","
+        headers={Object.keys(urduData[0])} // Replace with your actual headers
+      />
     </div>
   );
 };

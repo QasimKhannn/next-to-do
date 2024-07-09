@@ -1,0 +1,617 @@
+[
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["خشک"],
+    "questionText": "جلد کی کون سی قسم خشک اور کھردری ہوتی ہے؟",
+    "options": ["نارمل", " خشک", "چکنی", "ملی جلی "],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["کلینزر سے صاف کرنا"],
+    "questionText": "جلد کو صاف کرنے کے لیے کون سا طریقہ بہتر ہے؟",
+    "options": [
+      "صابن سے دھونا",
+      " کلینزر سے صاف کرنا",
+      "ٹونر سے صاف کرنا",
+      "پانی سے دھونا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["سن اسکرین"],
+    "questionText": "جلد پر سورج کی نقصان دہ شعاعوں سے بچنے کے لیے کیا استعمال کرنا چاہیے؟",
+    "options": ["فیس واش", "موئسچرائزر", "سن اسکرین", "فیس ماسک"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["دن میں دو بار دھونا"],
+    "questionText": "کیل مہاسوں سے بچنے کے لیے جلد کو کس طرح صاف رکھنا چاہیے؟",
+    "options": [
+      "دن میں ایک بار دھونا",
+      "دن میں دو بار دھونا",
+      "میک اپ کے ساتھ سونا",
+      "چکنی غذا کھانا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["موئسچرائزر"],
+    "questionText": "جلد کی نمی برقرار رکھنے کے لیے کیا استعمال کرنا چاہیے؟",
+    "options": ["فیس واش", "ٹونر", "اسکرب", "موئسچرائزر"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["چکنی"],
+    "questionText": "بالوں کی کون سی قسم زیادہ تیل پیدا کرتی ہے؟",
+    "options": ["نارمل", "خشک", "چکنی", "گھنگریالے"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["اینٹی ڈینڈرف شیمپو"],
+    "questionText": "بالوں میں خشکی سے بچنے کے لیے کون سا شیمپو استعمال کرنا چاہیے؟",
+    "options": [
+      "اینٹی ڈینڈرف شیمپو",
+      "والیوم شیمپو",
+      "کلر پروٹیکٹ شیمپو",
+      "کوئی بھی شیمپو"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["بالوں کی جڑوں سے شروع کرکے کنگھی کرنا"],
+    "questionText": "بالوں کو کنگھی کرنے کا صحیح طریقہ کیا ہے؟",
+    "options": [
+      "گیلے بالوں میں کنگھی کرنا",
+      "خشک بالوں میں کنگھی کرنا",
+      "بالوں کی جڑوں سے شروع کرکے کنگھی کرنا",
+      "بالوں کے سروں سے شروع کرکے کنگھی کرنا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["الرجی ٹیسٹ کرنا"],
+    "questionText": "بالوں کو رنگ کرنے سے پہلے کیا کرنا چاہیے؟",
+    "options": [
+      "بالوں کو اچھی طرح دھونا",
+      "بالوں میں تیل لگانا",
+      "الرجی ٹیسٹ کرنا",
+      "بالوں کو خشک کرنا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["ناریل کا تیل"],
+    "questionText": "بالوں کو مضبوط بنانے کے لیے کون سا تیل استعمال کرنا چاہیے؟",
+    "options": ["ناریل کا تیل", "زیتون کا تیل", "بادام کا تیل", "سرسوں کا تیل"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["جلد کے رنگ سے بالکل مماثل"],
+    "questionText": "فاؤنڈیشن کا کون سا شیڈ جلد کے رنگ سے میل کھاتا ہے؟",
+    "options": [
+      "جلد سے ایک شیڈ گہرا",
+      "جلد سے ایک شیڈ ہلکا",
+      "جلد کے رنگ سے بالکل مماثل",
+      "کوئی بھی شیڈ"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["فاونڈیشن"],
+    "questionText": "چہرے کو ہموار اور بے عیب بنانے کے لیے کون سا میک اپ پروڈکٹ استعمال ہوتا ہے؟",
+    "options": ["بلش آن", "فاونڈیشن", "لپ اسٹک", "آئی شیڈو"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["مسکارا"],
+    "questionText": "آنکھوں کو نمایاں کرنے کے لیے کون سا میک اپ پروڈکٹ استعمال ہوتا ہے؟",
+    "options": ["مسکارا", "کنسیلر", "برونزر", "پرائمر"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["لپ اسٹک"],
+    "questionText": "ہونٹوں کو رنگ دینے اور ان کی شکل کو بہتر بنانے کے لیے کون سا میک اپ پروڈکٹ استعمال ہوتا ہے؟",
+    "options": ["بلش آن", "آئی لائنر", "لپ اسٹک", "ہائی لائٹر"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["برونزر اور ہائی لائٹر"],
+    "questionText": "چہرے کے نقوش کو نمایاں کرنے کے لیے کون سا میک اپ پروڈکٹ استعمال ہوتا ہے؟",
+    "options": ["کنسیلر", "برونزر اور ہائی لائٹر", "پرائمر", "فاونڈیشن"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["کنسیلر"],
+    "questionText": "آنکھوں کے گرد سیاہ حلقوں کو چھپانے کے لیے کون سا میک اپ پروڈکٹ استعمال ہوتا ہے؟",
+    "options": ["بلش آن", "مسکارا", "کنسیلر", "پرائمر"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["موئسچرائزر"],
+    "questionText": "میک اپ کرنے سے پہلے چہرے پر کیا لگانا چاہیے؟",
+    "options": ["موئسچرائزر", "فاونڈیشن", "پاؤڈر", "کنسیلر"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["سیٹنگ پاؤڈر یا سپرے"],
+    "questionText": "میک اپ کو پائیدار بنانے کے لیے کیا استعمال کرنا چاہیے؟",
+    "options": [
+      "میک اپ ریموور",
+      "فیس واش",
+      "سیٹنگ پاؤڈر یا سپرے",
+      "موئسچرائزر"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["صابن والا پانی"],
+    "questionText": "میک اپ برشوں کی صفائی کے لیے کون سا محلول استعمال کرنا چاہیے؟",
+    "options": ["صابن والا پانی", "الکوحل", "بلیچ", "سرکہ"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["میک اپ ریموور"],
+    "questionText": "آنکھوں کے میک اپ کو صاف کرنے کے لیے کون سا پروڈکٹ استعمال کرنا چاہیے؟",
+    "options": ["فیس واش", "صابن", "میک اپ ریموور", "ٹونر"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["پروٹین"],
+    "questionText": "ناخنوں کو مضبوط بنانے کے لیے کون سی غذا مفید ہے؟",
+    "options": ["چینی", "پروٹین", "چکنائی", "کاربوہائیڈریٹ"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "ناخنوں پر نیل پالش لگانے سے پہلے کیا کرنا چاہیے؟",
+    "options": [
+      "ناخنوں کو فائل کرنا",
+      "ناخنوں کو پالش کرنا",
+      "بیس کوٹ لگانا",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["نیل ڈرائر استعمال کرنا"],
+    "questionText": "نیل پالش کو جلدی خشک کرنے کے لیے کون سا طریقہ استعمال کیا جا سکتا ہے؟",
+    "options": [
+      "ناخنوں کو گرم پانی میں ڈبونا",
+      "ناخنوں پر ٹھنڈی ہوا چلانا",
+      "ناخنوں پر ہیئر سپری چھڑکنا",
+      "نیل ڈرائر استعمال کرنا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "ناخنوں کو لمبا اور مضبوط بنانے کے لیے کیا کرنا چاہیے؟",
+    "options": [
+      "ناخنوں کو باقاعدگی سے تراشنا",
+      "صحت مند غذا کھانا",
+      "ناخنوں کو نمی پہنچانا",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["نیل برش"],
+    "questionText": "ناخنوں کی صفائی کے لیے کون سا آلہ استعمال ہوتا ہے؟",
+    "options": ["نیل کلپر", "نیل فائل", "کیوٹیکل پشر", "نیل برش"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "نیل ایکسٹینشنز کے لیے کون سا مواد استعمال ہوتا ہے؟",
+    "options": ["ایکریلک", "جیل", "فائبر گلاس", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "ناخنوں پر نیل آرٹ بنانے کے لیے کون سے آلے استعمال ہوتے ہیں؟ (Which tools are used to create nail art on nails?)",
+    "options": [
+      "ڈاٹنگ ٹول (Dotting tool)",
+      "اسٹریپنگ ٹیپ (Striping tape)",
+      "نیل برش (Nail brush)",
+      "یہ سب (All of the above)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یو وی لیمپ"],
+    "questionText": "ناخنوں پر جیل پالش کو خشک کرنے کے لیے کون سی روشنی استعمال ہوتی ہے؟ (Which light is used to cure gel polish on nails?)",
+    "options": [
+      "یو وی لیمپ (UV lamp)",
+      "ایل ای ڈی لیمپ (LED lamp)",
+      "سورج کی روشنی (Sunlight)",
+      "کوئی بھی روشنی (Any light)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["کیوٹیکل پشر"],
+    "questionText": "ناخنوں پر کیوٹیکل کو ہٹانے کے لیے کون سا آلہ استعمال ہوتا ہے؟ (Which tool is used to remove cuticles on nails?)",
+    "options": [
+      "نیل کلپر (Nail clipper)",
+      "نیل فائل (Nail file)",
+      "کیوٹیکل پشر (Cuticle pusher)",
+      "نیل برش (Nail brush)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["نیل بفر"],
+    "questionText": "ناخنوں کو پالش کرنے کے لیے کون سا آلہ استعمال ہوتا ہے؟ (Which tool is used to buff nails?)",
+    "options": [
+      "نیل کلپر (Nail clipper)",
+      "نیل فائل (Nail file)",
+      "کیوٹیکل پشر (Cuticle pusher)",
+      "نیل بفر (Nail buffer)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["ہفتہ وار"],
+    "questionText": "میک اپ برشوں کو کتنے عرصے بعد صاف کرنا چاہیے؟ (How often should makeup brushes be cleaned?) ",
+    "options": [
+      "روزانہ (Daily)",
+      "ہفتہ وار (Weekly)",
+      "ماہانہ (Monthly)",
+      "سالانہ (Yearly)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["90\u00b0 سیلسی\u00ebس"],
+    "questionText": "بیوٹی سیلون میں استعمال ہونے والے تولیوں کو کتنے درجہ حرارت پر دھونا چاہیے؟ (At what temperature should towels used in a beauty salon be washed?)",
+    "options": [
+      "30\u00b0 سیلسی\u00ebس",
+      "60\u00b0 سیلسی\u00ebس",
+      "90\u00b0 سیلسی\u00ebس",
+      "120\u00b0 سیلسی\u00ebس"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کسٹمر کے بالوں کو رنگ کرنے سے پہلے کون سی احتیاطی تدابیر اختیار کرنی چاہئیں؟ (What precautions should be taken before coloring a client's hair?)",
+    "options": [
+      "پیچ ٹیسٹ کرنا",
+      "کسٹمر کی طبیعت دریافت کرنا",
+      "دستانے پہننا",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "بیوٹی سیلون میں کسٹمر کے استعمال کے لیے کون سی چیزیں ڈسپوزیبل ہونی چاہئیں؟ (Which items should be disposable for customer use in a beauty salon?)",
+    "options": ["تولیے", "اسپنج", "نیل فائلز", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "بیوٹی ٹریٹمنٹ کے دوران کسٹمر کو کون سے انفیکشن سے بچانے کے لیے احتیاط کرنی چاہیے؟ (What precautions should be taken to protect the customer from infection during beauty treatments?)",
+    "options": [
+      "اوزاروں کی صفائی",
+      "ہاتھوں کی صفائی",
+      "کام کرنے کی جگہ کی صفائی",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "سیلون میں آگ سے بچاؤ کے لیے کون سی احتیاطی تدابیر اختیار کرنی چاہئیں؟ (What precautions should be taken to prevent fire in the salon?)",
+    "options": [
+      "فائر الارم لگانا",
+      "فائر ایکسٹینگوئشر رکھنا",
+      "بجلی کے آلات کا خیال رکھنا",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کیمیکل سے ہونے والی جلن سے بچنے کے لیے کیا کرنا چاہیے؟ (What should be done to avoid chemical burns?)",
+    "options": [
+      "کیمیکل استعمال کرنے سے پہلے ہدایات پڑھیں",
+      "دستانے پہنیں",
+      "آنکھوں کا خیال رکھیں",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "سیلون میں استعمال ہونے والے کیمیکلز کو کہاں محفوظ رکھنا چاہیے؟ (Where should chemicals used in the salon be stored?)",
+    "options": [
+      "بچوں کی پہنچ سے دور",
+      "ٹھنڈی اور خشک جگہ پر",
+      "لیبل لگا کر",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کسٹمر کے لیے استعمال ہونے والی اشیاء کو کس طرح صاف کرنا چاہیے؟ (How should items used for customers be cleaned?)",
+    "options": [
+      "گرم پانی اور صابن سے",
+      "ڈس انفیکٹنٹ سے",
+      "مناسب طریقے سے خشک کرنا",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "فضائی آلودگی کو کم کرنے کے لیے سیلون میں کیا انتظام ہونا چاہیے؟ (What arrangements should be made in the salon to reduce air pollution?)",
+    "options": [
+      "وینٹیلیشن سسٹم",
+      "ہوا صاف کرنے والا پلانٹ",
+      "ایئر فریشنر",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["فلیٹ آئرن"],
+    "questionText": "بالوں کو سیدھا کرنے کے لیے کون سا آلہ استعمال ہوتا ہے؟ (Which tool is used to straighten hair?) ",
+    "options": ["ہیئر ڈرائر", "کرلنگ آئرن", "فلیٹ آئرن", "ہیئر برش"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["کرلنگ آئرن"],
+    "questionText": "بالوں کو گھنگریالا بنانے کے لیے کون سا آلہ استعمال ہوتا ہے؟ (Which tool is used to curl hair?)",
+    "options": ["ہیئر ڈرائر", "کرلنگ آئرن", "فلیٹ آئرن", "ہیئر برش"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "چہرے کے بالوں کو ہٹانے کے لیے کون سا آلہ استعمال ہوتا ہے؟ (Which tool is used to remove facial hair?)",
+    "options": ["ٹریمر", "قینچی", "ٹویزر", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "مساج کے لیے کون سا آلہ استعمال ہوتا ہے؟ (Which tool is used for massage?)",
+    "options": ["مساج بیڈ", "مساج آئل", "مساج اسٹون", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["برش ہولڈر میں"],
+    "questionText": "میک اپ برشوں کو کس طرح صاف رکھنا چاہیے؟ (How should makeup brushes be stored?)",
+    "options": ["کھلے میں", "پلاسٹک بیگ میں", "برش ہولڈر میں", "کسی بھی طرح"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "جلد کی صفائی کے لیے کون سا آلہ استعمال ہوتا ہے؟ (Which tool is used for skin cleansing?)",
+    "options": ["فیس اسٹیمر", "فیس برش", "فیس مساجر", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "بالوں کی کٹنگ کے لیے کون سا آلہ استعمال ہوتا ہے؟ (Which tool is used for hair cutting?)",
+    "options": ["ہیئر ڈرائر", "قینچی", "کلپر", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "بالوں کو رنگنے کے لیے کون سا آلہ استعمال ہوتا ہے؟ (Which tool is used to color hair?)",
+    "options": ["ہیئر ڈرائر", "برش", "کٹورا", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "مہندی لگانے کے لیے کون سا آلہ استعمال ہوتا ہے؟ (Which tool is used to apply henna?)",
+    "options": ["کون", "برش", "اسٹک", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ تمام"],
+    "questionText": "بیوٹیشن کے لیے سب سے اہم خوبی کیا ہے؟ (What is the most important quality for a beautician?) ",
+    "options": ["اچھی گفتگو", "تخلیقی صلاحیت", "صفائی ستھرائی", "یہ تمام"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  }
+]

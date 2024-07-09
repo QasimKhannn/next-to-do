@@ -1,0 +1,646 @@
+[
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Scissors"],
+    "questionText": "Which tool is used for cutting fabric?",
+    "options": ["Needle", "Thread", "Scissors", "Inch tape"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Feed dog"],
+    "questionText": "Which part of the sewing machine moves the fabric?",
+    "options": ["Presser foot", "Feed dog", "Bobbin", "Needle"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Overlock stitch"],
+    "questionText": "Which type of stitch is used to finish fabric edges?",
+    "options": [
+      "Straight stitch",
+      "Zigzag stitch",
+      "Overlock stitch",
+      "Buttonhole stitch"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Buttonhole stitch"],
+    "questionText": "Which stitch is used to attach buttons to fabric?",
+    "options": [
+      "Straight stitch",
+      "Zigzag stitch",
+      "Overlock stitch",
+      "Buttonhole stitch"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Inch tape"],
+    "questionText": "Which tool is used to measure fabric?",
+    "options": ["Scissors", "Needle", "Inch tape", "Chalk"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Cotton"],
+    "questionText": "Which type of fabric is suitable for summmer fabric?",
+    "options": ["Wool", "Cotton", "Silk", "Velvet"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Cotton thread"],
+    "questionText": "Which thread is suitable for cotton fabric?",
+    "options": [
+      "Nulon thread",
+      "Polyester thread",
+      "Cotton thread",
+      "Silk thread"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Chalk"],
+    "questionText": "What is used to mark fabric?",
+    "options": ["Pencil", "Marker", "Chalk", "Ballpoint pen"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Depends on the fabric type"],
+    "questionText": "Which temperature is suitable for ironing clothes?",
+    "options": ["Low", "Medium", "High", "Depends on the fabric type"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "Which type of fabric should be dry cleaned?",
+    "options": ["Cotton", "Wool", "Silk", "All of the above"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Pattern making"],
+    "questionText": "What is the process of transferring a clothing design onto paper called?",
+    "options": ["Cutting", "Sewing", "Pattern making", "Fitting"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Alteraion"],
+    "questionText": "What is the process of making changes to a clothing design called?",
+    "options": ["Drafting", "Grading", "Alteration", "Finishing"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Block pattern"],
+    "questionText": "Which type of pattern is made according to body measurements?",
+    "options": [
+      "Block pattern",
+      "Flat pattern",
+      "Design pattern",
+      "Working pattern"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "What is used to check the fitting oaf a garment?",
+    "options": ["Inch tape", "Dress form", "Mirror", "All of the above"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "Which elements are used to create balance in a clothing design?",
+    "options": ["Color", "Line", "Shape", "All of the above"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Shank"],
+    "questionText": "What is the lower part of the sewing machine needle called?",
+    "options": ["Point", "Shank", "Eye", "Butt"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Take-up lever"],
+    "questionText": "Which part of the sewing machine pulls the thread?",
+    "options": ["Presure foot", "Take-up lever", "Bobbin case", "Feed dog"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["titch length regulator"],
+    "questionText": "What part of the sewing machine controls the stitch length?",
+    "options": [
+      "Stitch length regulator",
+      "Tension dial",
+      "Pressyte foot lever",
+      "Reverse button"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Needle bar"],
+    "questionText": "Which part of the sewing machine moves the needle up and down?",
+    "options": ["Pressure foot", "Feef dog", "Bobbin case", "Needle bar"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "Which type of thread problem in a sewing machine requires tension adjustment to fix?",
+    "options": [
+      "Thread breakage",
+      "Thread jamming",
+      "Looping stitches",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "Which things should be kept in mind while taking measurments from a customer?",
+    "options": [
+      "Customer should be standing in a relaxed position",
+      "Inch tape should be wrapped firmly around the body",
+      "Keep communicating witht the cutomer during measurement",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "What should be done to understand the customer's preferences and needs?",
+    "options": [
+      "Ask questions",
+      "Show samples",
+      "Listen to their opinion",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "How should a customer be greeted?",
+    "options": [
+      "With a smile",
+      "With a greeting",
+      "By calling their name",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "How should customer complaints be handled?",
+    "options": [
+      "Listen patiently",
+      "Try to understand the problem",
+      "Offer a solution",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "How should a customer be bid farewell?",
+    "options": [
+      "Thank them",
+      "Invite them to come again",
+      "Ask for their feedback",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Customer satisfaction"],
+    "questionText": "What is the most important thing in customer service?",
+    "options": [
+      "Customer satisfaction",
+      "Increasing sales",
+      "Earning profit",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "What should be avoided during customer service?",
+    "options": ["Arguing", "Lying", "Breaking promises", "All of the above"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "How should a customer be satisfied with your work?",
+    "options": [
+      "Dong good quality work",
+      "Completing work on time",
+      "Following customer instructions",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Simple and easy language"],
+    "questionText": "Which language should be used to understand the customer's needs?",
+    "options": [
+      "Simple and easy language",
+      "Technical language",
+      "English language",
+      "Customer's language"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "What kind of attitude should be kept with the customer?",
+    "options": ["Fiendly", "Professional", "Helpful", "All of the above"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "What things are necessary for a successful tailoring business?",
+    "options": ["Skill", "Capital", "Marketing", "All of the above"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "What Sould be done to make a profit in business?",
+    "options": [
+      "Reduce expenses",
+      "Increase sales",
+      "Keep cutomers satisfied",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "What marketing method is better for a new tailoring business?",
+    "options": [
+      "Social media",
+      "Newspaper advertisement",
+      "Teling friends and relatives",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "What things can be challenging in a tailoring business?",
+    "options": [
+      "competition",
+      "Changing fashion",
+      "Economic conditions",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "Why is it important to keep customer data secure in business?",
+    "options": [
+      "To build trust",
+      "To meet legal requirements",
+      "To protect cutomer privacy",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of these colors"],
+    "questionText": "Which color is in fasshion this year?",
+    "options": ["Red", "Yellow", "Blue", "All of these colors"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of these designs"],
+    "questionText": "Which clothing design is in fashion this year?",
+    "options": [
+      "Long frocks",
+      "Short shirts",
+      "Flared pants",
+      "All of these designs"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "How can one know about fashion trends?",
+    "options": [
+      "By reading fashion magazines",
+      "By watching fashion shows",
+      "By following fashion bloggers on social media",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "How can one make their style unique in fashion?",
+    "options": [
+      "By wearing clothes according to your body shape",
+      "By experimenting with different colors and patterns",
+      "By waring clothes with confidence",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Cloth fitting"],
+    "questionText": "What is given the most importance in tailoring?",
+    "options": [
+      "Cloth design",
+      "Customer prefernce",
+      "Cloth fitting",
+      "Sewing speed"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "How can one know about fashion trends?",
+    "options": [
+      "By reading fashion magazines",
+      "By watching fashion shows",
+      "By following fashion bloggers on social media",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "Which celebrities influence fashion trends?",
+    "options": ["Actors", "Singers", "Models", "All of the above"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "What are the different styles of traditional Pakistani clothing?",
+    "options": ["Shalwar kameez", "Lehenga", "Saree", "All of the above"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "What are the different styles of western clothing?",
+    "options": ["Jeans and t-shirt", "Suit", "Skirt", "All of the above"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "How can the quality of clothes be recognized?",
+    "options": [
+      "Weight of the fabric",
+      "Neatness of stitching",
+      "Fabric texture",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "What methods are used for garment care?",
+    "options": ["Washing", "Ironing", "Dry cleaning", "All of the above"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "How are eco-friendly practices being adopted in the fashion industry?",
+    "options": [
+      "Use of organic fabrics",
+      "Water conservation",
+      "Recycling",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "How can you make your clothes last longer?",
+    "options": [
+      "Wash them carefully",
+      "Store them properly",
+      "Repair them when needed",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "How can a good tailor advise their cutomers?",
+    "options": [
+      "By helping them choose clothes according to their body shape",
+      "By informing them about fashion trends",
+      "By advicing them on garment care",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["All of the above"],
+    "questionText": "What is the most important quality for a tailor?",
+    "options": [
+      "Creativity",
+      "Skill in sewing",
+      "Patience",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  }
+]
