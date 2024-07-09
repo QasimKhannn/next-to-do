@@ -1,0 +1,26 @@
+[
+  {
+    "correctAnswer": ["Dry"],
+    "questionText": "Which skin type is dry and rough?",
+    "options": ["Normal", "Dry", "Oily", "Combination"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "correctAnswer": ["Dry"],
+    "questionText": "Which skin type is dry and rough?",
+    "options": ["Normal", "Dry", "Oily", "Combination"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "correctAnswer": ["Dry"],
+    "questionText": "Which skin type is dry and rough?",
+    "options": ["Normal", "Dry", "Oily", "Combination"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  }
+]

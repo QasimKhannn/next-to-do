@@ -22,3 +22,86 @@ model List {
   description String
   finished    Boolean? @default(false)
 }
+
+enum UserRole {
+  SUPER_ADMIN
+  BASIC
+}
+
+enum UserGender {
+  MALE
+  FEMALE
+}
+
+enum lang {
+  URDU
+  ENGLISH
+}
+
+enum QuestionLanguage {
+  TEXT
+  JSON
+  HTML
+  CSS
+  JAVASCRIPT
+  TYPESCRIPT
+  JAVA
+  C
+  PHP
+  REACT
+  NODE
+  PYTHON
+}
+
+enum QuestionDifficulty {
+  BEGINNER
+  INTERMEDIATE
+  EXPERT
+}
+
+enum QuestionStatus {
+  NOT_ATTEMPTED
+  READY_TO_TEST
+  TEST_1_COMPLETE
+  TEST_2_COMPLETE
+  TEST_3_COMPLETE
+  TEST_4_COMPLETE
+  TEST_5_COMPLETE
+  PASS
+  RE_TAKE
+  FAIL
+}
+
+enum TestStatus {
+  NOT_TAKEN
+  PASS
+  RE_TAKE
+  FAIL
+}
+
+enum QuestionType {
+  MULTIPLE_CHOICE
+  CODING
+  BOOLEAN
+}
+
+model Question {
+  id            String             @id @default(uuid()) @map("id")
+  correctAnswer Json
+  codeSnippet   Json?
+  lang          lang               @default(ENGLISH)
+  difficulty    QuestionDifficulty @default(BEGINNER)
+  questionText  String             @db.Text
+  options       Json
+  questionType  QuestionType       @default(MULTIPLE_CHOICE)
+  optionsType   QuestionType       @default(MULTIPLE_CHOICE)
+  language      QuestionLanguage   @default(TEXT)
+  createdAt     DateTime           @default(now())
+  updatedAt     DateTime           @updatedAt
+}
+
+model Recipients {
+  id     String @id @default(cuid())
+  name   String
+  number String
+}

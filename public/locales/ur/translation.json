@@ -1,0 +1,26 @@
+[
+  {
+    "correctAnswer": ["خشک"],
+    "questionText": "جلد کی کون سی قسم خشک اور کھردری ہوتی ہے؟",
+    "options": ["نارمل", " خشک", "چکنی", "ملی جلی "],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "correctAnswer": ["خشک"],
+    "questionText": "جلد کی کون سی قسم خشک اور کھردری ہوتی ہے؟",
+    "options": ["نارمل", " خشک", "چکنی", "ملی جلی "],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "correctAnswer": ["خشک"],
+    "questionText": "جلد کی کون سی قسم خشک اور کھردری ہوتی ہے؟",
+    "options": ["نارمل", " خشک", "چکنی", "ملی جلی "],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  }
+]
