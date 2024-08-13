@@ -1,0 +1,3266 @@
+[
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "shared_preferences"
+    ],
+    "questionText": "Which package do you need to add in pubspec.yaml to use SharedPreferences?",
+    "options": [
+      "shared_prefs",
+      "shared_preferences",
+      "prefs",
+      "preferences"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "SharedPreferences.getInstance()"
+    ],
+    "questionText": "How do you initialize SharedPreferences in Flutter?",
+    "options": [
+      "SharedPreferences.getInstance()",
+      "SharedPreferences.initialize()",
+      "SharedPreferences.start()",
+      "SharedPreferences.init()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "setInt()"
+    ],
+    "questionText": "Which method is used to save an integer value in SharedPreferences?",
+    "options": [
+      "putInt()",
+      "setInt()",
+      "saveInt()",
+      "storeInt()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "getString()"
+    ],
+    "questionText": "Which method retrieves a string value from SharedPreferences?",
+    "options": [
+      "getString()",
+      "fetchString()",
+      "retrieveString()",
+      "loadString()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "prefs.remove(key)"
+    ],
+    "questionText": "How do you remove a value from SharedPreferences?",
+    "options": [
+      "prefs.remove(key)",
+      "prefs.delete(key)",
+      "prefs.erase(key)",
+      "prefs.clear(key)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Removes all key-value pairs"
+    ],
+    "questionText": "What does prefs.clear() do?",
+    "options": [
+      "Removes a specific key-value pair",
+      "Removes all key-value pairs",
+      "Resets SharedPreferences",
+      "Deletes the SharedPreferences file"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Persistent storage of simple data"
+    ],
+    "questionText": "SharedPreferences in Flutter is primarily used for:",
+    "options": [
+      "Complex data storage",
+      "Persistent storage of simple data",
+      "Temporary storage of data",
+      "Backend data storage"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Strings, integers, booleans, doubles, and string lists"
+    ],
+    "questionText": "What type of data can you store in SharedPreferences?",
+    "options": [
+      "Only strings",
+      "Only integers",
+      "Strings, integers, booleans, doubles, and string lists",
+      "Any type of object"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "getBool()"
+    ],
+    "questionText": "Which method retrieves a boolean value from SharedPreferences?",
+    "options": [
+      "getBool()",
+      "fetchBool()",
+      "retrieveBool()",
+      "loadBool()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "setStringList()"
+    ],
+    "questionText": "How do you store a list of strings in SharedPreferences?",
+    "options": [
+      "putStringList()",
+      "setStringList()",
+      "saveStringList()",
+      "storeStringList()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "setDouble()"
+    ],
+    "questionText": "Which method is used to save a double value in SharedPreferences?",
+    "options": [
+      "putDouble()",
+      "setDouble()",
+      "saveDouble()",
+      "storeDouble()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "getInt()"
+    ],
+    "questionText": "How do you retrieve an integer value from SharedPreferences?",
+    "options": [
+      "getInt()",
+      "fetchInt()",
+      "retrieveInt()",
+      "loadInt()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "null"
+    ],
+    "questionText": "What is the default value returned by prefs.getInt(key) if the key does not exist?",
+    "options": [
+      "0",
+      "-1",
+      "null",
+      "0.0"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "prefs.containsKey(key)"
+    ],
+    "questionText": "Which method is used to check if a key exists in SharedPreferences?",
+    "options": [
+      "prefs.exists(key)",
+      "prefs.contains(key)",
+      "prefs.has(key)",
+      "prefs.containsKey(key)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Save data synchronously"
+    ],
+    "questionText": "What is the purpose of prefs.commit() in SharedPreferences?",
+    "options": [
+      "Save data asynchronously",
+      "Save data synchronously",
+      "Retrieve data synchronously",
+      "Retrieve data asynchronously"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "getStringList()"
+    ],
+    "questionText": "Which method is used to retrieve a list of strings from SharedPreferences?",
+    "options": [
+      "getStringList()",
+      "fetchStringList()",
+      "retrieveStringList()",
+      "loadStringList()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "setBool()"
+    ],
+    "questionText": "How do you save a boolean value in SharedPreferences?",
+    "options": [
+      "putBool()",
+      "setBool()",
+      "saveBool()",
+      "storeBool()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "getDouble()"
+    ],
+    "questionText": "Which method is used to retrieve a double value from SharedPreferences?",
+    "options": [
+      "getDouble()",
+      "fetchDouble()",
+      "retrieveDouble()",
+      "loadDouble()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "null"
+    ],
+    "questionText": "What will prefs.getBool(key) return if the key does not exist?",
+    "options": [
+      "false",
+      "true",
+      "null",
+      "0"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Yes, after converting to JSON string"
+    ],
+    "questionText": "Is it possible to store objects in SharedPreferences?",
+    "options": [
+      "Yes, directly",
+      "No",
+      "Yes, after converting to JSON string",
+      "Yes, after converting to binary"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Retrieves all key-value pairs"
+    ],
+    "questionText": "What does the prefs.getAll() method do?",
+    "options": [
+      "Retrieves all keys",
+      "Retrieves all key-value pairs",
+      "Retrieves all values",
+      "Retrieves all boolean values"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By using prefs.commit()"
+    ],
+    "questionText": "How do you ensure data consistency in SharedPreferences?",
+    "options": [
+      "By using prefs.commit()",
+      "By using prefs.apply()",
+      "By using prefs.save()",
+      "By using prefs.sync()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Small amounts of data"
+    ],
+    "questionText": "SharedPreferences are suitable for storing:",
+    "options": [
+      "User credentials",
+      "Large files",
+      "Small amounts of data",
+      "Images"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Map"
+    ],
+    "questionText": "What type of data structure does SharedPreferences use to store data?",
+    "options": [
+      "Array",
+      "Map",
+      "List",
+      "Queue"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "prefs.getDouble(key) ?? defaultValue"
+    ],
+    "questionText": "How do you retrieve a double value with a default in SharedPreferences?",
+    "options": [
+      "prefs.getDouble(key, defaultValue)",
+      "prefs.getDoubleWithDefault(key, defaultValue)",
+      "prefs.getDouble(key) ?? defaultValue",
+      "prefs.fetchDouble(key, defaultValue)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "prefs.apply()"
+    ],
+    "questionText": "Which method saves data asynchronously in SharedPreferences?",
+    "options": [
+      "prefs.apply()",
+      "prefs.commit()",
+      "prefs.saveAsync()",
+      "prefs.save()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "null"
+    ],
+    "questionText": "What is the return type of prefs.getInt(key) when the key is not found?",
+    "options": [
+      "int",
+      "null",
+      "double",
+      "String"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Internal storage"
+    ],
+    "questionText": "SharedPreferences data is stored in:",
+    "options": [
+      "Internal storage",
+      "External storage",
+      "Cloud storage",
+      "Temporary storage"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Directly set a new value with the same key"
+    ],
+    "questionText": "How do you update a value in SharedPreferences?",
+    "options": [
+      "Remove and then add the value",
+      "Directly set a new value with the same key",
+      "Clear all data and then add the value",
+      "Restart the app and add the value"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "4 KB"
+    ],
+    "questionText": "What is the maximum size limit for data stored in SharedPreferences?",
+    "options": [
+      "1 MB",
+      "2 MB",
+      "4 KB",
+      "16 MB"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "prefs.commit()"
+    ],
+    "questionText": "Which method is used to store data synchronously in SharedPreferences?",
+    "options": [
+      "prefs.apply()",
+      "prefs.commit()",
+      "prefs.store()",
+      "prefs.save()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "null"
+    ],
+    "questionText": "What will prefs.getDouble(key) return if the key does not exist?",
+    "options": [
+      "0.0",
+      "null",
+      "0",
+      "false"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "prefs.containsKey(key)"
+    ],
+    "questionText": "How do you check if SharedPreferences contains a specific key?",
+    "options": [
+      "prefs.containsKey(key)",
+      "prefs.hasKey(key)",
+      "prefs.keyExists(key)",
+      "prefs.keyAvailable(key)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Both A and B"
+    ],
+    "questionText": "SharedPreferences data persists across:",
+    "options": [
+      "App restarts",
+      "Device restarts",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "A set of all keys"
+    ],
+    "questionText": "What does prefs.getKeys() return?",
+    "options": [
+      "A list of all keys",
+      "A set of all keys",
+      "A map of all key-value pairs",
+      "A list of all values"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "prefs.clear()"
+    ],
+    "questionText": "How do you clear all data from SharedPreferences?",
+    "options": [
+      "prefs.clear()",
+      "prefs.removeAll()",
+      "prefs.reset()",
+      "prefs.deleteAll()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "An error will be thrown"
+    ],
+    "questionText": "What will happen if you try to store an unsupported data type in SharedPreferences?",
+    "options": [
+      "It will be converted to a supported type",
+      "An error will be thrown",
+      "It will be ignored",
+      "The app will crash"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "List<String>"
+    ],
+    "questionText": "What type of data does prefs.getStringList(key) return?",
+    "options": [
+      "List<String>",
+      "List<int>",
+      "List<bool>",
+      "List<double>"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "prefs.getBool(key) ?? defaultValue"
+    ],
+    "questionText": "Which method retrieves a boolean value with a default in SharedPreferences?",
+    "options": [
+      "prefs.getBool(key, defaultValue)",
+      "prefs.getBoolWithDefault(key, defaultValue)",
+      "prefs.getBool(key) ?? defaultValue",
+      "prefs.fetchBool(key, defaultValue)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Using Futures"
+    ],
+    "questionText": "What is the preferred way to handle SharedPreferences asynchronously?",
+    "options": [
+      "Using Futures",
+      "Using Streams",
+      "Using AsyncTask",
+      "Using Executors"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Strong consistency"
+    ],
+    "questionText": "What type of consistency does SharedPreferences provide?",
+    "options": [
+      "Strong consistency",
+      "Eventual consistency",
+      "Weak consistency",
+      "No consistency"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "setInt()"
+    ],
+    "questionText": "Which method saves an integer value in SharedPreferences?",
+    "options": [
+      "putInt()",
+      "setInt()",
+      "saveInt()",
+      "storeInt()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "setMap()"
+    ],
+    "questionText": "Which of the following methods does not exist in SharedPreferences?",
+    "options": [
+      "setDouble()",
+      "setStringList()",
+      "setBool()",
+      "setMap()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "A NoSQL document database"
+    ],
+    "questionText": "What is Cloud Firestore in Flutter?",
+    "options": [
+      "A relational database",
+      "A NoSQL document database",
+      "A local storage solution",
+      "An in-memory database"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "cloud_firestore"
+    ],
+    "questionText": "Which package do you need to add in pubspec.yaml to use Firestore in Flutter?",
+    "options": [
+      "cloud_firestore",
+      "firebase_firestore",
+      "flutter_firestore",
+      "flutter_firebase"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Firebase.initializeApp()"
+    ],
+    "questionText": "How do you initialize Firestore in a Flutter app?",
+    "options": [
+      "FirebaseFirestore.initializeApp()",
+      "Firestore.instance.initialize()",
+      "Firebase.initializeApp()",
+      "Firestore.init()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "FirebaseFirestore.instance.collection()"
+    ],
+    "questionText": "Which method is used to get a reference to a Firestore collection?",
+    "options": [
+      "Firestore.collection()",
+      "FirebaseFirestore.instance.collection()",
+      "Firestore.instance.collection()",
+      "FirebaseFirestore.collection()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "collection.add()"
+    ],
+    "questionText": "How do you add a new document to a Firestore collection?",
+    "options": [
+      "collection.add()",
+      "collection.create()",
+      "collection.insert()",
+      "collection.put()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "FirebaseFirestore.instance.doc()"
+    ],
+    "questionText": "Which method is used to get a reference to a Firestore document?",
+    "options": [
+      "Firestore.document()",
+      "FirebaseFirestore.instance.document()",
+      "Firestore.instance.doc()",
+      "FirebaseFirestore.instance.doc()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "document.update()"
+    ],
+    "questionText": "How do you update a document in Firestore?",
+    "options": [
+      "document.update()",
+      "document.set()",
+      "document.modify()",
+      "document.change()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "document.delete()"
+    ],
+    "questionText": "How do you delete a document in Firestore?",
+    "options": [
+      "document.remove()",
+      "document.delete()",
+      "document.clear()",
+      "document.erase()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "document.get()"
+    ],
+    "questionText": "How do you read a document from Firestore?",
+    "options": [
+      "document.get()",
+      "document.fetch()",
+      "document.retrieve()",
+      "document.load()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "A real-time data listener"
+    ],
+    "questionText": "What is a Firestore snapshot?",
+    "options": [
+      "A backup of the database",
+      "A real-time data listener",
+      "A temporary storage location",
+      "An image of the database"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "document.listen()"
+    ],
+    "questionText": "Which method allows you to listen to real-time updates from a Firestore document?",
+    "options": [
+      "document.onSnapshot()",
+      "document.subscribe()",
+      "document.listen()",
+      "document.watch()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Documents and collections"
+    ],
+    "questionText": "How do you structure data in Firestore?",
+    "options": [
+      "Tables and rows",
+      "Documents and collections",
+      "Nodes and edges",
+      "Arrays and objects"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "collection.get()"
+    ],
+    "questionText": "How do you perform a simple query to get all documents in a collection?",
+    "options": [
+      "collection.query()",
+      "collection.where()",
+      "collection.get()",
+      "collection.fetch()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "collection.where()"
+    ],
+    "questionText": "Which method is used to perform a compound query in Firestore?",
+    "options": [
+      "collection.compound()",
+      "collection.query()",
+      "collection.where()",
+      "collection.filter()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "query.orderBy()"
+    ],
+    "questionText": "How do you order query results in Firestore?",
+    "options": [
+      "query.orderBy()",
+      "query.sort()",
+      "query.order()",
+      "query.arrange()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "query.limit()"
+    ],
+    "questionText": "How do you limit the number of documents returned by a Firestore query?",
+    "options": [
+      "query.limitTo()",
+      "query.setLimit()",
+      "query.limit()",
+      "query.max()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "FirebaseFirestore.instance.runTransaction()"
+    ],
+    "questionText": "How do you perform a transaction in Firestore?",
+    "options": [
+      "Firestore.runTransaction()",
+      "FirebaseFirestore.instance.runTransaction()",
+      "Firestore.instance.transaction()",
+      "FirebaseFirestore.transaction()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Multiple write operations in a single transaction"
+    ],
+    "questionText": "What is a batch write in Firestore?",
+    "options": [
+      "A single write operation",
+      "Multiple write operations in a single transaction",
+      "An asynchronous write operation",
+      "A write operation that can be rolled back"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "FirebaseFirestore.instance.batch()"
+    ],
+    "questionText": "How do you start a batch write in Firestore?",
+    "options": [
+      "Firestore.batch()",
+      "FirebaseFirestore.instance.batch()",
+      "Firestore.instance.writeBatch()",
+      "FirebaseFirestore.instance.batchWrite()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "batch.commit()"
+    ],
+    "questionText": "How do you commit a batch write in Firestore?",
+    "options": [
+      "batch.commit()",
+      "batch.execute()",
+      "batch.run()",
+      "batch.perform()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "FirebaseFirestore.instance.enablePersistence()"
+    ],
+    "questionText": "How do you enable offline persistence in Firestore?",
+    "options": [
+      "Firestore.enablePersistence()",
+      "FirebaseFirestore.instance.enablePersistence()",
+      "Firestore.instance.offline()",
+      "FirebaseFirestore.enableOffline()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "16 MB"
+    ],
+    "questionText": "What is the maximum size for a Firestore document?",
+    "options": [
+      "1 MB",
+      "2 MB",
+      "16 MB",
+      "32 MB"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "collection.add()"
+    ],
+    "questionText": "Which method is used to set a document with automatic ID in Firestore?",
+    "options": [
+      "collection.add()",
+      "collection.set()",
+      "collection.create()",
+      "collection.save()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "FieldValue.delete()"
+    ],
+    "questionText": "How do you delete a field in a Firestore document?",
+    "options": [
+      "FieldValue.remove()",
+      "FieldValue.delete()",
+      "FieldValue.clear()",
+      "FieldValue.nullify()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "FieldValue.arrayUnion()"
+    ],
+    "questionText": "How do you add an element to an array field in Firestore?",
+    "options": [
+      "FieldValue.arrayUnion()",
+      "FieldValue.add()",
+      "FieldValue.append()",
+      "FieldValue.arrayAdd()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "set()"
+    ],
+    "questionText": "Which method updates a Firestore document, creating it if it doesn't exist?",
+    "options": [
+      "set()",
+      "update()",
+      "create()",
+      "merge()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Firestore Security Rules"
+    ],
+    "questionText": "Which Firestore security feature restricts access to data?",
+    "options": [
+      "Firestore Security Rules",
+      "Firestore Privacy Settings",
+      "Firestore Access Controls",
+      "Firestore Permissions"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "pubspec.yaml"
+    ],
+    "questionText": "What file do you edit to add third-party packages in a Flutter project?",
+    "options": [
+      "main.dart",
+      "pubspec.yaml",
+      "flutter.yaml",
+      "dependencies.yaml"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "flutter pub get"
+    ],
+    "questionText": "Which command is used to install the dependencies listed in pubspec.yaml?",
+    "options": [
+      "flutter get",
+      "flutter install",
+      "flutter pub get",
+      "flutter dependencies"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "pub.dev"
+    ],
+    "questionText": "Where can you find a list of available Flutter packages?",
+    "options": [
+      "flutter.io",
+      "pub.dev",
+      "packages.com",
+      "flutter.dev"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "dependencies: package: version"
+    ],
+    "questionText": "How do you specify a package version in pubspec.yaml?",
+    "options": [
+      "dependencies: package: version",
+      "package: version",
+      "dependencies: package = version",
+      "package: version = dependencies"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "flutter pub upgrade"
+    ],
+    "questionText": "Which command upgrades all dependencies to the latest compatible versions?",
+    "options": [
+      "flutter pub upgrade",
+      "flutter pub update",
+      "flutter upgrade",
+      "flutter update"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "import 'package:package_name/package_name.dart';"
+    ],
+    "questionText": "How do you import a third-party package in a Dart file?",
+    "options": [
+      "import 'package:package_name/package_name.dart';",
+      "import 'package_name.dart';",
+      "import 'lib/package_name.dart';",
+      "import 'third_party/package_name.dart';"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "flutter pub outdated"
+    ],
+    "questionText": "What command can be used to check for outdated packages?",
+    "options": [
+      "flutter pub outdated",
+      "flutter pub check",
+      "flutter pub upgrade",
+      "flutter pub update"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By specifying git under dependencies"
+    ],
+    "questionText": "How do you include a package from a Git repository in pubspec.yaml?",
+    "options": [
+      "By specifying git under dependencies",
+      "By specifying repository under dependencies",
+      "By specifying source under dependencies",
+      "By specifying url under dependencies"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Delete the package entry from pubspec.yaml"
+    ],
+    "questionText": "How do you remove a package from your Flutter project?",
+    "options": [
+      "Delete the package entry from pubspec.yaml",
+      "Run flutter pub remove package_name",
+      "Comment out the package entry in pubspec.yaml",
+      "Delete the package folder"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "dependencies"
+    ],
+    "questionText": "Which section in pubspec.yaml is used for listing package dependencies?",
+    "options": [
+      "packages",
+      "plugins",
+      "dependencies",
+      "modules"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "path: ../local_path/package_name"
+    ],
+    "questionText": "How do you specify a package from a local path in pubspec.yaml?",
+    "options": [
+      "path: ../local_path/package_name",
+      "local: ../package_name",
+      "source: ../local_path/package_name",
+      "import: ../package_name"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "flutter pub upgrade"
+    ],
+    "questionText": "What command can be used to resolve dependency conflicts in Flutter?",
+    "options": [
+      "flutter pub resolve",
+      "flutter pub clean",
+      "flutter pub get",
+      "flutter pub upgrade"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Under the dev_dependencies section"
+    ],
+    "questionText": "How do you include dev dependencies in pubspec.yaml?",
+    "options": [
+      "Under the dev_dependencies section",
+      "Under the dependencies section",
+      "Under the plugins section",
+      "Under the packages section"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Repairs the local package cache"
+    ],
+    "questionText": "What does the flutter pub cache repair command do?",
+    "options": [
+      "Repairs the local package cache",
+      "Updates all packages to the latest versions",
+      "Clears the package cache",
+      "Removes outdated packages"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "package: '>=version <next_version'"
+    ],
+    "questionText": "How do you add a dependency with a specific version range in pubspec.yaml?",
+    "options": [
+      "package: '>=version <next_version'",
+      "package: 'version-range'",
+      "package: 'version to next_version'",
+      "package: 'version, next_version'"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To lock the package versions used in the project"
+    ],
+    "questionText": "What is the purpose of the pubspec.lock file?",
+    "options": [
+      "To lock the package versions used in the project",
+      "To specify the dependencies of the project",
+      "To list outdated packages",
+      "To store project configurations"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By not listing it in pubspec.yaml"
+    ],
+    "questionText": "How do you exclude a package from being included in your project?",
+    "options": [
+      "By not listing it in pubspec.yaml",
+      "By using the exclude keyword in pubspec.yaml",
+      "By using the omit keyword in pubspec.yaml",
+      "By using the ignore keyword in pubspec.yaml"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Removes the build directory"
+    ],
+    "questionText": "What does the flutter clean command do?",
+    "options": [
+      "Removes the build directory",
+      "Updates all dependencies",
+      "Clears the pub cache",
+      "Resolves dependency conflicts"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "pubspec.yaml"
+    ],
+    "questionText": "Which file should be updated when adding assets to a Flutter project?",
+    "options": [
+      "pubspec.yaml",
+      "assets.yaml",
+      "flutter.yaml",
+      "dependencies.yaml"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Asynchronous operation"
+    ],
+    "questionText": "What does the async keyword in Dart signify?",
+    "options": [
+      "Synchronous operation",
+      "Asynchronous operation",
+      "Compile-time constant",
+      "Data type"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "await"
+    ],
+    "questionText": "Which keyword is used to wait for an asynchronous operation to complete in Dart?",
+    "options": [
+      "wait",
+      "sync",
+      "await",
+      "hold"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Future"
+    ],
+    "questionText": "What is the return type of a function marked with async?",
+    "options": [
+      "Future",
+      "Stream",
+      "void",
+      "int"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "await"
+    ],
+    "questionText": "What must you add before a function call to pause its execution until the function completes?",
+    "options": [
+      "async",
+      "wait",
+      "await",
+      "Future"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Future<void> myFunction() async {}"
+    ],
+    "questionText": "Which of the following is correct syntax for defining an asynchronous function in Dart?",
+    "options": [
+      "async void myFunction() {}",
+      "Future async myFunction() {}",
+      "Future<void> myFunction() async {}",
+      "void async myFunction() {}"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Future"
+    ],
+    "questionText": "What type of value does an async function return?",
+    "options": [
+      "Future",
+      "Stream",
+      "int",
+      "void"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "await myFunction();"
+    ],
+    "questionText": "Which of the following is a valid way to use the await keyword?",
+    "options": [
+      "await Future<void> foo = myFunction();",
+      "await myFunction().then((result) {});",
+      "await myFunction();",
+      "await Future myFunction();"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "It causes a compile-time error"
+    ],
+    "questionText": "What happens if you use await outside of an async function?",
+    "options": [
+      "It works normally",
+      "It causes a compile-time error",
+      "It returns null",
+      "It becomes synchronous"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "dart"
+    ],
+    "questionText": "Which Dart library is essential for working with asynchronous programming?",
+    "options": [
+      "dart",
+      "dart",
+      "dart",
+      "dart"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "try-catch block"
+    ],
+    "questionText": "How do you handle exceptions in an asynchronous function?",
+    "options": [
+      "try-catch block",
+      "if-else statement",
+      "switch-case statement",
+      "assert statement"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "The value"
+    ],
+    "questionText": "What will await return if the awaited Future completes with a value?",
+    "options": [
+      "The value",
+      "null",
+      "An error",
+      "The Future object"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "It will throw the error"
+    ],
+    "questionText": "What will await return if the awaited Future completes with an error?",
+    "options": [
+      "The error",
+      "null",
+      "It will throw the error",
+      "The Future object"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "async"
+    ],
+    "questionText": "Which keyword is used to indicate that a function is asynchronous?",
+    "options": [
+      "wait",
+      "future",
+      "async",
+      "defer"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Future"
+    ],
+    "questionText": "Which function type is inherently asynchronous?",
+    "options": [
+      "void",
+      "Future",
+      "int",
+      "double"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Future.wait()"
+    ],
+    "questionText": "How can you run multiple asynchronous functions in parallel and wait for all of them to complete?",
+    "options": [
+      "Future.wait()",
+      "Future.forEach()",
+      "Future.sync()",
+      "Future.all()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Creates a future that completes after a delay"
+    ],
+    "questionText": "What does the Future.delayed method do in Dart?",
+    "options": [
+      "Delays execution of a synchronous function",
+      "Delays execution of an asynchronous function",
+      "Creates a future that completes after a delay",
+      "Runs a function at a future time"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Future.value()"
+    ],
+    "questionText": "How do you create a Future that completes immediately with a value?",
+    "options": [
+      "Future.value()",
+      "Future.delayed()",
+      "Future.completed()",
+      "Future.done()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Future.error()"
+    ],
+    "questionText": "How do you create a Future that completes immediately with an error?",
+    "options": [
+      "Future.error()",
+      "Future.fail()",
+      "Future.exception()",
+      "Future.throw()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Transforms a Future into a synchronous value"
+    ],
+    "questionText": "What does await keyword do?",
+    "options": [
+      "Transforms a Future into a synchronous value",
+      "Creates a Future",
+      "Marks a function as asynchronous",
+      "Runs a function asynchronously"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "try { await myFunction(); } catch (e) { handleError(e); }"
+    ],
+    "questionText": "Which of the following is the correct syntax for handling asynchronous errors using try-catch?",
+    "options": [
+      "try { await myFunction(); } catch (e) { handleError(e); }",
+      "try { myFunction(); } await catch (e) { handleError(e); }",
+      "await try { myFunction(); } catch (e) { handleError(e); }",
+      "await myFunction() try { } catch (e) { handleError(e); }"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Future.timeout()"
+    ],
+    "questionText": "How can you time out a Future after a certain duration?",
+    "options": [
+      "future.timeout()",
+      "Future.withTimeout()",
+      "future.withTimeout()",
+      "Future.timeout()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "'Hello, Dart!' after 1 second"
+    ],
+    "questionText": "What will the following code output? dart Future<void> main() async { await Future.delayed(Duration(seconds: 1)); print('Hello, Dart!'); }",
+    "options": [
+      "Nothing",
+      "An error",
+      "'Hello, Dart!' immediately",
+      "'Hello, Dart!' after 1 second"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To chain multiple asynchronous operations"
+    ],
+    "questionText": "What is the purpose of the Future.then method?",
+    "options": [
+      "To handle errors",
+      "To chain multiple asynchronous operations",
+      "To cancel a Future",
+      "To delay a Future"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "It will implicitly return a Future"
+    ],
+    "questionText": "What will happen if an async function does not return a Future?",
+    "options": [
+      "Compile-time error",
+      "Runtime error",
+      "It will implicitly return a Future",
+      "It will return null"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "async"
+    ],
+    "questionText": "How do you mark a function that returns a Future but performs no asynchronous operations?",
+    "options": [
+      "async",
+      "await",
+      "Future",
+      "Future<void>"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Start immediately, End after 2 seconds"
+    ],
+    "questionText": "What is the output of the following code? Future<void> main() async { print('Start'); await Future.delayed(Duration(seconds: 2)); print('End'); }",
+    "options": [
+      "Start End",
+      "Start End immediately",
+      "Start immediately, End after 2 seconds",
+      "End Start immediately"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Future.value(someValue)"
+    ],
+    "questionText": "Which of the following will correctly convert a synchronous value into a Future?",
+    "options": [
+      "Future.value(someValue)",
+      "Future.sync(someValue)",
+      "Future.async(someValue)",
+      "Future.delayed(someValue)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Future.any()"
+    ],
+    "questionText": "How can you wait for the first Future to complete among multiple Futures?",
+    "options": [
+      "Future.first()",
+      "Future.any()",
+      "Future.race()",
+      "Future.select()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Future.never()"
+    ],
+    "questionText": "Which method is used to create a Future that never completes?",
+    "options": [
+      "Future.never()",
+      "Future.nothing()",
+      "Future.pending()",
+      "Future.incomplete()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "The function starts executing, and the caller continues immediately without waiting."
+    ],
+    "questionText": "What is the effect of calling an async function without await?",
+    "options": [
+      "The function executes synchronously.",
+      "The function execution is blocked until it completes.",
+      "The function starts executing, and the caller continues immediately without waiting.",
+      "The function will not execute at all."
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "All of the above"
+    ],
+    "questionText": "What is the primary method for handling errors in Dart asynchronous programming?",
+    "options": [
+      "try-catch",
+      "Future.catchError",
+      "Stream.listen",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "catch"
+    ],
+    "questionText": "Which keyword is used to handle errors in an async function?",
+    "options": [
+      "try",
+      "await",
+      "catch",
+      "async"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To handle errors"
+    ],
+    "questionText": "What is the purpose of the onError parameter in a Dart Stream's listen method?",
+    "options": [
+      "To transform data",
+      "To handle errors",
+      "To close the stream",
+      "To filter data"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Using the catchError method"
+    ],
+    "questionText": "How do you catch an error from a Future in Dart?",
+    "options": [
+      "Using the then method",
+      "Using the catchError method",
+      "Using the finally method",
+      "Using the await method"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "It always runs, regardless of whether an error occurs"
+    ],
+    "questionText": "What does the finally block do in a try-catch-finally construct?",
+    "options": [
+      "It runs only if an error occurs",
+      "It runs only if no error occurs",
+      "It always runs, regardless of whether an error occurs",
+      "It runs asynchronously"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "The Future completes with an error"
+    ],
+    "questionText": "What happens if you don't handle an error in a Dart Future?",
+    "options": [
+      "The program crashes",
+      "The error is ignored",
+      "The Future completes with an error",
+      "The error is logged"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Using the rethrow keyword"
+    ],
+    "questionText": "How do you propagate an error in an async function?",
+    "options": [
+      "Using the throw keyword",
+      "Using the propagate keyword",
+      "Using the return keyword",
+      "Using the rethrow keyword"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "handleError"
+    ],
+    "questionText": "Which method allows handling errors in a Dart Stream?",
+    "options": [
+      "handleError",
+      "catchError",
+      "onError",
+      "catchStreamError"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Using a try-catch block"
+    ],
+    "questionText": "What is the correct way to handle a synchronous error in an async function?",
+    "options": [
+      "Using the await keyword",
+      "Using the async keyword",
+      "Using a try-catch block",
+      "Using the catchError method"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "runZoned"
+    ],
+    "questionText": "Which function in Dart is used to handle errors globally for Futures?",
+    "options": [
+      "runZoned",
+      "runApp",
+      "runCatch",
+      "runHandleError"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To handle uncaught errors globally"
+    ],
+    "questionText": "What is the purpose of the Zone API in Dart?",
+    "options": [
+      "To manage asynchronous tasks",
+      "To manage synchronous tasks",
+      "To handle uncaught errors globally",
+      "To manage resource allocation"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "It can be used with both Futures and Streams"
+    ],
+    "questionText": "Which statement about the catchError method in Dart is correct?",
+    "options": [
+      "It is only used with Streams",
+      "It can be used with both Futures and Streams",
+      "It only catches errors if they occur before the method is called",
+      "It handles synchronous errors only"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By using the on keyword before catch"
+    ],
+    "questionText": "How can you specify a particular type of error to catch in a try-catch block?",
+    "options": [
+      "By specifying the error type after the catch keyword",
+      "By using a type parameter with catchError",
+      "By using the on keyword before catch",
+      "By using the errorType keyword"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "The error will propagate to the calling code"
+    ],
+    "questionText": "What will be the output if an error is not caught in an async function?",
+    "options": [
+      "The error will be ignored",
+      "The async function will return null",
+      "The error will propagate to the calling code",
+      "The function will continue executing"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "A new Future with the result of the error handler"
+    ],
+    "questionText": "What does the catchError method return if an error is caught?",
+    "options": [
+      "A new Future with the result of the error handler",
+      "The original Future",
+      "A null value",
+      "The error object"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "onError"
+    ],
+    "questionText": "Which operator can be used to handle errors in an async function without using try-catch?",
+    "options": [
+      "await",
+      "async",
+      "handle",
+      "onError"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Using the rethrow keyword"
+    ],
+    "questionText": "How can you rethrow an error after catching it in Dart?",
+    "options": [
+      "Using the rethrow keyword",
+      "Using the throw keyword",
+      "Using the catchError method",
+      "Using the onError parameter"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To create a Future that executes synchronously"
+    ],
+    "questionText": "What is the purpose of the Future.sync constructor?",
+    "options": [
+      "To create a Future that executes synchronously",
+      "To create a Future that handles errors synchronously",
+      "To create a Future that waits for other Futures",
+      "To create a Future that completes with an error"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Use individual error handlers for each async operation"
+    ],
+    "questionText": "What is the best practice for handling multiple asynchronous errors in Dart?",
+    "options": [
+      "Use a single try-catch block",
+      "Use individual error handlers for each async operation",
+      "Ignore errors",
+      "Use synchronous error handling"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "The exception type"
+    ],
+    "questionText": "What should be included in the catch clause to handle specific exceptions?",
+    "options": [
+      "The exception type",
+      "The exception message",
+      "The exception stack trace",
+      "The exception context"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "class"
+    ],
+    "questionText": "What keyword is used to define a class in Dart?",
+    "options": [
+      "class",
+      "struct",
+      "define",
+      "new"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "ClassName obj = ClassName();"
+    ],
+    "questionText": "How do you create an instance of a class in Dart?",
+    "options": [
+      "ClassName obj = new ClassName();",
+      "var obj = new ClassName();",
+      "ClassName obj = ClassName();",
+      "var obj = ClassName();"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Dart supports multiple constructors in a class."
+    ],
+    "questionText": "Which of the following is true about Dart constructors?",
+    "options": [
+      "Dart supports multiple constructors in a class.",
+      "Dart does not support constructors.",
+      "Dart constructors are called using the 'init' keyword.",
+      "Dart only supports one default constructor."
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "ClassName.namedConstructorName();"
+    ],
+    "questionText": "How do you define a named constructor in Dart?",
+    "options": [
+      "ClassName.namedConstructor();",
+      "ClassName.new.namedConstructor();",
+      "ClassName.namedConstructorName();",
+      "new ClassName.namedConstructor();"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "It refers to the current instance of the class."
+    ],
+    "questionText": "What is the purpose of the this keyword in Dart?",
+    "options": [
+      "It refers to the superclass.",
+      "It refers to the current instance of the class.",
+      "It refers to the static members of the class.",
+      "It refers to a global variable."
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By prefixing the member name with an underscore (_)."
+    ],
+    "questionText": "How can you make a class member accessible only within the same library in Dart?",
+    "options": [
+      "By prefixing the member name with an underscore (_).",
+      "By using the private keyword.",
+      "By using the protected keyword.",
+      "By using the internal keyword."
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Constructor"
+    ],
+    "questionText": "Which method is called when an object is created in Dart?",
+    "options": [
+      "main()",
+      "init()",
+      "start()",
+      "Constructor"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "class SubClass extends SuperClass"
+    ],
+    "questionText": "How do you inherit a class in Dart?",
+    "options": [
+      "class SubClass: SuperClass",
+      "class SubClass extends SuperClass",
+      "class SubClass inherits SuperClass",
+      "class SubClass implements SuperClass"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "implements"
+    ],
+    "questionText": "Which keyword is used to implement an interface in Dart?",
+    "options": [
+      "inherits",
+      "implements",
+      "extends",
+      "interfaces"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "All methods defined in the interface."
+    ],
+    "questionText": "Which method must be overridden when implementing an interface in Dart?",
+    "options": [
+      "Only methods marked with the override keyword.",
+      "All methods defined in the interface.",
+      "Only public methods.",
+      "Only private methods."
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "It refers to the superclass."
+    ],
+    "questionText": "What is the purpose of the super keyword in Dart?",
+    "options": [
+      "It refers to the subclass.",
+      "It refers to the superclass.",
+      "It creates a new instance of the class.",
+      "It is used to define static methods."
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "const ClassName();"
+    ],
+    "questionText": "How do you define a constant constructor in Dart?",
+    "options": [
+      "const ClassName();",
+      "static ClassName();",
+      "final ClassName();",
+      "const ClassName.constantConstructor();"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Both methods and variables"
+    ],
+    "questionText": "Which of the following can be marked as static in a Dart class?",
+    "options": [
+      "Methods",
+      "Variables",
+      "Constructors",
+      "Both methods and variables"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By using the super keyword."
+    ],
+    "questionText": "How do you call a superclass constructor in a subclass in Dart?",
+    "options": [
+      "By using the super keyword.",
+      "By using the this keyword.",
+      "By using the base keyword.",
+      "By using the parent keyword."
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To define a constructor that can return an instance of a subtype."
+    ],
+    "questionText": "What is the use of the factory keyword in Dart?",
+    "options": [
+      "To define a factory class.",
+      "To define a constructor that can return an instance of a subtype.",
+      "To define a private constructor.",
+      "To define a constant constructor."
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "No, Dart does not support multiple inheritance."
+    ],
+    "questionText": "Can Dart classes have multiple inheritance?",
+    "options": [
+      "Yes, using the extends keyword.",
+      "Yes, using the implements keyword.",
+      "No, Dart does not support multiple inheritance.",
+      "Yes, using the multiple keyword."
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By not providing a method body."
+    ],
+    "questionText": "How do you make a method abstract in Dart?",
+    "options": [
+      "By marking it with the abstract keyword.",
+      "By marking it with the override keyword.",
+      "By not providing a method body.",
+      "By using the interface keyword."
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Using a static variable and private constructor."
+    ],
+    "questionText": "What is the correct way to create a singleton class in Dart?",
+    "options": [
+      "Using a static variable and private constructor.",
+      "Using a factory constructor.",
+      "Using a static method.",
+      "Dart does not support singleton classes."
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "class ClassName<T> {}"
+    ],
+    "questionText": "How do you declare a generic class in Dart?",
+    "options": [
+      "class ClassName<T> {}",
+      "class ClassName[] {}",
+      "class ClassName<type> {}",
+      "class ClassName<Types> {}"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "@override"
+    ],
+    "questionText": "Which keyword is used to override a method in Dart?",
+    "options": [
+      "override",
+      "@override",
+      "implements",
+      "extends"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "A blueprint for a class that defines a set of methods and properties"
+    ],
+    "questionText": "Can you create an instance of an abstract class in Dart?",
+    "options": [
+      "A class that cannot be instantiated",
+      "A blueprint for a class that defines a set of methods and properties",
+      "A singleton class definition",
+      "An abstract class with no methods"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Yes, using the implements keyword"
+    ],
+    "questionText": "Can a Dart class implement multiple interfaces?",
+    "options": [
+      "Yes, using the implements keyword",
+      "Yes, using the extends keyword",
+      "No, Dart does not support multiple interface implementations",
+      "No, Dart only supports single inheritance"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To define methods that can be reused by multiple classes"
+    ],
+    "questionText": "What is the purpose of a mixin in Dart?",
+    "options": [
+      "To define static methods",
+      "To define methods that can be reused by multiple classes",
+      "To define abstract classes",
+      "To define private variables"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By using the mixin keyword followed by the mixin name"
+    ],
+    "questionText": "How do you use a mixin in Dart?",
+    "options": [
+      "By using the mixin keyword followed by the mixin name",
+      "By using the use keyword followed by the mixin name",
+      "By using the extends keyword followed by the mixin name",
+      "By using the implements keyword followed by the mixin name"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "with"
+    ],
+    "questionText": "Which keyword is used to apply multiple mixins in Dart?",
+    "options": [
+      "mixin",
+      "with",
+      "use",
+      "apply"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "The class must explicitly override conflicting methods"
+    ],
+    "questionText": "What happens when a class implements multiple interfaces with conflicting method names in Dart?",
+    "options": [
+      "Dart throws an error",
+      "The class must explicitly override conflicting methods",
+      "The compiler resolves the conflict automatically",
+      "The interfaces cannot have conflicting method names"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Client-side scripting"
+    ],
+    "questionText": "Which of the following is true about mixins in Dart?",
+    "options": [
+      "Server-side scripting",
+      "Client-side scripting",
+      "Database management",
+      "Graphics rendering"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "int var = 10;"
+    ],
+    "questionText": "Which of the following is a correct way to define a variable in Dart?",
+    "options": [
+      "int var = 10;",
+      "variable var = 10;",
+      "var int = 10;",
+      "int = var 10;"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "new"
+    ],
+    "questionText": "What keyword is used to create a new instance of a class in Dart?",
+    "options": [
+      "new",
+      "instance",
+      "create",
+      "instantiate"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "void functionName() => print(\"Hello\");"
+    ],
+    "questionText": "Which of the following is a valid function definition in Dart?",
+    "options": [
+      "void functionName() => print(\"Hello\");",
+      "void functionName() { return \"Hello\"; }",
+      "functionName() { print(\"Hello\"); }",
+      "void functionName() -> print(\"Hello\");"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To define asynchronous functions"
+    ],
+    "questionText": "What is the purpose of async and await keywords in Dart?",
+    "options": [
+      "To define asynchronous functions",
+      "To handle exceptions",
+      "To stop execution temporarily",
+      "To define local variables"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Set"
+    ],
+    "questionText": "Which collection type in Dart does not allow duplicate elements?",
+    "options": [
+      "List",
+      "Set",
+      "Map",
+      "Tuple"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "List<int> numbers = [1, 2, 3];"
+    ],
+    "questionText": "How do you declare a list containing integers in Dart?",
+    "options": [
+      "List<int> numbers = [1, 2, 3];",
+      "List numbers = [1, 2, 3];",
+      "List<int> numbers = {1, 2, 3};",
+      "List<int> numbers = {1: 2, 2: 3};"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Returns the first non-null value of its operands"
+    ],
+    "questionText": "What does the ?? operator do in Dart?",
+    "options": [
+      "Checks if two values are equal",
+      "Throws an exception",
+      "Returns the first non-null value of its operands",
+      "Performs bitwise XOR operation"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "import \"file\";"
+    ],
+    "questionText": "In Dart, how do you import functionalities from another Dart file?",
+    "options": [
+      "import \"file.dart\";",
+      "#include \"file.dart\";",
+      "use \"file.dart\";",
+      "import \"file\";"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "void functionName(int a, [int b]) { }"
+    ],
+    "questionText": "Which of the following is a valid way to define an optional parameter in a Dart function?",
+    "options": [
+      "void functionName(int a, [int b]) { }",
+      "void functionName(int a, int b?) { }",
+      "void functionName(int a, optional int b) { }",
+      "void functionName(int a, int b = optional) { }"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Type compatibility"
+    ],
+    "questionText": "What does the is keyword check for in Dart?",
+    "options": [
+      "Equality between two values",
+      "Type compatibility",
+      "Bitwise operations",
+      "Logical conditions"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "foreach"
+    ],
+    "questionText": "Which loop is not supported in Dart?",
+    "options": [
+      "for",
+      "foreach",
+      "while",
+      "do-while"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "try { ... } catch(Exception e) { ... }"
+    ],
+    "questionText": "How do you catch exceptions in Dart?",
+    "options": [
+      "try { ... } except { ... }",
+      "try { ... } catch { ... }",
+      "try { ... } catch(Exception e) { ... }",
+      "try { ... } except(Exception e) { ... }"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Web app development"
+    ],
+    "questionText": "Which keyword is used to end a Dart program?",
+    "options": [
+      "Mobile app development",
+      "Web app development",
+      "Game development",
+      "Machine learning"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "pub"
+    ],
+    "questionText": "Which tool is commonly used to manage dependencies in Dart projects?",
+    "options": [
+      "npm",
+      "pip",
+      "pub",
+      "composer"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "JavaScript"
+    ],
+    "questionText": "Dart code is compiled into which of the following languages?",
+    "options": [
+      "Java",
+      "C++",
+      "JavaScript",
+      "Python"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Ahead-Of-Time (AOT) compiler"
+    ],
+    "questionText": "What does Flutter use to compile Dart code into native machine code?",
+    "options": [
+      "Just-In-Time (JIT) compiler",
+      "Ahead-Of-Time (AOT) compiler",
+      "Virtual Machine (VM)",
+      "Interpreter"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "pubspec.yaml"
+    ],
+    "questionText": "Which file is used to specify dependencies and configuration in a Dart project?",
+    "options": [
+      "package.yaml",
+      "pubspec.yaml",
+      "config.json",
+      "setup.yaml"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "dart serve"
+    ],
+    "questionText": "What command is used to start a local development server for Dart web apps?",
+    "options": [
+      "dart run serve",
+      "dart serve",
+      "dart dev",
+      "dart start"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "AngularDart"
+    ],
+    "questionText": "Which framework is commonly used for building web applications with Dart?",
+    "options": [
+      "AngularDart",
+      "React Dart",
+      "Vue Dart",
+      "Ember Dart"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Compiled JavaScript files"
+    ],
+    "questionText": "What does the build directory typically contain in a Dart web project?",
+    "options": [
+      "Source code files",
+      "Compiled JavaScript files",
+      "Configuration files",
+      "Documentation files"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Declaring them in the main Dart file"
+    ],
+    "questionText": "Which hosting service is commonly used to deploy Dart web apps?",
+    "options": [
+      "Using a routes.yaml file",
+      "Declaring them in the main Dart file",
+      "Configuring them in the pubspec.yaml",
+      "Defining them in the index.html"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "utnittest"
+    ],
+    "questionText": "Dart web apps can be tested using which testing framework?",
+    "options": [
+      "Jest",
+      "Mocha",
+      "Jasmine",
+      "utnittest"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "dart build"
+    ],
+    "questionText": "What command is used to build a Dart web app for production deployment?",
+    "options": [
+      "dart compile",
+      "dart build",
+      "dart release",
+      "dart deploy"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "http"
+    ],
+    "questionText": "Which Dart package is commonly used for HTTP requests in web apps?",
+    "options": [
+      "http.dart",
+      "http_requests",
+      "dart_http",
+      "http"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Dart"
+    ],
+    "questionText": "Dart web apps are typically built using which language?",
+    "options": [
+      "Dart",
+      "JavaScript",
+      "TypeScript",
+      "Python"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Visual Studio Code"
+    ],
+    "questionText": "Which IDE is commonly used for developing Dart applications?",
+    "options": [
+      "Eclipse",
+      "IntelliJ IDEA",
+      "Visual Studio Code",
+      "Atom"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  }
+]

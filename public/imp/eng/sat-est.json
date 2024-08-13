@@ -1,0 +1,577 @@
+[
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["The human brain is a complex and mysterious organ."],
+    "questionText": "The human brain, a complex organ responsible for everything from emotions to motor skills, remains an enigma in many ways. Scientists have made great strides in understanding its structure and function, but fundamental questions remain. One such mystery is consciousness—the awareness of one's self and the surrounding world. What is the main idea of the passage?",
+    "options": [
+      "The human brain is responsible for emotions.",
+      "Scientists understand everything about the brain.",
+      "Consciousness is a well-understood phenomenon.",
+      "The human brain is a complex and mysterious organ."
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["False"],
+    "questionText": "The human brain, a complex organ responsible for everything from emotions to motor skills, remains an enigma in many ways. Scientists have made great strides in understanding its structure and function, but fundamental questions remain. One such mystery is consciousness—the awareness of one's self and the surrounding world. True or False: Scientists have fully mapped the brain's structure and function.",
+    "options": ["True", "False"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["puzzle"],
+    "questionText": "The human brain, a complex organ responsible for everything from emotions to motor skills, remains an enigma in many ways. Scientists have made great strides in understanding its structure and function, but fundamental questions remain. One such mystery is consciousness—the awareness of one's self and the surrounding world. What does the word 'enigma' in the passage most nearly mean?",
+    "options": ["puzzle", "solution", "organ", "skill"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Digestion"],
+    "questionText": "The human brain, a complex organ responsible for everything from emotions to motor skills, remains an enigma in many ways. Scientists have made great strides in understanding its structure and function, but fundamental questions remain. One such mystery is consciousness—the awareness of one's self and the surrounding world. Which function is NOT mentioned in the passage as a function of the brain?",
+    "options": ["Emotions", "Motor skills", "Digestion", "Consciousness"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["What causes consciousness?"],
+    "questionText": "The human brain, a complex organ responsible for everything from emotions to motor skills, remains an enigma in many ways. Scientists have made great strides in understanding its structure and function, but fundamental questions remain. One such mystery is consciousness—the awareness of one's self and the surrounding world. According to the passage, what is one of the 'fundamental questions' about the brain?",
+    "options": [
+      "How many cells are in the brain?",
+      "What is the brain's weight?",
+      "What causes consciousness?",
+      "How does the brain develop?"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["NO CHANGE"],
+    "questionText": "Which sentence correctly describes the action of the students boarding the bus?",
+    "options": [
+      "The students excited for their field trip quickly boarded the bus.",
+      "The students, excited for their field trip quickly, boarded the bus.",
+      "The students excited for their field trip, boarded the bus quickly.",
+      "NO CHANGE"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Each of the team members was given a trophy for their hard work."
+    ],
+    "questionText": "Which sentence correctly reflects the award given to each team member?",
+    "options": [
+      "Each of the team members was given a trophy for their hard work.",
+      "Each of the team members was given a trophy for his or her hard work.",
+      "Each of the team members were given trophies for their hard work.",
+      "NO CHANGE"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["NO CHANGE"],
+    "questionText": "Which sentence correctly describes the perseverance of the marathon runners?",
+    "options": [
+      "persevered, and finished the race.",
+      "persevered and, finished the race.",
+      "persevered and finished, the race.",
+      "NO CHANGE"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["False"],
+    "questionText": "True or False: In formal writing, it's acceptable to use contractions like 'don't' or 'can't.'",
+    "options": ["True", "False"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["It's important to study for the SAT test."],
+    "questionText": "Which sentence demonstrates correct punctuation and grammar?",
+    "options": [
+      "Its important to study for the SAT test.",
+      "Its important to study, for the SAT test.",
+      "It's important to study for the SAT test.",
+      "Its' important to study for the SAT test."
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["7"],
+    "questionText": "If x + 5 = 12, then x =",
+    "options": ["6", "7", "8", "9"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["24"],
+    "questionText": "The area of a triangle with base 8 and height 6 is:",
+    "options": ["14", "24", "48", "96"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["31.4"],
+    "questionText": "If a circle has a radius of 5, what is its circumference? (Use π = 3.14)",
+    "options": ["15.7", "31.4", "78.5", "157"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["3"],
+    "questionText": "What is the slope of the line passing through the points (2, 3) and (5, 9)?",
+    "options": ["1/2", "2", "3", "6"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["4"],
+    "questionText": "If 3x - 2 = 10, then x =",
+    "options": ["2", "4", "6", "8"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["x^2 + 5x - 6"],
+    "questionText": "Simplify: (2x^2 + 3x - 5) - (x^2 - 2x + 1)",
+    "options": ["x^2 + 5x - 6", "x^2 - x - 4", "3x^2 + x - 6", "3x^2 + 5x - 4"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["True"],
+    "questionText": "True or False: The square root of 169 is 13.",
+    "options": ["True", "False"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["60 mph"],
+    "questionText": "If a train travels 300 miles in 5 hours, what is its average speed?",
+    "options": ["40 mph", "50 mph", "60 mph", "70 mph"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["40"],
+    "questionText": "A rectangle has a length of 12 and a width of 8. What is its perimeter?",
+    "options": ["20", "40", "96", "192"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["9"],
+    "questionText": "Solve for y: 2y - 7 = 11",
+    "options": ["2", "4", "9", "18"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "The Industrial Revolution brought about significant changes."
+    ],
+    "questionText": "The Industrial Revolution, a period of significant technological and societal change, transformed the way people lived and worked. It began in Great Britain in the late 18th century and spread to other parts of the world. The revolution brought about the rise of factories, mass production, and new forms of transportation, which led to urbanization and economic growth. The main idea of this passage is:",
+    "options": [
+      "The Industrial Revolution caused urbanization.",
+      "The Industrial Revolution brought about significant changes.",
+      "Factories were important during the Industrial Revolution.",
+      "New forms of transportation were invented during the Industrial Revolution."
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["False"],
+    "questionText": "The Industrial Revolution, a period of significant technological and societal change, transformed the way people lived and worked. It began in Great Britain in the late 18th century and spread to other parts of the world. The revolution brought about the rise of factories, mass production, and new forms of transportation, which led to urbanization and economic growth. True or False: The Industrial Revolution started in the United States.",
+    "options": ["True", "False"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["changed"],
+    "questionText": "The Industrial Revolution, a period of significant technological and societal change, transformed the way people lived and worked. It began in Great Britain in the late 18th century and spread to other parts of the world. The revolution brought about the rise of factories, mass production, and new forms of transportation, which led to urbanization and economic growth. The word 'transformed' in the passage most nearly means:",
+    "options": ["destroyed", "created", "changed", "improved"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Increased agricultural production"],
+    "questionText": "The Industrial Revolution, a period of significant technological and societal change, transformed the way people lived and worked. It began in Great Britain in the late 18th century and spread to other parts of the world. The revolution brought about the rise of factories, mass production, and new forms of transportation, which led to urbanization and economic growth. Which of the following is NOT mentioned in the passage as a consequence of the Industrial Revolution?",
+    "options": [
+      "Rise of factories",
+      "Mass production",
+      "Increased agricultural production",
+      "New forms of transportation"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Great Britain"],
+    "questionText": "The Industrial Revolution, a period of significant technological and societal change, transformed the way people lived and worked. It began in Great Britain in the late 18th century and spread to other parts of the world. The revolution brought about the rise of factories, mass production, and new forms of transportation, which led to urbanization and economic growth. According to the passage, where did the Industrial Revolution begin?",
+    "options": ["France", "Germany", "Great Britain", "United States"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["their"],
+    "questionText": "After the game, the coach congratulated the team for its victory.",
+    "options": ["NO CHANGE", "their", "its", "they're"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["were"],
+    "questionText": "Neither the students nor the teacher was happy with the test results.",
+    "options": ["NO CHANGE", "were", "are", "is"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["True"],
+    "questionText": "True or False: A semicolon can be used to separate two independent clauses.",
+    "options": ["True", "False"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "The book that I borrowed from the library is due next week."
+    ],
+    "questionText": "Choose the sentence with correct punctuation and grammar:",
+    "options": [
+      "The book, that I borrowed from the library, is due next week.",
+      "The book that I borrowed from the library is due next week.",
+      "The book, that I borrowed from the library is due next week.",
+      "The book that I borrowed from the library, is due next week."
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["receive"],
+    "questionText": "Which word is misspelled?",
+    "options": ["accommodate", "separate", "receive", "definitely"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["$57,500"],
+    "questionText": "A company's profit increased by 15% from last year. If last year's profit was $50,000, what is this year's profit?",
+    "options": ["$55,000", "$57,500", "$60,000", "$65,000"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["180 degrees"],
+    "questionText": "The sum of the interior angles of a triangle is:",
+    "options": ["90 degrees", "180 degrees", "270 degrees", "360 degrees"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["12"],
+    "questionText": "Find the mean of the following data set: 5, 8, 12, 15, 20",
+    "options": ["8", "10", "12", "14"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["True"],
+    "questionText": "True or False: If two lines are parallel, they will never intersect.",
+    "options": ["True", "False"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["x > 3"],
+    "questionText": "Solve the inequality: 3x + 5 > 14",
+    "options": ["x > 2", "x > 3", "x > 4", "x > 5"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "AI is still far from reaching human-level intelligence."
+    ],
+    "questionText": "The concept of artificial intelligence (AI) has captivated the imagination for decades. AI refers to the ability of machines to perform tasks that typically require human intelligence, such as learning, problem- solving, and decision-making. While AI has made significant progress in recent years, the prospect of creating machines with human-level intelligence remains a distant goal. The main idea of this passage is:",
+    "options": [
+      "AI has achieved human-level intelligence.",
+      "AI is capable of learning and problem-solving.",
+      "AI is a concept that has been around for a long time.",
+      "AI is still far from reaching human-level intelligence."
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["False"],
+    "questionText": "The concept of artificial intelligence (AI) has captivated the imagination for decades. AI refers to the ability of machines to perform tasks that typically require human intelligence, such as learning, problem- solving, and decision-making. While AI has made significant progress in recent years, the prospect of creating machines with human-level intelligence remains a distant goal. True or False: AI can only perform simple tasks.",
+    "options": ["True", "False"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["fascinated"],
+    "questionText": "The concept of artificial intelligence (AI) has captivated the imagination for decades. AI refers to the ability of machines to perform tasks that typically require human intelligence, such as learning, problem- solving, and decision-making. While AI has made significant progress in recent years, the prospect of creating machines with human-level intelligence remains a distant goal. The word 'captivated' in the passage most nearly means:",
+    "options": ["frightened", "bored", "fascinated", "confused"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Calculating numbers"],
+    "questionText": "The concept of artificial intelligence (AI) has captivated the imagination for decades. AI refers to the ability of machines to perform tasks that typically require human intelligence, such as learning, problem- solving, and decision-making. While AI has made significant progress in recent years, the prospect of creating machines with human-level intelligence remains a distant goal. According to the passage, which of the following is NOT a typical task that requires human intelligence?",
+    "options": [
+      "Calculating numbers",
+      "Solving puzzles",
+      "Making decisions",
+      "Understanding emotions"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "AI has the potential to greatly benefit society, but it's still a long way from achieving human-level intelligence."
+    ],
+    "questionText": "The concept of artificial intelligence (AI) has captivated the imagination for decades. AI refers to the ability of machines to perform tasks that typically require human intelligence, such as learning, problem- solving, and decision-making. While AI has made significant progress in recent years, the prospect of creating machines with human-level intelligence remains a distant goal. What is the author's view on the future of AI?",
+    "options": [
+      "AI will soon surpass human intelligence.",
+      "AI is a dangerous technology that should be banned.",
+      "AI has limited potential and will not significantly impact society.",
+      "AI has the potential to greatly benefit society, but it's still a long way from achieving human-level intelligence."
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["between"],
+    "questionText": "The committee members argued amongst themselves for hours.",
+    "options": ["NO CHANGE", "among", "between", "amongst one another"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["whether"],
+    "questionText": "I couldn't decide whether to order the pizza or the pasta.",
+    "options": ["NO CHANGE", "whether", "wether", "wheather"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["True"],
+    "questionText": "True or False: The word 'affect' is usually a verb, while 'effect' is usually a noun.",
+    "options": ["True", "False"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Although the movie was long, it was entertaining."],
+    "questionText": "Choose the sentence with the correct punctuation and grammar:",
+    "options": [
+      "Although the movie was long, it was entertaining.",
+      "The movie was long, it was entertaining.",
+      "The movie was long it was entertaining.",
+      "Although the movie was long it was, entertaining."
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["definite"],
+    "questionText": "Which word is misspelled?",
+    "options": ["embarrass", "occurrence", "receive", "definite"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["talkative"],
+    "questionText": "The word 'loquacious' most nearly means:",
+    "options": ["quiet", "talkative", "intelligent", "humorous"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["stubborn"],
+    "questionText": "The word 'tenacious' most nearly means:",
+    "options": ["weak", "stubborn", "flexible", "careless"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["brief"],
+    "questionText": "The word 'ephemeral' most nearly means:",
+    "options": ["eternal", "brief", "complex", "important"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["True"],
+    "questionText": "True or False: The word 'benevolent' means kind and generous.",
+    "options": ["True", "False"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["acclaimed"],
+    "questionText": "Choose the word that best completes the sentence:\nThe scientist was _____ for his groundbreaking research.",
+    "options": ["notorious", "infamous", "acclaimed", "condemned"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  }
+]

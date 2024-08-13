@@ -1,0 +1,437 @@
+[
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Broad, vendor - neutral security knowledge"],
+    "questionText": "The CISSP certification is pr imarily focused on which of the following?",
+    "options": [
+      "Specific vendor technologies",
+      "A narrow set of security tools",
+      "Broad, vendor - neutral security knowledge",
+      "Physical security only"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Authentication"],
+    "questionText": "Which of the following is NOT one of the three core principles of the CIA triad?",
+    "options": [
+      "Confidentiality",
+      "Integrity",
+      "Authentication",
+      "Availability"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Risk assessment"],
+    "questionText": "The process of identifying, analyzing, and prioritizing risks to an organization's assets is called:",
+    "options": [
+      "Risk mitigation",
+      "Risk acceptance",
+      "Risk assessment",
+      "Risk transference"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Security policy"],
+    "questionText": "Which of the following is a high - level statement that defines an organization's security goals? standard",
+    "options": [
+      "Security procedure",
+      "Security guideline",
+      "Security",
+      "Security policy"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["A mandatory rule for implementing a security policy"],
+    "questionText": "A security standard is best described as: - level statement of security intent",
+    "options": [
+      "A recommendation for implementing security controls",
+      "A detailed instruction on how to perform a security task",
+      "A mandatory rule for implementing a security policy",
+      "A high"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Qualitative risk assessment"],
+    "questionText": "Which type of risk assessment is primarily based on expert judgment and opinions? - quantitative risk assessment",
+    "options": [
+      "Quantitative risk assessment",
+      "Qualitative risk assessment",
+      "Hybrid risk assessment",
+      "Semi"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Risk exploitation"],
+    "questionText": "Which of the following is NOT a risk treatment option?",
+    "options": [
+      "Risk avoidance",
+      "Risk transference",
+      "Risk mitigation",
+      "Risk exploitation"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Evaluating the potential impact of disruptions to business operations"
+    ],
+    "questionText": "A Business Impact Analysis (BIA) primarily focuses on: urity controls",
+    "options": [
+      "Identifying vulnerabilities in systems and networks",
+      "Evaluating the potential impact of disruptions to business operations",
+      "Assessing the likelihood of various threats",
+      "Calculating the financial cost of implementing sec"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Asset identification"],
+    "questionText": "Which of the following is the first step in a risk assessment?",
+    "options": [
+      "Threat assessment",
+      "Vulnerability assessment",
+      "Risk analysis",
+      "Asset identification"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Detailed technical specifications"],
+    "questionText": "Which of the following is NOT a typical component of a security policy?",
+    "options": [
+      "Purpose and scope",
+      "Roles and responsibilities",
+      "Detailed technical specifications",
+      "Enforcement and sanctions"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Encryption"],
+    "questionText": "Which of the following terms describes the pro cess of transforming data into an unreadable format to protect it from unauthorized access?",
+    "options": ["Hashing", "Encryption", "Digital signature", "Steganography"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Integrity"],
+    "questionText": "The act of ensuring that data is accurate, complete, and consistent is known as main taining its: - repudiation",
+    "options": ["Confidentiality", "Integrity", "Availability", "Non"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To educate employees about security risks and how to protect themselves and the organization"
+    ],
+    "questionText": "What is the primary goal of a security awareness program?",
+    "options": [
+      "To train employees on how to hack into systems",
+      "To ensure compliance with all legal and regulatory requirements",
+      "To educate employees about security risks and how to protect themselves and the organization",
+      "To implement technical security controls"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Financial control"],
+    "questionText": "Which of the following is NOT a common type of security control?",
+    "options": [
+      "Administrative control",
+      "Technical control",
+      "Physical control",
+      "Financial control"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["GDPR"],
+    "questionText": "Which regulation focuses on protecting the privacy of personal data in the European Union?",
+    "options": ["HIPAA", "GDPR", "SOX", "PCI DSS"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Protecting the privacy and security of health information"
+    ],
+    "questionText": "The Health Insurance Portability and Accountability Act (HIPAA) primarily deals with: ",
+    "options": [
+      "Financial reporting and corporate governance",
+      "Protecting the privacy and security of health information",
+      "Regulating the use of credit card information",
+      "Preventing unauthorized access to computer systems"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Merchants and service providers who handle credit card data"
+    ],
+    "questionText": "The Payment Card Industry Data Security Standard (PCI DSS) applies to which type of organizations? ",
+    "options": [
+      "Healthcare providers",
+      "Government agencies",
+      "Educational institutions",
+      "Merchants and service providers who handle credit card data"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Data backup procedures"],
+    "questionText": "Which of the following is NOT a common type of security awareness training?",
+    "options": [
+      "Phishing simulations",
+      "Security policy reviews",
+      "Data backup procedures",
+      "Social engineering awareness"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Single Loss Expectancy (SLE)"],
+    "questionText": "In a quantitative risk assessment, the potential financial loss from a single event is known as: ",
+    "options": [
+      "Annualized Loss Expectancy (ALE)",
+      "Single Loss Expectancy (SLE)",
+      "Exposure Factor (EF)",
+      "Annualized Rate of Occurrence (ARO)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Purchasing cybersecurity insurance"],
+    "questionText": "Which of the following is an example of risk transference?",
+    "options": [
+      "Installing antivirus software",
+      "Implementing a firewall",
+      "Purchasing cybersecurity insurance",
+      "Encrypting sensitive data"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Disaster recovery"],
+    "questionText": "The process of restoring systems and data after a disaster is known as:",
+    "options": [
+      "Incident response",
+      "Disaster recovery",
+      "Business continuity",
+      "Risk mitigation"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Physical control"],
+    "questionText": "Which type of control is a security guard patrolling a facility?",
+    "options": [
+      "Administrative control",
+      "Technical control",
+      "Physical control",
+      "Detective control"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["A vulnerability that is unknown to the software vendor"],
+    "questionText": "A zero - day vulnerability is:",
+    "options": [
+      "A vulnerability that has been known for zero days",
+      "A vulnerability that has been patched by the vendor",
+      "A vulnerability that is unknown to the software vendor",
+      "A vulnerability that is easily exploitable"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["A successful phishing attack against an employee"],
+    "questionText": "Which of the following is an example of a security incident? ",
+    "options": [
+      "A server crash due to a hardware failure",
+      "A successful phishing attack against an employee",
+      "A power outage causing a temporary network disruption",
+      "An employee accidentally deleting a file"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Implementing multiple layers of security controls"],
+    "questionText": "The concept of \"defense in depth\" involves:",
+    "options": [
+      "Relying on a single, strong security control",
+      "Implementing multiple layers of security controls",
+      "Focusing solely on perimeter security",
+      "Implementing only technical controls"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "General Data Protection Regulation (GDPR) or applicable state data breach notification laws"
+    ],
+    "questionText": " Scenario: A company discovers a data breach that exposed the personal information of its customers. Which law would most likely require the company to notify affected individuals? ",
+    "options": [
+      "Sarbanes - Oxley Act (SOX) ",
+      "Gramm-Leach-Bliley Act (GLBA)",
+      "Federal Inf Security Management Act (FISMA)",
+      "General Data Protection Regulation (GDPR) or applicable state data breach notification laws"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["FISMA"],
+    "questionText": "Which law requires federal agencies to develop, document, and implement an information security program ?",
+    "options": ["HIPAA", "FISMA", "FERPA", "SOX"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["HIPAA"],
+    "questionText": "Scenario: A hospital employee accesses a patient's medical records without authorization. Which law has likely been violated?",
+    "options": ["GDPR", "HIPAA", "PCI DSS", "GLBA"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Vicarious liability"],
+    "questionText": "Which of the following is a legal concept that holds an employer responsi ble for the actions of its employees?",
+    "options": [
+      "Due diligence",
+      "Vicarious liability",
+      "Negligence",
+      "Strict liability"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": ["Either BCRs or SCCs"],
+    "questionText": "Scenario: A company wants to transfer personal data from the EU to the US. Which mechanism would be MOST appropriate to ensure compliance with GDPR?",
+    "options": [
+      "Binding Corporate Rules (BCRs)",
+      "Standard Contractual Clauses (SCCs)",
+      "Privacy Shield Framework (no longer valid)",
+      "Either BCRs or SCCs"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  }
+]

@@ -1,0 +1,3436 @@
+[
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "A mobile development framework"
+    ],
+    "questionText": "What is Flutter?",
+    "options": [
+      "A web development framework",
+      "A mobile development framework",
+      "A desktop application framework",
+      "A database management system"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Dart"
+    ],
+    "questionText": "Which programming language is used to develop Flutter applica tions?",
+    "options": [
+      "Kotlin",
+      "Java",
+      "Dart",
+      "Swift"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "StatelessWidget"
+    ],
+    "questionText": "Which widget is used to create an immutable area in Flutter?",
+    "options": [
+      "StatelessWidget",
+      "StatefulWidget",
+      "InheritedWidget",
+      "Provider"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "build()"
+    ],
+    "questionText": "Which method is used to create the UI in a StatelessWidget?",
+    "options": [
+      "build()",
+      "initState()",
+      "disp ose()",
+      "setState()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Configuration and dependencies"
+    ],
+    "questionText": "What does the `pubspec)yaml` file in a Flutter project contain?",
+    "options": [
+      "Application code",
+      "Configuration and dependencies",
+      "Images and assets",
+      "Database schema"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Add it to the pubspec)yaml file"
+    ],
+    "questionText": "How do you add an external package to your Flutter project?",
+    "options": [
+      "Edit th e main)dart file",
+      "Add it to the pubspec)yaml file",
+      "Create a new package file",
+      "Configure it in the AndroidManifest)xml"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Launches the ap p on the screen"
+    ],
+    "questionText": "What is the function of the `runApp()` method in Flutter?",
+    "options": [
+      "Initializes the apps state",
+      "Configures app dependencies",
+      "Launches the ap p on the screen",
+      "Manages network calls"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Padding"
+    ],
+    "questionText": "Which widget can be used to add padding to another widget?",
+    "options": [
+      "Padding",
+      "Container",
+      "Row",
+      "Column"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Navigator)push()"
+    ],
+    "questionText": "How do you navigate to a new screen in Flutter?",
+    "options": [
+      "Navigator)push()",
+      "Navigator)pop()",
+      "Navigator)replace()",
+      "Nav igator)remove()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Column"
+    ],
+    "questionText": "Which of the following widgets can hold multiple widgets?",
+    "options": [
+      "Container",
+      "Column",
+      "SizedBox",
+      "Center"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To manage state in a hierarchical widget tree"
+    ],
+    "questionText": "What is the purpose of the `InheritedWidget` in Flutter?",
+    "options": [
+      "To manage state in a hierarchical widget tree",
+      "To create complex an imations",
+      "To handle API calls",
+      "To define routes"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Unique identification of widgets"
+    ],
+    "questionText": "What does the `GlobalKey` help with in Flutter?",
+    "options": [
+      "Unique identification of widgets",
+      "Managing global application state",
+      "Handling HTTP requests",
+      "Storing app settings"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Minimize widget rebuilds"
+    ],
+    "questionText": "How do you optimize a Flu tter application for performance?",
+    "options": [
+      "Use StatefulWidget everywhere",
+      "Minimize widget rebuilds",
+      "Avoid using keys",
+      "Use synchronous code for all operations"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "FutureBuilder works with futures, StreamBuilder works with streams"
+    ],
+    "questionText": "What is the differe nce between `FutureBuilder` and `StreamBuilder`?",
+    "options": [
+      "FutureBuilder is used for HTT P calls, StreamBuilder for UI updates",
+      "FutureBuilder works with futures, StreamBuilder works with streams",
+      "FutureBuilder handles local storage, StreamBuilder handles remote storage",
+      "FutureBuilder is synchronous, StreamBuilder is asynchronous"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Using async and await"
+    ],
+    "questionText": "How can you handle async operations in a Flutter app?",
+    "options": [
+      "Using async and await",
+      "Using Navigator",
+      "Using State and setState",
+      "Using InheritedWidget"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "var a = 5;"
+    ],
+    "questionText": "Which of the following is the correct way to declare a variable in Dart?",
+    "options": [
+      "int a = 5;",
+      "var a = 5;",
+      "let a = 5;",
+      "co nst a = 5;"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "const"
+    ],
+    "questionText": "How do you define a constant variable in Dart?",
+    "options": [
+      "let",
+      "const",
+      "final",
+      "static"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "main()"
+    ],
+    "questionText": "What is the entry point of a Dart application?",
+    "options": [
+      "main()",
+      "run()",
+      "start()",
+      "init()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "async"
+    ],
+    "questionText": "Which keyword is used to create an asynchronous functio n in Dart?",
+    "options": [
+      "async",
+      "await",
+      "async",
+      "Future"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Pauses execution until a future completes"
+    ],
+    "questionText": "What does the `await` keyword do in Dart?",
+    "options": [
+      "Pauses execution until a future completes",
+      "Defines a new future",
+      "Starts an asynchronous function",
+      "Stops an asynchronous function"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "var myList = [];"
+    ],
+    "questionText": "How do you create a list i n Dart?",
+    "options": [
+      "List myList = [];",
+      "var myList = [];",
+      "List myList = new List();",
+      "var myList = new List();"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "A class that can be used to inherit behavior from multiple classes"
+    ],
+    "questionText": "What is a mixin in Dart?",
+    "options": [
+      "A class that can be used to inherit behavior from multiple classes",
+      "A method for combining multiple functions",
+      "A type of funct ion",
+      "A type of variable"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "void myFunction() {}"
+    ],
+    "questionText": "Which of the following is the correct way to define a function in Dart?",
+    "options": [
+      "void myFunction() {}",
+      "function myFunction() {}",
+      "let myFunction() {}",
+      "def myFunction() {}"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "trycatch"
+    ],
+    "questionText": "How do you handle exceptions in Dart?",
+    "options": [
+      "trycatch",
+      "tr yexcept",
+      "catchfinally",
+      "tryfinally"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To represent a value that will be available in the future"
+    ],
+    "questionText": "What is the use of the `Future` class in Dart?",
+    "options": [
+      "To represent a value that will be available in the future",
+      "To handle synchronous code",
+      "To manage state in Flutter",
+      "To store keyvalue pairs"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By using a factory constructor"
+    ],
+    "questionText": "How do you crea te a singleton class in Dart?",
+    "options": [
+      "By using a factory constructor",
+      "By using a static variable",
+      "By using an abstract class",
+      "By using an enum"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "const is compiletime constant, final is runtime con stant"
+    ],
+    "questionText": "What is the difference between `const` and `final` in Dart?",
+    "options": [
+      "const is compiletime constant, final is runtime con stant",
+      "final is compiletime constant, const is runtime constant",
+      "Both are compiletime constants",
+      "Both are runtime constants"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Using the `implements` keyword"
+    ],
+    "questionText": "How do you implement an interface in Dart?",
+    "options": [
+      "Using the `implements` keyword",
+      "Using the `extends` keyword",
+      "Using the `with` key word",
+      "Using the `interface` keyword"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To iterate over a stream asynchronously"
+    ],
+    "questionText": "What is the purpose of the `await for` statement in Dart?",
+    "options": [
+      "To iterate over a stream asynchronously",
+      "To pause execution until a future completes",
+      "To create a new future",
+      "To combine multiple futures"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Public"
+    ],
+    "questionText": "Wh at is the default visibility of a class in Dart?",
+    "options": [
+      "Public",
+      "Private",
+      "Protected",
+      "Interna l"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Managing the data and UI state of an app"
+    ],
+    "questionText": "What is state management in Flutter?",
+    "options": [
+      "Managing the visual elements of an app",
+      "Managing the data and UI state of an app",
+      "Handling network calls",
+      "Managing user authen tication"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "All of the above"
+    ],
+    "questionText": "Which of the following is a popular state management solution in Flutter?",
+    "options": [
+      "Bloc",
+      "Redux",
+      "Provider",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Notifies the framework that the internal state of this object has change d"
+    ],
+    "questionText": "What does `setState()` do in Flutter?",
+    "options": [
+      "Notifies the framework that the internal state of this object has change d",
+      "Initializes the state of a widget",
+      "Disposes the state of a widget",
+      "Builds the UI of a widget"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "InheritedWidget"
+    ],
+    "questionText": "Which widget is commonly used to provide state to a subtree in Flutter?",
+    "options": [
+      "InheritedWidget",
+      "StatelessWidget",
+      "Container",
+      "Scaffold"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Simplifies the code and improves performance"
+    ],
+    "questionText": "What is the ma in advantage of using Provider for state management?",
+    "options": [
+      "Simplifies the code and improves performance",
+      "Makes the UI look better",
+      "Handles HTTP requests",
+      "Adds more animations"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "It separates business l ogic from UI"
+    ],
+    "questionText": "How does the Bloc pattern help with state management?",
+    "options": [
+      "It separates business l ogic from UI",
+      "It combines UI and business logic",
+      "It handles navigation",
+      "It manages network calls"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To notify listeners when there is a change in state"
+    ],
+    "questionText": "What is the purpose of the `ChangeNotifier` class in Flutter?",
+    "options": [
+      "To notify listeners when there is a change in state",
+      "To handle API calls",
+      "To manage navig ation",
+      "To build the UI"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Using the `Consumer` widget"
+    ],
+    "questionText": "How do you listen for changes in state using Provider?",
+    "options": [
+      "Using the `Consumer` widget",
+      "Using the `ChangeNotifier` widget",
+      "Using the `InheritedWidget` widget",
+      "Using the `StatefulWidget` widget"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To build the UI based on the latest snapshot of interaction with a Stream"
+    ],
+    "questionText": "What is the purpose of the `StreamBuilder` widget in Flutter?",
+    "options": [
+      "To build the UI based on the latest snapshot of interaction with a Stream",
+      "To manage the state of a widget",
+      "To handle HTTP requests",
+      "To create a new stream"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By overriding the `dispose()` method"
+    ],
+    "questionText": "How do you dispose of resources in a StatefulWidge t?",
+    "options": [
+      "By overriding the `dispose()` method",
+      "By overriding the `initState()` method",
+      "By using the `build()` method",
+      "By using the `setState()` method"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By using a combination of diffe rent state management solutions"
+    ],
+    "questionText": "How can you optimize state management in a large Flutter application?",
+    "options": [
+      "By using a combination of diffe rent state management solutions",
+      "By using a single global state",
+      "By avoiding state management",
+      "By using only local state"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Provider provides a value, ChangeNotifierProvider pro vides a ChangeNotifier"
+    ],
+    "questionText": "What is the difference between `Provider` and `ChangeNotifierProvider`?",
+    "options": [
+      "Provider provides a value, ChangeNotifierProvider pro vides a ChangeNotifier",
+      "Provider manages state, ChangeNotifierProvider does not",
+      "Provider is asynchronous, ChangeNotifierProvider is synchronous",
+      "Provider is for navigation, ChangeNotifierProvider is for state management"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Using the `InheritedWidget`"
+    ],
+    "questionText": "How do you pass data down the widget tree without using state management solutions?",
+    "options": [
+      "Using the `InheritedWidget`",
+      "Using the `setState()`",
+      "Using the `Navigator`",
+      "Using the `Scaffold`"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "It provides access to the location of a widget in the widget tree"
+    ],
+    "questionText": "What is the role of the `context` parameter in Flutter widgets?",
+    "options": [
+      "It provides access to the location of a widget in the widget tree",
+      "It manages the state of a widget",
+      "It handles API calls",
+      "It builds the UI"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "It allows efficient updates to a value and notifies listeners"
+    ],
+    "questionText": "What is the benefit of using `ValueNotifier` in Flutter?",
+    "options": [
+      "It allows efficient updates to a value and notifies listeners",
+      "It handles na vigation",
+      "It builds the UI",
+      "It manages local storage"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Using trycatch"
+    ],
+    "questionText": "How do you handle errors in API calls using the `http` package in Flutter?",
+    "options": [
+      "Using trycatch",
+      "Using setState()",
+      "Using Navigator",
+      "Using Provider"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Using the `jsonDecode` function from the `dart:convert` library"
+    ],
+    "questionText": "What is the correct way to parse JSON dat a in Flutter?",
+    "options": [
+      "Using the `jsonDecode` function from the `dart:convert` library",
+      "Using the `jsonEncode` function from the `dart:convert` library",
+      "Using the `jsonSerialize` function from the `dart:convert` library",
+      "Using the `jsonDeserialize` function from the ` dart:convert` library"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "POST"
+    ],
+    "questionText": "Which HTTP method is used to send data to a server to create a new resource?",
+    "options": [
+      "GET",
+      "POST",
+      "PUT",
+      "DELETE"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "setState"
+    ],
+    "questionText": "Which state management solution is included in the Flutter SDK by default?",
+    "options": [
+      "Provider",
+      "Bloc",
+      "setState",
+      "Redux"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Notifies the framework that the internal state of this object has changed"
+    ],
+    "questionText": "What does the `setState` method do in Flutter?",
+    "options": [
+      "Initializes the state of a widget",
+      "Builds the UI of a widget",
+      "Notifies the framework that the internal state of this object has changed",
+      "Disposes the state of a widget"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "InheritedWidget"
+    ],
+    "questionText": "Which widget can be used to provide state to a subtree in Flutter?",
+    "options": [
+      "InheritedWidget",
+      "StatelessWidget",
+      "Container",
+      "Scaffold"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To listen for changes in state and rebuild widgets"
+    ],
+    "questionText": "What is the purpose of the `Consumer` widget in the Provider package?",
+    "options": [
+      "To consume API data",
+      "To listen for changes in state and rebuild widgets",
+      "To navigate between screens",
+      "To handle form inputs"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Provider"
+    ],
+    "questionText": "Which of the following is a reactive state management solution in Flutter?",
+    "options": [
+      "Provider",
+      "setState",
+      "InheritedWidget",
+      "StatelessWidget"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To notify listeners when there is a change in state"
+    ],
+    "questionText": "What is the `ChangeNotifier` class used for in Flutter?",
+    "options": [
+      "To notify listeners when there is a change in state",
+      "To handle navigation",
+      "To make API calls",
+      "To manage local storage"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Axios"
+    ],
+    "questionText": "Which of the following is NOT a state management solution in Flutter?",
+    "options": [
+      "Bloc",
+      "Redux",
+      "ScopedModel",
+      "Axios"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Using the `ChangeNotifierProvider` widget"
+    ],
+    "questionText": "How do you provide a state to the widget tree using Provider?",
+    "options": [
+      "Using the `ChangeNotifierProvider` widget",
+      "Using the `InheritedWidget` widget",
+      "Using the `StatefulWidget` widget",
+      "Using the `StreamBuilder` widget"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "T o separate business logic from UI"
+    ],
+    "questionText": "What is the purpose of the `Bloc` pattern in Flutter?",
+    "options": [
+      "T o separate business logic from UI",
+      "To handle API calls",
+      "To manage routing",
+      "To create animations"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "dispose()"
+    ],
+    "questionText": "Which method do you use to dispose of resources in a StatefulWidget?",
+    "options": [
+      "initState()",
+      "build()",
+      "dispose()",
+      "setState()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "It simplifies the code and improves performance"
+    ],
+    "questionText": "What is the main advantage of using the Provider package in Flutter?",
+    "options": [
+      "It simplifies the code and improves performance",
+      "It handles navigation",
+      "It creates complex animations",
+      "It manages theme and localization"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "All of the above"
+    ],
+    "questionText": "Which package is commonly used for making HTTP requests in Flutter?",
+    "options": [
+      "http",
+      "dio",
+      "retrofit",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To pause execution until the API call completes"
+    ],
+    "questionText": "What is the purpose of the `await` keyword when making an API call in Flutter?",
+    "options": [
+      "To pause execution until the API call completes",
+      "To start the API call",
+      "To handle errors in the API call",
+      "To cancel the API call"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "POST"
+    ],
+    "questionText": "Which HTTP method is used to send data to a server to create a new resource?",
+    "options": [
+      "GET",
+      "POST",
+      "PUT",
+      "DELETE"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "http)get(https://api)example)com/data);"
+    ],
+    "questionText": "How do you make a GET request using the `http` package in Flutter? dart",
+    "options": [
+      "http)get(https://api)example)com/data);",
+      "http)post(https://api)e xample)com/data);",
+      "http)fetch(https://api)example)com/data);",
+      "http)retrieve(https://api)example)com/data)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "http)post(url, headers: headers, body: jsonEncode(data));"
+    ],
+    "questionText": "Which method is used to send a request with a JSON body using the `http` package in Flutter? dart",
+    "options": [
+      "http)get(url, headers: headers, body: jso nEncode(data));",
+      "http)post(url, headers: headers, body: jsonEncode(data));",
+      "http)fetch(url, headers: headers, body: jsonEncode(data));",
+      "http)send(url, headers: headers, body: jsonEncode(data));"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "jsonDecode(response)body);"
+    ],
+    "questionText": "How do you decode a JSON response in Flutter using t he `http` package? dart",
+    "options": [
+      "jsonDecode(response)body);",
+      "jsonEncode(response)body);",
+      "response)jsonDecode();",
+      "response)jsonEncode();"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To build the UI based on the latest snapshot of interacti on with a Future"
+    ],
+    "questionText": "What is the purpose of the `FutureBuilder` widget in Flutter?",
+    "options": [
+      "To build the UI based on the latest snapshot of interacti on with a Future",
+      "To manage the state of a widget",
+      "To handle API calls",
+      "To create a new future"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "dio)post(https://api)example)com/data, data: {key: value});"
+    ],
+    "questionText": "How do you make a POST request using the `dio` package in Flutter?",
+    "options": [
+      "dio)get(https://api)example)com/data);",
+      "dio)post(https://api)example)com/data, data: {key: value});",
+      "dio)fetch(https://api)example)com/data);",
+      "dio)send(https://api)example)com/data);"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Using the `FutureBuilder` widget"
+    ],
+    "questionText": "How do you handle longrunning API calls in Flutter?",
+    "options": [
+      "Using the `FutureBuilder` widget",
+      "Using the `StreamBuilder` widget",
+      "Using the `AsyncTask` widget",
+      "Using the `Isolate` class"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "dio provides more features like interceptors, global configuration, and FormData"
+    ],
+    "questionText": "What is the benefit of using the `dio` package over the `http` package in Flutter?",
+    "options": [
+      "dio provides more features like interceptors, global configuration, and FormData",
+      "dio is easier to use",
+      "dio is faster",
+      "dio handles authen tication automatically"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "dio)cancel();"
+    ],
+    "questionText": "How do you cancel an ongoing HTTP request using the `dio` package? dart",
+    "options": [
+      "dio)cancel();",
+      "dio)abort();",
+      "dio)terminate();",
+      "dio)interrupt();"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To interce pt requests, responses, and errors"
+    ],
+    "questionText": "What is the purpose of the `interceptors` in the `dio` package?",
+    "options": [
+      "To interce pt requests, responses, and errors",
+      "To handle API calls",
+      "To manage state",
+      "To navigate between screens"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By sending the current page number as a query parameter"
+    ],
+    "questionText": "How do you handle pagination when making API calls in Flutter?",
+    "options": [
+      "By sending the current page number as a query parameter",
+      "By sending the total numb er of items as a query parameter",
+      "By sending the user ID as a query parameter",
+      "By sending the API key as a query parameter"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By using a state management solution to store and update t he API data"
+    ],
+    "questionText": "How can you use state management to handle API data in Flutter?",
+    "options": [
+      "By using a state management solution to store and update t he API data",
+      "By using a global variable",
+      "By using a static method",
+      "By using a Singleton pattern"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Consumer"
+    ],
+    "questionText": "Which widget is commonly used to rebuild the UI when API data changes in Flutter?",
+    "options": [
+      "Consumer",
+      "Scaffold",
+      "AppBar",
+      "ListTile"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By notifying listeners in the ChangeNotifier class"
+    ],
+    "questionText": "How do you update the UI after making an API call using Provider?",
+    "options": [
+      "By notifying listeners in the ChangeNotifier class",
+      "By using setState()",
+      "By rebuilding the entire widget tree",
+      "By restarting the app"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To n otify all the listeners about a change in state"
+    ],
+    "questionText": "What is the purpose of the `notifyListeners` method in Flutter?",
+    "options": [
+      "To n otify all the listeners about a change in state",
+      "To make an API call",
+      "To handle navigation",
+      "To dispose of resources"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By creating events and states to manage API calls"
+    ],
+    "questionText": "How do you integrate API calls with the Bloc pattern in Flutter?",
+    "options": [
+      "By creating events and states to manage API calls",
+      "By using setSta te()",
+      "By using Navigator",
+      "By using the http package directly in the UI"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By caching API responses"
+    ],
+    "questionText": "How can you improve the performance of an app that makes frequent API calls?",
+    "options": [
+      "By caching API responses",
+      "By increasing the timeout for API requests",
+      "By making synchronous API cal ls",
+      "By using global variables"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To abstract the data layer and provide a clean API for accessing data"
+    ],
+    "questionText": "What is the role of a repository in state management and API integration?",
+    "options": [
+      "To abstract the data layer and provide a clean API for accessing data",
+      "To manage the state of the app",
+      "To handle navigation",
+      "To build the UI"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By using a state management solution to manage loading states"
+    ],
+    "questionText": "How do you handle loading states when making API calls in Flutter?",
+    "options": [
+      "By using a state management solution to manage loading states",
+      "By using setState()",
+      "By displaying a static loading spinner",
+      "By restarting the app"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "flutter_cache_manager"
+    ],
+    "questionText": "Which package can be u sed to cache HTTP responses in Flutter?",
+    "options": [
+      "flutter_cache_manager",
+      "flutter_secure_storage",
+      "path_provider",
+      "shared_preferences"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By using mock data and mocking API responses"
+    ],
+    "questionText": "How do you test state management logic that involves API calls in Flutter?",
+    "options": [
+      "By using mock data and mocking API responses",
+      "By ma king real API calls",
+      "By avoiding tests for API calls",
+      "By testing only the UI"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By using a state management solution to store and update the authentication state"
+    ],
+    "questionText": "How do you manage authentication state and API calls in a Flutter app?",
+    "options": [
+      "By using a state management solution to store and update the authentication state",
+      "By using global variables for authentication",
+      "By making synchronous API calls",
+      "By storing authentication tokens in the widget tree"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By using trycatch blocks and updating the state accordin gly"
+    ],
+    "questionText": "What is the best way to handle API errors in a statemanaged Flutter app?",
+    "options": [
+      "By using trycatch blocks and updating the state accordin gly",
+      "By ignoring errors",
+      "By restarting the app",
+      "By making synchronous API calls"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By making the API call in the initState() method"
+    ],
+    "questionText": "How can you ensure that API calls are made only once in a stateful widget?",
+    "options": [
+      "By making the API call in the initState() method",
+      "By using setState() in the build() method",
+      "By making the API call in the build() method",
+      "By using a global variable"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By using a repository pattern to manage both local and remote data sources"
+    ],
+    "questionText": "How do you combine local and remote data in a statemanaged Flutter app?",
+    "options": [
+      "By using a repository pattern to manage both local and remote data sources",
+      "By using global variable s",
+      "By using only remote data",
+      "By using only local data"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To manage a stream of asynchronous data"
+    ],
+    "questionText": "What is the purpose of the `StreamController` in Flutter?",
+    "options": [
+      "To manage a stream of asynchronous data",
+      "To handle navigation",
+      "To make API calls",
+      "To build the UI"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By using a debounce function to delay the API call until a certain time has passed without new requests"
+    ],
+    "questionText": "How can you debounce API calls in a statemanaged Flutter app?",
+    "options": [
+      "By using a debounce function to delay the API call until a certain time has passed without new requests",
+      "By making synchronous API calls",
+      "By using global variables",
+      "By ignoring API calls"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By using Future)wait() to wait for all the calls to complete"
+    ],
+    "questionText": "How do you handle mul tiple simultaneous API calls in Flutter?",
+    "options": [
+      "By using Future)wait() to wait for all the calls to complete",
+      "By making synchronous API calls",
+      "By using global variables",
+      "By restarting the app"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By using a state management solution like Bloc or Provider"
+    ],
+    "questionText": "How do you manage complex state with multiple dependencies in Flutter?",
+    "options": [
+      "By using a state management solution like Bloc or Provider",
+      "By using setState()",
+      "By using global variables",
+      "By avoiding state management"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By updating the UI state befo re the API call completes and reverting if the call fails"
+    ],
+    "questionText": "How do you implement optimistic UI updates with API calls in Flutter?",
+    "options": [
+      "By updating the UI state befo re the API call completes and reverting if the call fails",
+      "By waiting for the API call to complete before updating the UI",
+      "By making synchronous API calls",
+      "By using global variables"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By separating the data layer, business logic, and UI into different components"
+    ],
+    "questionText": "What is the best practice for structuring a Flutter app with sta te management and API calls?",
+    "options": [
+      "By separating the data layer, business logic, and UI into different components",
+      "By putting everything in the main)dart file",
+      "By using global variables",
+      "By making synchronous API calls"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "2"
+    ],
+    "questionText": "How many types of widgets are ther e in Flutter?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8+"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "compilation strategy"
+    ],
+    "questionText": "When building for iOS, Flutter is restricted to an __ ",
+    "options": [
+      "compilation strategy",
+      "JIT (Just - in - time)",
+      "Transcompilation",
+      "Recompilation"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "All of the above"
+    ],
+    "questionText": "What are some key advantages of Flutter over alternate framew orks?",
+    "options": [
+      "Rapid cross - platform application development and debugging tools",
+      "Future - proofed technologies and UI resources",
+      "Strong supporting tools for application development and launch",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Integration Tests"
+    ],
+    "questionText": "What type of test can examine your code as a co mplete system?",
+    "options": [
+      "Unit tests",
+      "Widget tests",
+      "Integration Tests",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "onPressed"
+    ],
+    "questionText": "Which of the following function or method can be used to add an action to this button if the app user taps this button?",
+    "options": [
+      "GoTo",
+      "onPressed",
+      "JumupNow",
+      "flyTo"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Authentication"
+    ],
+    "questionText": "If you created a Flutter app using the Firebase services where the app users had to login to this App using Firebase user accounts (email and password), which of the following Firebase products store these app users' accounts?",
+    "options": [
+      "Database",
+      "Authentication",
+      "Storage",
+      "Hos ting"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Switch Widget"
+    ],
+    "questionText": "This Flutter widget is used to toggle the on/off state of a single setting) Which of the following choices represents this definition?",
+    "options": [
+      "onOff Widget",
+      "SlideA Widget",
+      "noYes Widget",
+      "Switch Widget"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "DatePicker plug - in"
+    ],
+    "questionText": "A plug - in is used to enter the date in your Flutter app interface instead of asking an app user to addit manually) Which is of the choices below representthidetion?",
+    "options": [
+      "Dateinsert ) widget",
+      "DatePicker plug - in",
+      "Date Dialog plug - in",
+      "Date Mark plugin"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "the image from your hard disk, paste this image in the image folder, configure your Dart file in this Flutter project to use this image file name, configure your Flutter project pubspec)yaml file to use this image folder, then click \"Packages get\" at the top of pubspec)yaml file) select the image, click Save three times, and then restart your IDE)"
+    ],
+    "questionText": "Which of the following choices is t he best answer for adding an image from your computer hard disk to a Flutter project?",
+    "options": [
+      "You cannot add an image from your computer hard disk to a Flutter project) You can only configure your code to use an image from a web link)",
+      "Add a new folder (directory) to your Flutter file structure, copy the image from your hard disk, paste this image in the image folder then configure your Dart file in this Flutter project to use this image file ",
+      "the image from your hard disk, paste this image in the image folder, configure your Dart file in this Flutter project to use this image file name, configure your Flutter project pubspec)yaml file to use this image folder, then click \"Packages get\" at the top of pubspec)yaml file) select the image, click Save three times, and then restart your IDE)",
+      "Click File menu in any Flutter IDE, select Insert, select Image, browse to"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Dart Analysis"
+    ],
+    "questionText": "If you have any error in your Dart code of your Flutter app,the status bar of your Android Studio displays the error description and also displays the line of the code on which the error is) Also, in most cases the description field in this console gives you an idea about the reason of the error) What is the name of this con sole?",
+    "options": [
+      "Terminal",
+      "Dart Analysis",
+      "Run",
+      "Hot Reload"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Realtime Database and Cloud Firestore"
+    ],
+    "questionText": "Firebase offers two cloud - based, client - accessible database solutions) Which of the following choices is a Firebase database type?",
+    "options": [
+      "SQL and MySQL",
+      "Realtime Database and Cloud Firestore",
+      "Cloud Firestore and MySQL",
+      "Realtime Database and SQL"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Flutter Doc tor"
+    ],
+    "questionText": "Command checks your environment and displays a report of the status of your Futterand Android Studio other than Esentation Which of the following choices is the correct answer to the blank above?",
+    "options": [
+      "Flutter Doc tor",
+      "Flutter Connection",
+      "Flutter Screen",
+      "Flutter IDE XML"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "object"
+    ],
+    "questionText": "An ________ is a real - time representation of any entity)",
+    "options": [
+      "class",
+      "method",
+      "object",
+      "None of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "var x = 5 ;"
+    ],
+    "questionText": "Which of the following is the correct syntax for defining a variable in Dart?",
+    "options": [
+      "var x = 5 ;",
+      "x = 5;",
+      "int x = 5;",
+      "variable x = 5;"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To define a variable that cannot be changed after its initial assignment"
+    ],
+    "questionText": "What is the purpose of the “final” keyword in Dart?",
+    "options": [
+      "To define a constant variable",
+      "To define a variable that cannot be changed after its initial assignment",
+      "To define a variable that can only be accessed within i ts scope",
+      "To define a variable that can be accessed from any scope"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To define a constant variable"
+    ],
+    "questionText": "What is the purpose of the “const” keyword in Dart?",
+    "options": [
+      "To define a constant variable",
+      "To define a variable that cannot be changed after its initial assignment",
+      "To define a variable that can only be accessed within its scope",
+      "To define a variable that can be accessed from any scope"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "void foo() {}"
+    ],
+    "questionText": "Which of the following is the correct syntax for defining a function in Dart?",
+    "options": [
+      "function foo() {}",
+      "void foo() {}",
+      "int foo() {}",
+      "dynamic foo() {}"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To define a function that returns a Future"
+    ],
+    "questionText": "What is the purpose of the “async” keyword in Dart?",
+    "options": [
+      "To define a function that returns a Future",
+      "To define a function that can be run in a separate isolate",
+      "To define a function that can be run in a separate thread",
+      "To define a function that can be run concurr ently with other functions"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "[]"
+    ],
+    "questionText": "What is the output of the following Dart code? void main() { List<String> fruits = [‘apple’, ‘banana’, ‘cherry’, ‘durian’]; fruits)clear(); print(fruits); }",
+    "options": [
+      "[]",
+      "null",
+      "[‘apple’, ‘banana’, ‘cherry’, ‘durian’]",
+      "Compilation error"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Imperative Programming"
+    ],
+    "questionText": "Which of the following is NOT a core principle of Flutter?",
+    "options": [
+      "Hot Reload",
+      "Stateful vs) Stateless Widgets",
+      "Imperative Programming",
+      "Declarativ e UI"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To asynchronously fetch data and display it"
+    ],
+    "questionText": "When would you use a FutureBuilder widget?",
+    "options": [
+      "To display static text",
+      "To handle user input",
+      "To asynchronously fetch data and display it",
+      "To create animations"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "GlobalKeys can be accessed from anywhere in the widget tree, LocalKeys cannot"
+    ],
+    "questionText": "What is the difference between a GlobalKey and a LocalKey?",
+    "options": [
+      "GlobalKeys are uniqu e across the entire app, LocalKeys are for specific widgets",
+      "LocalKeys are unique across the entire app, GlobalKeys are for specific widgets",
+      "GlobalKeys can be accessed from anywhere in the widget tree, LocalKeys cannot",
+      "LocalKeys can be accessed from anywher e in the widget tree, GlobalKeys cannot"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By creating a ChangeNotifier and notifying listeners"
+    ],
+    "questionText": "How can you manage state changes in a Provider package?",
+    "options": [
+      "By directly modifying the state object",
+      "By using setState() from the Provider class",
+      "By creating a ChangeNotifier and notifying listeners",
+      "By using a Str eamBuilder widget"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To perform one - time initialization tasks"
+    ],
+    "questionText": "What is the purpose of the initState() method in a StatefulWidget?",
+    "options": [
+      "To build the UI of the widget",
+      "To handle user interactions",
+      "To perform one - time initialization tasks",
+      "To dispose of resources when the widget is removed"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By using the Navigator class and pushing/popping routes"
+    ],
+    "questionText": "H ow do you navigate between screens in a Flutter app?",
+    "options": [
+      "By using Intent objects (like in Android)",
+      "By directly manipulating the widget tree",
+      "By using the Navigator class and pushing/popping routes",
+      "By using a StatefulWidget with different states"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Both can be updated, but Stateful widgets manage th eir own state"
+    ],
+    "questionText": "What i s the difference between a StatelessWidget and a StatefulWidget?",
+    "options": [
+      "StateLess widgets can't be updated, Stateful widgets can",
+      "StateLess widgets are for static content, Stateful widgets are for dynamic content",
+      "Both can be updated, but Stateful widgets manage th eir own state",
+      "There is no difference, they are the same"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By using callbacks within the widget that receives the input"
+    ],
+    "questionText": "What is the best practice for handling user input in a Flutter app?",
+    "options": [
+      "By directly modifying the UI based on input",
+      "By using callbacks within the widget that receives the input",
+      "By storing user i nput in a global variable and accessing it from anywhere",
+      "By using a separate class to handle all user interactions"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "A Statele ssWidget represents a single screen"
+    ],
+    "questionText": "What is the Flutter equivalent of an Activity in Android development?",
+    "options": [
+      "There is no direct equivalent, Flutter uses widgets",
+      "A Statele ssWidget represents a single screen",
+      "A StatefulWidget represents a single screen with dynamic content",
+      "A PageView holds multiple screens for swiping navigation"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "A widget you create yourself to encapsulate reusable UI components"
+    ],
+    "questionText": "What is a custom widget in Flutter, and why would you use one?",
+    "options": [
+      "A pre - built widget from t he Flutter framework",
+      "A widget you create yourself to encapsulate reusable UI components",
+      "A widget that can access native platform functionality",
+      "A widget that manages state changes for the entire app"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "`const` is for compile - time constants, `final` is for runtime constants"
+    ],
+    "questionText": "What is the difference between const and final k eywords in Dart?",
+    "options": [
+      "`const` is for compile - time constants, `final` is for runtime constants",
+      "Both are the same, they just provide different ways to declare constants",
+      "`const` can only be used for primitive types, `final` can be used for any type",
+      "`final` variabl es can be modified after initialization, `const` cannot"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To spread the elements of an iterable into anoth er collection"
+    ],
+    "questionText": "What is the purpose of the spread operator ()))) in Dart?",
+    "options": [
+      "To perform arithmetic operations on multiple values",
+      "To concatenate strings directly",
+      "To spread the elements of an iterable into anoth er collection",
+      "To access hidden properties of an object"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By overloading existing operator symbols like `+` or ` - `"
+    ],
+    "questionText": "How do you define a custom operator in Dart?",
+    "options": [
+      "By overloading existing operator symbols like `+` or ` - `",
+      "Dart does not allow custom operator overloading",
+      "By defining a function with a specific na ming convention",
+      "By using annotations on existing methods"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Null - safe functions require all arguments t o be non - null, non - null - safe functions don't"
+    ],
+    "questionText": "What is the difference between a null - safe and a non - null - safe Dart function?",
+    "options": [
+      "Null - safe functions can return null, non - null - safe functions cannot",
+      "Null - safe functions require all arguments t o be non - null, non - null - safe functions don't",
+      "Null - safe functions use specific annotations, non - null - safe functions don't",
+      "There is no difference, null safety is a compiler setting"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By using the `async` and `await` keywords"
+    ],
+    "questionText": "How do you implement asynchronous operations in Dart?",
+    "options": [
+      "By using the `async` and `await` keywords",
+      "By creating separate threads for long - running tasks",
+      "By using callbacks and timers",
+      "Dart does not support asynchronous programming"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To provide reusable functionality that can be mixed into other classes"
+    ],
+    "questionText": "What is the purpose of mixins in Dart?",
+    "options": [
+      "To define abstract classes that cannot be instant iated",
+      "To provide reusable functionality that can be mixed into other classes",
+      "To create multiple inheritance in Dart",
+      "To define static methods that can be accessed by all classes"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Lambdas are a specific syntax for short anonymous functions, closures are more general"
+    ],
+    "questionText": "What is the difference between a closure and a lambda function in Dar t?",
+    "options": [
+      "Closures are anonymous functions that can access variables from their enclosing scope, lambdas cannot",
+      "Lambdas are a specific syntax for short anonymous functions, closures are more general",
+      "There is no difference, they are the same concept with different names",
+      "Closures are for capturing state, lambdas are for simple operations"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Static methods ar e called on the class itself, instance methods are called on instances"
+    ],
+    "questionText": "What is the difference between a static and an instance method in Dart?",
+    "options": [
+      "Static methods can only access static variables; instance methods can access both",
+      "Static methods ar e called on the class itself, instance methods are called on instances",
+      "There is no difference, they are just different ways to define methods",
+      "Static methods are for utility functions, instance methods are for object behavior"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Dart is statically typed, runtime type checks are not necessary"
+    ],
+    "questionText": "How do you check the type of a variable at runtime in Dart?",
+    "options": [
+      "By using the `typeof` operator (like in JavaScript)",
+      "Dart is statically typed, runtime type checks are not necessary",
+      "By using a separate function for type checking",
+      "By using reflection (not recommended in Dart)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "ListView"
+    ],
+    "questionText": "Which widget in Flutter allows you to create a scrollable, linear array of widgets?",
+    "options": [
+      "ListView",
+      "GridView",
+      "Column",
+      "Row"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Future represents a single asynchronous computation, while Stream represents a sequence of asynchronous events)"
+    ],
+    "questionText": "What is the primary difference between Future and Stream in Dart?",
+    "options": [
+      "Future represents a sequence of asynchronous events, while Str eam represents a single asynchronous computation)",
+      "Future represents a single asynchronous computation, while Stream represents a sequence of asynchronous events)",
+      "Future is synchronous, while Stream is asynchronous)",
+      "Future can only return errors, while Stre am can return data)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "json)encode()"
+    ],
+    "questionText": "Which method is used to convert a Dart object to a JSON string?",
+    "options": [
+      "json)encode()",
+      "json)serialize()",
+      "json)toJson()",
+      "json)stringify()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "dispose"
+    ],
+    "questionText": "In Flutter, which lifecycle method is called when the widget is about to be removed from t he widget tree?",
+    "options": [
+      "initState",
+      "dispose",
+      "didChangeDependencies",
+      "didUpdateWidget"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To share data with child wi dgets efficiently)"
+    ],
+    "questionText": "What is the primary purpose of the inheritedWidget in Flutter?",
+    "options": [
+      "To manage the state of the application)",
+      "To inherit properties from a parent widget)",
+      "To share data with child wi dgets efficiently)",
+      "To create reusable UI components)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "char"
+    ],
+    "questionText": "Which of the following is not a valid Dart data type?",
+    "options": [
+      "int",
+      "double",
+      "char",
+      "bool"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Using a factory constructor)"
+    ],
+    "questionText": "How do you create a singleton in Dart?",
+    "options": [
+      "Using the new keyword)",
+      "Using a factory constructor)",
+      "Using a static method)",
+      "Using the const keyword)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To indicate that a method overrides a superclass method)"
+    ],
+    "questionText": "What is the purpose of the @override annotation in Dart?",
+    "options": [
+      "To create an abstract method)",
+      "To implement a method from an interface)",
+      "To indicate that a method overrides a superclass method)",
+      "To ignore the method)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "1"
+    ],
+    "questionText": "In Dart, what will be the output of print(1 ?? 2);?",
+    "options": [
+      "1",
+      "2",
+      "null",
+      "Error"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "That a function returns a Future)"
+    ],
+    "questionText": "What does the async keyword indicate in Dart?",
+    "options": [
+      "That a function returns a Stream)",
+      "That a function returns a Future)",
+      "That a function is synchronous)",
+      "That a function runs in a se parate isolate)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Padding"
+    ],
+    "questionText": "Which widget would you use to add padding around a widget in Flutter?",
+    "options": [
+      "Padding",
+      "Margin",
+      "Container",
+      "Spacer"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By using an underscore (_) prefix)"
+    ],
+    "questionText": "How do you access a private member variable in Dart?",
+    "options": [
+      "By using an underscore (_) prefix)",
+      "By declaring it as private)",
+      "By declaring it as protected)",
+      "By using the get keyword)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To build UI elements based on asynchronous data)"
+    ],
+    "questionText": "What is the purpose of the StreamBuilder widget in Flutter?",
+    "options": [
+      "To build UI elements based on synchronous data)",
+      "To build UI elements based on asynchronous data)",
+      "To build static UI elements)",
+      "To cre ate animations)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To throw an error if a condition is false during development)"
+    ],
+    "questionText": "In Dart, what is the purpose of the assert statement?",
+    "options": [
+      "To throw an error if a condition is false during development)",
+      "To validate user input)",
+      "To handle exceptions)",
+      "To create a compile - time constant)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Set"
+    ],
+    "questionText": "Which Dart collection t ype maintains insertion order and does not allow duplicate elements?",
+    "options": [
+      "List",
+      "Set",
+      "Map",
+      "Queue"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "It pauses the execution of a function until a Future completes)"
+    ],
+    "questionText": "What does the await keyword do in Dart?",
+    "options": [
+      "It marks a function as asynchronous)",
+      "It pauses the execution of a function until a Future completes)",
+      "It creates a new isolate)",
+      "It converts a synchronous function to asynchronous)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "InheritedWidget"
+    ],
+    "questionText": "Which of the following widgets helps in managing the state of a child widget in Flutter?",
+    "options": [
+      "StatefulWidget",
+      "StatelessWidget",
+      "InheritedWidget",
+      "Provider"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To provide a way to share reusable code between multiple classes)"
+    ],
+    "questionText": "What is the purpose of the mixins in Dart?",
+    "options": [
+      "To inherit properties from a superclass)",
+      "To provide a way to share reusable code between multiple classes)",
+      "To create abstract classes)",
+      "To define constants)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Maps maintain the order of insertion)"
+    ],
+    "questionText": "Which of the following statements about the Map class in Dart is false?",
+    "options": [
+      "Ma ps are unordered)",
+      "Maps are collections of key - value pairs)",
+      "Keys must be unique in a Map)",
+      "Maps maintain the order of insertion)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "setState"
+    ],
+    "questionText": "In Flutter, which method is called when the state of a StatefulWidget changes?",
+    "options": [
+      "build",
+      "setState",
+      "initState",
+      "didUpdateWid get"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To uniquely identify a widget)"
+    ],
+    "questionText": "What is the purpose of the GlobalKey in Flutter?",
+    "options": [
+      "To uniquely identify a widget)",
+      "To store global variables)",
+      "To navigate between screens)",
+      "To manage application state)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "It a llows for non - nullable fields to be initialized after the constructor)"
+    ],
+    "questionText": "Which of the following is true about the late keyword in Dart?",
+    "options": [
+      "It a llows for non - nullable fields to be initialized after the constructor)",
+      "It forces a variable to be nullable)",
+      "It ensures a variable is lazily initialized)",
+      "It throws an error if the variable is accessed before initialization)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Using the abstract keyword)"
+    ],
+    "questionText": "How do you define an ab stract class in Dart?",
+    "options": [
+      "Using the abstract keyword)",
+      "Using the interface keyword)",
+      "Using the extends keyword)",
+      "Using the @abstract annotation)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "The variable can only be set once)"
+    ],
+    "questionText": "What does the final keyword indicate in Dart?",
+    "options": [
+      "The variable can only be set once)",
+      "The variable is a constant)",
+      "The variable is private)",
+      "The variable is static)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "ListView)builder"
+    ],
+    "questionText": "Which widget in Flutter is used to display a repeating list of widgets with a defined structure?",
+    "options": [
+      "ListView)builder",
+      "ListView",
+      "GridView)builder",
+      "Column"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Hello World"
+    ],
+    "questionText": "What is the output of the following Dar t code? print('Hello' + ' World');",
+    "options": [
+      "HelloWorld",
+      "Hello World",
+      "'Hello' + ' World'",
+      "Error"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "try"
+    ],
+    "questionText": "Which Dart keyword is used to handle exceptions?",
+    "options": [
+      "try",
+      "catch",
+      "throw",
+      "on"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Using Visibility widget with visible: false)"
+    ],
+    "questionText": "In Flutter, how can you make a widget invisible while keeping its space in the layout ?",
+    "options": [
+      "Using Visibility widget with visible: false)",
+      "Using Opacity widget with opacity: 0)",
+      "Using SizedBox with height and width zero)",
+      "Using Container with color set to transparent)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "2"
+    ],
+    "questionText": "What will be the output of print(5 ~/ 2); in Dart?",
+    "options": [
+      "2)5",
+      "2",
+      "3",
+      "1"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Timer)periodic"
+    ],
+    "questionText": "Which of the following is used to schedule a function to be executed periodically in Dart?",
+    "options": [
+      "Timer)periodic",
+      "Timer",
+      "Stream)periodic",
+      "Future)delayed"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "T o manage state in a Flutter application)"
+    ],
+    "questionText": "What is the primary purpose of the Provider package in Flutter?",
+    "options": [
+      "To manage navigation between screens)",
+      "T o manage state in a Flutter application)",
+      "To create reusable UI components)",
+      "To handle HTTP requests)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "const"
+    ],
+    "questionText": "Which Dart keyword is used to declare a compile - time constant?",
+    "options": [
+      "const",
+      "final",
+      "static",
+      "var"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To pause a generator function and return a value)"
+    ],
+    "questionText": "What is the purpose of the yield keyword in Dart?",
+    "options": [
+      "To return a value from a synchronous function)",
+      "To return a value from an asynchronous function)",
+      "To pause a generator function and return a value)",
+      "To stop the execution of a function)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "??="
+    ],
+    "questionText": "In Dart, which operator is used to perform null - aware ass ignment?",
+    "options": [
+      "??",
+      "??=",
+      "!?",
+      "?!"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "BoxShadow"
+    ],
+    "questionText": "Which widget is commonly used in Flutter for applying an overlay shadow effect?",
+    "options": [
+      "Container",
+      "BoxShadow",
+      "DecoratedBox",
+      "Material"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "10"
+    ],
+    "questionText": "What is the output of print([1, 2, 3, 4])reduce((a, b) => a + b)); in Dart?",
+    "options": [
+      "10",
+      "1234",
+      "[1, 2 , 3, 4]",
+      "Error"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "list)first"
+    ],
+    "questionText": "How do you access the first element of a List in Dart?",
+    "options": [
+      "list[1]",
+      "list[0]",
+      "list)first",
+      "list)first()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "ElevatedButton"
+    ],
+    "questionText": "Which of the following widgets is used to create a simple button in Flutter?",
+    "options": [
+      "FlatButton",
+      "RaisedButton",
+      "ElevatedButton",
+      "TextButton"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "It performs a null check before accessing a method or property)"
+    ],
+    "questionText": "In Dart, what does the ?) operator do?",
+    "options": [
+      "It performs a null check before accessing a method or property)",
+      "It performs a type check)",
+      "It accesses the property of a nullable object without a null check)",
+      "It throws an error if the object is null)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "['D', 'a', 'r', 't']"
+    ],
+    "questionText": "What is the output of print(\"Dart\")split(''));?",
+    "options": [
+      "['D', 'a', 'r', 't']",
+      "'D', 'a', 'r', 't'",
+      "['Dart']",
+      "['']"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "initState"
+    ],
+    "questionText": "Which lifecycle method is called exactly once in the lifetime of a State object in Flutter?",
+    "options": [
+      "build",
+      "initState",
+      "dispose",
+      "didChangeDependencies"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By using a period followed by the constructor name)"
+    ],
+    "questionText": "How do you declare a named constructor in Dart?",
+    "options": [
+      "By using the name keyword)",
+      "By using the this keyword)",
+      "By using a period followed by the constructor name)",
+      "By using the new keyword)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "It creates a compile - time constant)"
+    ],
+    "questionText": "Which of the following is true about the const keyword in D art?",
+    "options": [
+      "It creates a compile - time constant)",
+      "It creates a runtime constant)",
+      "It makes a variable mutable)",
+      "It is used to declare static variables)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "DefaultTextStyle"
+    ],
+    "questionText": "Which widget in Flutter provides a default style for text?",
+    "options": [
+      "Text",
+      "DefaultTextStyle",
+      "TextStyle",
+      "RichText"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "That the function is a generator function)"
+    ],
+    "questionText": "What does the sync* keyword indicate in Dart?",
+    "options": [
+      "That the function returns a Future)",
+      "That the function returns a Stream)",
+      "That the function is a generator function)",
+      "That the function runs in a separate isolate)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "By using the ? after the type)"
+    ],
+    "questionText": "How do you make a variable nullabl e in Dart?",
+    "options": [
+      "By using the ? after the type)",
+      "By using the nullable keyword)",
+      "By initializing it to null)",
+      "By using the null keyword)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "[2, 4, 6]"
+    ],
+    "questionText": "What is the output of print([1, 2, 3])map((e) => e * 2))toList()); in Dart?",
+    "options": [
+      "[2, 4, 6]",
+      "[1, 2, 3, 2, 4, 6]",
+      "[2, 4]",
+      "[1, 4, 9]"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "It declares a variable with a dynamic type)"
+    ],
+    "questionText": "Which of the following is true about the var keyword in Dart?",
+    "options": [
+      "It declares a variable with a dynamic type)",
+      "It declares a variable with a fixed type)",
+      "It declares a compile - time constant)",
+      "It declares a variable that can only be set once)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "setState"
+    ],
+    "questionText": "In Flutter, which method is used to repaint a widget when its state changes?",
+    "options": [
+      "rebuild",
+      "setState",
+      "refresh",
+      "update"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To provide a way to manage state and notify listeners about changes)"
+    ],
+    "questionText": "What is the primary purpose of the ChangeNotifier class in Flutter?",
+    "options": [
+      "To handle HTTP requests)",
+      "To provide a way to manage state and notify listeners about changes)",
+      "To create animations)",
+      "To manage navigation)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "FloatingActionButton"
+    ],
+    "questionText": "Which widget is used to create a floating action button in Flutter?",
+    "options": [
+      "FloatingActionButton",
+      "RaisedButton",
+      "FlatButton",
+      "IconButton"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To create animations"
+    ],
+    "questionText": "What is the purpose of the AnimatedBuil der widget in Flutter?",
+    "options": [
+      "To create animations",
+      "To handle user input",
+      "To manage dependencies",
+      "To handle asynchronous operations"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "2"
+    ],
+    "questionText": "What is the output of the following Dart code? void main() { int x = 10; int y; try { y = x ~/ 0; } catch (e) { y = 1; } fin ally { y += 1; } print(y); }",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "Error"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "A type that represents a Future<T> or T)"
+    ],
+    "questionText": "Which of the following correctly describes the FutureOr<T> type in Dart?",
+    "options": [
+      "A type that represents a Future<T> or T)",
+      "A type that represents either a Future or Stream)",
+      "A type that represents either Future<void > or void)",
+      "A type that can only be used with asynchronous functions)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To preserve a method during tree - shaking and minification)"
+    ],
+    "questionText": "What is the purpose of the @pragma('vm:entry - point') annotation in Dart?",
+    "options": [
+      "To mark a method as the main entry point of a Dart program)",
+      "To preserve a method during tree - shaking and minification)",
+      "To indicate that a method should be executed in a separate isolate)",
+      "To specify the entry point for a Flutter application)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "TextField"
+    ],
+    "questionText": "Which of the following widgets in Flutter provides an interface for accepting input from the user?",
+    "options": [
+      "Text",
+      "Gestu reDetector",
+      "TextField",
+      "Container"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "[1, 3, 5]"
+    ],
+    "questionText": "What does the following Dart code snippet output? void main() { var list = [1, 2, 3, 4, 5]; list)removeWhere((e) => e % 2 == 0); print(list); }",
+    "options": [
+      "[1, 3, 5]",
+      "[2, 4]",
+      "[1, 2, 3, 4, 5]",
+      "[]"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "All of the above"
+    ],
+    "questionText": "In Flutter, which widget allows you to define the behavior of a drag - and - drop interaction?",
+    "options": [
+      "Draggable",
+      "DragTarget",
+      "LongPressDraggable",
+      "All of the above"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "10"
+    ],
+    "questionText": "What is the result of the following Dart code? void main() { List<int> list = [1, 2, 3, 4]; var result = list)fold(0, (prev , element) => prev + element); print(result); }",
+    "options": [
+      "10",
+      "24",
+      "1234",
+      "Error"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Optional positional parameters"
+    ],
+    "questionText": "Which Dart feature allows you to declare a function that can take a variable number of arguments?",
+    "options": [
+      "Named parameters",
+      "Optional positional parameters",
+      "Rest parameters",
+      "Spread operator"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Hello World!"
+    ],
+    "questionText": "What does the following Dart code do? void main() { final buffer = StringBuffer(); buffer)write('Hello'); buffer)writeAll([' ', 'World', '!']); print(buffer)toString()); }",
+    "options": [
+      "Hello World!",
+      "HelloWorld!",
+      "Hello World !",
+      "Error"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "ListView"
+    ],
+    "questionText": "In Flutter, which w idget would you use to create a scrollable list of items?",
+    "options": [
+      "Column",
+      "Row",
+      "ListView",
+      "Stack"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "To make a parameter required in a constructor or function)"
+    ],
+    "questionText": "What is the purpose of the @required annotation in Dart?",
+    "options": [
+      "To make a parameter optional)",
+      "To make a parameter required in a constructor or function)",
+      "To mark a class as a required dependency)",
+      "To enforce compile - time type checking)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "It provides utilities for asynchronous programming, including Future and Stream)"
+    ],
+    "questionText": "Which of the following best describes the dart:async library?",
+    "options": [
+      "It provides utilities for asynchronous programming, including Future and Stream)",
+      "It provides core Dart functions and cl asses)",
+      "It provides functions and classes for working with collections)",
+      "It provides tools for Dart - to - JavaScript compilation)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "BoxDecorat ion"
+    ],
+    "questionText": "Which of the following Flutter widgets would you use to apply a linear gradient to a container?",
+    "options": [
+      "LinearGradient",
+      "BoxDecorat ion",
+      "Gradient",
+      "DecoratedBox"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "{2, 4, 6, 8}"
+    ],
+    "questionText": "What does the following Dart code print? void main() { var set = {1, 2, 3, 4}; set = set)map((e) => e * 2))toSet(); print(set); }",
+    "options": [
+      "{1, 2, 3, 4}",
+      "{2, 4, 6, 8}",
+      "{2, 4, 6, 8, 1, 3}",
+      "[2, 4, 6, 8]"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "dispose"
+    ],
+    "questionText": "In Flutter, which meth od is used to handle cleanup when a StatefulWidget is removed from the widget tree?",
+    "options": [
+      "dispose",
+      "deactivate",
+      "initState",
+      "didUpdateWidget"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "var stream = Stream)fromIterable([1, 2, 3]); stream)listen(print);"
+    ],
+    "questionText": "Which of the following Dart code snippets correctly uses a Stream to listen to events?",
+    "options": [
+      "var stream = Stream)fromIterab le([1, 2, 3]); stream)forEach(print);",
+      "var stream = Stream)fromIterable([1, 2, 3]); stream)listen(print);",
+      "var stream = Stream)fromIterable([1, 2, 3]); stream)addListener(print);",
+      "var stream = Stream)fromIterable([1, 2, 3]); stream)add(print);"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "That a function is implemented in another library or language)"
+    ],
+    "questionText": "What does the external keyword in Dart indicate?",
+    "options": [
+      "That a function is implemented in another library or language)",
+      "That a variable can be accessed from outside the class)",
+      "That a class can be extended by other classes)",
+      "That a method is optional and may not be imple mented)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Mixins cannot contain constructors)"
+    ],
+    "questionText": "Which of the following is true about Mixin in Dart?",
+    "options": [
+      "Mixins can only be used with abstract classes)",
+      "Mixins can be applied to any class)",
+      "Mixins cannot contain constructors)",
+      "Mixins are used to enforce type safety)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Displays th e text widgets in a vertical arrangement with minimum spacing)"
+    ],
+    "questionText": "What does the fol lowing Flutter code do? Scaffold( body: Center( child: Column( mainAxisSize: MainAxisSize)min, children: <Widget>[ Text('First'), Text('Second'), Text('Third'), ], ), ), );",
+    "options": [
+      "Displays the text widgets in a vertical arrangement with equal spacing)",
+      "Displays th e text widgets in a vertical arrangement with minimum spacing)",
+      "Displays the text widgets in a horizontal arrangement with equal spacing)",
+      "Displays the text widgets in a horizontal arrangement with minimum spacing)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "ENGLISH",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "Future)delayed()"
+    ],
+    "questionText": "In Dart, which function is used t o delay the execution of a block of code?",
+    "options": [
+      "delay()",
+      "sleep()",
+      "Future)delayed()",
+      "await()"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  }
+]

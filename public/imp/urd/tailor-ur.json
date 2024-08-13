@@ -1,0 +1,632 @@
+[
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کسٹمر کی پسند اور ضروریات کو سمجھنے کے لیے کیا کرنا چاہیے؟",
+    "options": ["سوالات پوچھیں", "نمونے دکھائیں", "ان کی رائے سنیں", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کسٹمر کو کس طرح خوش آمدید کہنا چاہیے؟",
+    "options": ["مسکراہٹ کے ساتھ", "سلام کے ساتھ", "نام سے پکار کر", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کسٹمر کی شکایات کو کس طرح سنبھالنا چاہیے؟",
+    "options": [
+      "صبر سے سنیں",
+      "مسئلے کو سمجھنے کی کوشش کریں",
+      "حل پیش کریں",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کسٹمر کو کس طرح الوداع کہنا چاہیے؟",
+    "options": [
+      "شکریہ ادا کریں",
+      "دوبارہ تشریف لانے کی دعوت دیں",
+      "ان کی رائے پوچھیں",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["کسٹمر کی اطمینان"],
+    "questionText": "کسٹمر سروس میں سب سے اہم چیز کیا ہے؟",
+    "options": ["کسٹمر کی اطمینان", "فروخت بڑھانا", "منافع کمانا", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کسٹمر سروس کے دوران کس چیز سے گریز کرنا چاہیے؟",
+    "options": ["بحث کرنا", "جھوٹ بولنا", "وعدہ خلافی کرنا", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کسٹمر کو کس طرح اپنے کام سے مطمئن کرنا چاہیے؟",
+    "options": [
+      "اچھی کوالٹی کا کام کرنا",
+      "وقت پر کام مکمل کرنا",
+      "کسٹمر کی ہدایات پر عمل کرنا",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["سادہ اور آسان زبان"],
+    "questionText": "کسٹمر کی ضروریات کو سمجھنے کے لیے کون سی زبان استعمال کرنی چاہیے؟",
+    "options": [
+      "سادہ اور آسان زبان",
+      "تکنیکی زبان",
+      "انگریزی زبان",
+      "کسٹمر کی زبان"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کسٹمر کے ساتھ کس طرح کا رویہ رکھنا چاہیے؟",
+    "options": ["دوستانہ", "پیشہ ورانہ", "مددگار", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "ایک کامیاب ٹیلرنگ کاروبار کے لیے کون سی چیزیں ضروری ہیں؟",
+    "options": ["مہارت", "سرمائے", "مارکیٹنگ", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کاروبار میں منافع کے لیے کیا کرنا چاہیے؟",
+    "options": [
+      "اخراجات کم کریں",
+      "فروخت بڑھائیں",
+      "گاہکوں کو مطمئن رکھیں",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "ایک نئے ٹیلرنگ کاروبار کے لیے مارکیٹنگ کا کون سا طریقہ بہتر ہے؟",
+    "options": [
+      "سوشل میڈیا",
+      "اخبار میں اشتہار",
+      "دوستوں اور رشتہ داروں کو بتانا",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "ٹیلرنگ کے کاروبار میں کون سی چیزیں چیلنجز کا باعث بن سکتی ہیں؟",
+    "options": ["مقابلہ", "بدلتے ہوئے فیشن", "معاشی حالات", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کاروبار میں کسٹمر کا ڈیٹا محفوظ رکھنا کیوں ضروری ہے؟",
+    "options": [
+      "اعتماد پیدا کرنے کے لیے",
+      "قانونی تقاضوں کو پورا کرنے کے لیے",
+      "کسٹمر کی رازداری کا خیال رکھنے کے لیے",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ تمام رنگ"],
+    "questionText": "اس سال کون سا رنگ فیشن میں ہے؟",
+    "options": ["سرخ", "پیلا", "نیلا", "یہ تمام رنگ"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ تمام ڈیزائن"],
+    "questionText": "اس سال کون سا لباس کا ڈیزائن فیشن میں ہے؟",
+    "options": ["لمبے فراک", "شارٹ شرٹس", "گھیر دار پتلون", "یہ تمام ڈیزائن"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "فیشن کے رجحانات کو کیسے جانا جا سکتا ہے؟",
+    "options": [
+      "فیشن میگزین پڑھ کر",
+      "فیشن شوز دیکھ کر",
+      "سوشل میڈیا پر فیشن بلاگرز کو فالو کر کے",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کسٹمر کی پسند اور ضروریات کو سمجھنے کے لیے کیا کرنا چاہیے؟",
+    "options": ["سوالات پوچھیں", "نمونے دکھائیں", "ان کی رائے سنیں", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کسٹمر کو کس طرح خوش آمدید کہنا چاہیے؟",
+    "options": ["مسکراہٹ کے ساتھ", "سلام کے ساتھ", "نام سے پکار کر", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کسٹمر کی شکایات کو کس طرح سنبھالنا چاہیے؟",
+    "options": [
+      "صبر سے سنیں",
+      "مسئلے کو سمجھنے کی کوشش کریں",
+      "حل پیش کریں",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کسٹمر کو کس طرح الوداع کہنا چاہیے؟",
+    "options": [
+      "شکریہ ادا کریں",
+      "دوبارہ تشریف لانے کی دعوت دیں",
+      "ان کی رائے پوچھیں",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["کسٹمر کی اطمینان"],
+    "questionText": "کسٹمر سروس میں سب سے اہم چیز کیا ہے؟",
+    "options": ["کسٹمر کی اطمینان", "فروخت بڑھانا", "منافع کمانا", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کسٹمر سروس کے دوران کس چیز سے گریز کرنا چاہیے؟",
+    "options": ["بحث کرنا", "جھوٹ بولنا", "وعدہ خلافی کرنا", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کسٹمر کو کس طرح اپنے کام سے مطمئن کرنا چاہیے؟",
+    "options": [
+      "اچھی کوالٹی کا کام کرنا",
+      "وقت پر کام مکمل کرنا",
+      "کسٹمر کی ہدایات پر عمل کرنا",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["سادہ اور آسان زبان"],
+    "questionText": "کسٹمر کی ضروریات کو سمجھنے کے لیے کون سی زبان استعمال کرنی چاہیے؟",
+    "options": [
+      "سادہ اور آسان زبان",
+      "تکنیکی زبان",
+      "انگریزی زبان",
+      "کسٹمر کی زبان"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کسٹمر کے ساتھ کس طرح کا رویہ رکھنا چاہیے؟",
+    "options": ["دوستانہ", "پیشہ ورانہ", "مددگار", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "ایک کامیاب ٹیلرنگ کاروبار کے لیے کون سی چیزیں ضروری ہیں؟",
+    "options": ["مہارت", "سرمائے", "مارکیٹنگ", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کاروبار میں منافع کے لیے کیا کرنا چاہیے؟",
+    "options": [
+      "اخراجات کم کریں",
+      "فروخت بڑھائیں",
+      "گاہکوں کو مطمئن رکھیں",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "ایک نئے ٹیلرنگ کاروبار کے لیے مارکیٹنگ کا کون سا طریقہ بہتر ہے؟",
+    "options": [
+      "سوشل میڈیا",
+      "اخبار میں اشتہار",
+      "دوستوں اور رشتہ داروں کو بتانا",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "ٹیلرنگ کے کاروبار میں کون سی چیزیں چیلنجز کا باعث بن سکتی ہیں؟",
+    "options": ["مقابلہ", "بدلتے ہوئے فیشن", "معاشی حالات", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کاروبار میں کسٹمر کا ڈیٹا محفوظ رکھنا کیوں ضروری ہے؟",
+    "options": [
+      "اعتماد پیدا کرنے کے لیے",
+      "قانونی تقاضوں کو پورا کرنے کے لیے",
+      "کسٹمر کی رازداری کا خیال رکھنے کے لیے",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ تمام رنگ"],
+    "questionText": "اس سال کون سا رنگ فیشن میں ہے؟",
+    "options": ["سرخ", "پیلا", "نیلا", "یہ تمام رنگ"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ تمام ڈیزائن"],
+    "questionText": "اس سال کون سا لباس کا ڈیزائن فیشن میں ہے؟",
+    "options": ["لمبے فراک", "شارٹ شرٹس", "گھیر دار پتلون", "یہ تمام ڈیزائن"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "فیشن کے رجحانات کو کیسے جانا جا سکتا ہے؟",
+    "options": [
+      "فیشن میگزین پڑھ کر",
+      "فیشن شوز دیکھ کر",
+      "سوشل میڈیا پر فیشن بلاگرز کو فالو کر کے",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کسٹمر کی پسند اور ضروریات کو سمجھنے کے لیے کیا کرنا چاہیے؟",
+    "options": ["سوالات پوچھیں", "نمونے دکھائیں", "ان کی رائے سنیں", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کسٹمر کو کس طرح خوش آمدید کہنا چاہیے؟",
+    "options": ["مسکراہٹ کے ساتھ", "سلام کے ساتھ", "نام سے پکار کر", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کسٹمر کی شکایات کو کس طرح سنبھالنا چاہیے؟",
+    "options": [
+      "صبر سے سنیں",
+      "مسئلے کو سمجھنے کی کوشش کریں",
+      "حل پیش کریں",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کسٹمر کو کس طرح الوداع کہنا چاہیے؟",
+    "options": [
+      "شکریہ ادا کریں",
+      "دوبارہ تشریف لانے کی دعوت دیں",
+      "ان کی رائے پوچھیں",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["کسٹمر کی اطمینان"],
+    "questionText": "کسٹمر سروس میں سب سے اہم چیز کیا ہے؟",
+    "options": ["کسٹمر کی اطمینان", "فروخت بڑھانا", "منافع کمانا", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کسٹمر سروس کے دوران کس چیز سے گریز کرنا چاہیے؟",
+    "options": ["بحث کرنا", "جھوٹ بولنا", "وعدہ خلافی کرنا", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کسٹمر کو کس طرح اپنے کام سے مطمئن کرنا چاہیے؟",
+    "options": [
+      "اچھی کوالٹی کا کام کرنا",
+      "وقت پر کام مکمل کرنا",
+      "کسٹمر کی ہدایات پر عمل کرنا",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["سادہ اور آسان زبان"],
+    "questionText": "کسٹمر کی ضروریات کو سمجھنے کے لیے کون سی زبان استعمال کرنی چاہیے؟",
+    "options": [
+      "سادہ اور آسان زبان",
+      "تکنیکی زبان",
+      "انگریزی زبان",
+      "کسٹمر کی زبان"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کسٹمر کے ساتھ کس طرح کا رویہ رکھنا چاہیے؟",
+    "options": ["دوستانہ", "پیشہ ورانہ", "مددگار", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "ایک کامیاب ٹیلرنگ کاروبار کے لیے کون سی چیزیں ضروری ہیں؟",
+    "options": ["مہارت", "سرمائے", "مارکیٹنگ", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کاروبار میں منافع کے لیے کیا کرنا چاہیے؟",
+    "options": [
+      "اخراجات کم کریں",
+      "فروخت بڑھائیں",
+      "گاہکوں کو مطمئن رکھیں",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "ایک نئے ٹیلرنگ کاروبار کے لیے مارکیٹنگ کا کون سا طریقہ بہتر ہے؟",
+    "options": [
+      "سوشل میڈیا",
+      "اخبار میں اشتہار",
+      "دوستوں اور رشتہ داروں کو بتانا",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "ٹیلرنگ کے کاروبار میں کون سی چیزیں چیلنجز کا باعث بن سکتی ہیں؟",
+    "options": ["مقابلہ", "بدلتے ہوئے فیشن", "معاشی حالات", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "کاروبار میں کسٹمر کا ڈیٹا محفوظ رکھنا کیوں ضروری ہے؟",
+    "options": [
+      "اعتماد پیدا کرنے کے لیے",
+      "قانونی تقاضوں کو پورا کرنے کے لیے",
+      "کسٹمر کی رازداری کا خیال رکھنے کے لیے",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ تمام رنگ"],
+    "questionText": "اس سال کون سا رنگ فیشن میں ہے؟",
+    "options": ["سرخ", "پیلا", "نیلا", "یہ تمام رنگ"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ تمام ڈیزائن"],
+    "questionText": "اس سال کون سا لباس کا ڈیزائن فیشن میں ہے؟",
+    "options": ["لمبے فراک", "شارٹ شرٹس", "گھیر دار پتلون", "یہ تمام ڈیزائن"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "فیشن کے رجحانات کو کیسے جانا جا سکتا ہے؟",
+    "options": [
+      "فیشن میگزین پڑھ کر",
+      "فیشن شوز دیکھ کر",
+      "سوشل میڈیا پر فیشن بلاگرز کو فالو کر کے",
+      "یہ سب"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  }
+]

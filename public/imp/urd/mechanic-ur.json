@@ -1,0 +1,739 @@
+[
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["نیوٹن"],
+    "questionText": "قوت (Force) کی اکائی کیا ہے؟",
+    "options": ["نیوٹن", "واٹ", "جول", "پاسکل"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["قوت کے اثر کی گردش"],
+    "questionText": "ٹارک (Torque) کس چیز کی پیمائش ہے؟",
+    "options": [
+      "مقدار کی قوت",
+      "قوت کے اثر کی گردش",
+      "قوت کا فاصلہ",
+      "قوت کا زاویہ"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["قوت میں اضافہ"],
+    "questionText": "مکینیکل ایڈوانٹیج (Mechanical Advantage) کیا ہے؟",
+    "options": [
+      "کام کی مقدار میں کمی",
+      "قوت میں اضافہ",
+      "فاصلے میں اضافہ",
+      "کام کرنے کی رفتار میں اضافہ"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["انٹیک، کمپریشن، پاور، ایگزاسٹ"],
+    "questionText": "انجن میں چار سٹروک (Four Strokes) کون کون سے ہیں؟",
+    "options": [
+      "ایگزاسٹ ،پاور ،کمپریشن ،انٹیک",
+      "پاور ،کمپریشن ،ایگزاسٹ ،انٹیک",
+      "ایگزاسٹ ،انٹیک ،پاور ،کمپریشن",
+      "پاور ،کمپریشن ،انٹیک ،ایگزاسٹ"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["ویل رینچ"],
+    "questionText": "گاڑی کے پہیوں کو کھولنے کے لیے کون سا آلہ استعمال ہوتا ہے؟",
+    "options": ["رینچ", "سکریو ڈرایور", "پلگ رینچ", "ویل رینچ"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["ڈپ اسٹک"],
+    "questionText": "انجن آئل (Engine Oil) کی سطح چیک کرنے کے لیے کون سا آلہ استعمال ہوتا ہے؟",
+    "options": ["ڈپ اسٹک", "ٹارک رینچ", "فلر گیج", "ہائیڈرومیٹر"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["بیٹری چارجر"],
+    "questionText": "گاڑی کی بیٹری (Battery) کو چارج کرنے کے لیے کون سا آلہ استعمال ہوتا ہے؟",
+    "options": ["الٹرنیٹر", "بیٹری چارجر", "اسٹارٹر موٹر", "ریگولیٹر"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["کرینک شافٹ کو گھمانا"],
+    "questionText": "انجن میں پسٹن (Piston) کا کیا کام ہے؟",
+    "options": [
+      "ایندھن کو جلانا",
+      "ہوا کو کمپریس کرنا",
+      "کرینک شافٹ کو گھمانا",
+      "والوز کو کھولنا اور بند کرنا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["ایندھن اور ہوا کو ملا کر مکسچر بنانا"],
+    "questionText": "کاربیوریٹر (Carburetor) کا کیا کام ہے؟",
+    "options": [
+      "ایندھن کو فلٹر کرنا",
+      "ایندھن اور ہوا کو ملا کر مکسچر بنانا",
+      "انجن کو ٹھنڈا رکھنا",
+      "انجن کو چکنائی دینا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["پسٹن اور والوز کی حرکت"],
+    "questionText": "ٹائمنگ بیلٹ (Timing Belt) کس چیز کو کنٹرول کرتا ہے؟",
+    "options": [
+      "پسٹن اور والوز کی حرکت",
+      "ایندھن کے انجکشن کا وقت",
+      "انجن کے درجہ حرارت",
+      "انجن کی رفتار"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["گاڑی کی رفتار کم کرنا یا روکنا"],
+    "questionText": "بریک سسٹم (Brake System) کا بنیادی کام کیا ہے؟",
+    "options": [
+      "گاڑی کی رفتار بڑھانا",
+      "گاڑی کی رفتار کم کرنا یا روکنا",
+      "گاڑی کی سمت تبدیل کرنا",
+      "گاڑی کے انجن کو ٹھنڈا رکھنا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["گاڑی کو جھٹکوں سے بچانا اور آرام دہ سواری فراہم کرنا"],
+    "questionText": "گاڑی کے سسپنشن سسٹم (Suspension System) کا بنیادی کام کیا ہے؟",
+    "options": [
+      "گاڑی کو ایندھن فراہم کرنا",
+      "گاڑی کے پہیوں کو گھمانا",
+      "گاڑی کو جھٹکوں سے بچانا اور آرام دہ سواری فراہم کرنا",
+      "گاڑی کی سمت تبدیل کرنا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["انجن کی طاقت کو پہیوں تک پہنچانا"],
+    "questionText": "ٹرانسمیشن سسٹم (Transmission System) کا بنیادی کام کیا ہے؟",
+    "options": [
+      "انجن کی طاقت کو پہیوں تک پہنچانا",
+      "گاڑی کو اسٹارٹ کرنا",
+      "گاڑی کو بجلی فراہم کرنا",
+      "گاڑی کی رفتار کو ناپنا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["انجن کو ٹھنڈا رکھنا"],
+    "questionText": "کولنگ سسٹم (Cooling System) کا بنیادی کام کیا ہے؟",
+    "options": [
+      "انجن کو چکنائی دینا",
+      "انجن کو ٹھنڈا رکھنا",
+      "انجن کو ایندھن فراہم کرنا",
+      "انجن کی رفتار کو کنٹرول کرنا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["کارخانہ دار کی ہدایات کے مطابق"],
+    "questionText": "انجن آئل (Engine Oil) کب تبدیل کرنا چاہیے؟",
+    "options": [
+      "ہر 1000 کلومیٹر کے بعد",
+      "ہر 5000 کلومیٹر کے بعد",
+      "ہر 10000 کلومیٹر کے بعد",
+      "کارخانہ دار کی ہدایات کے مطابق"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["کارخانہ دار کی ہدایات کے مطابق"],
+    "questionText": "گاڑی کے ٹائر (Tires) میں ہوا کا پریشر کتنا ہونا چاہیے؟ (What should be the air pressure in car tires?)",
+    "options": [
+      "10 پی ایس آئی (PSI)",
+      "20 پی ایس آئی (PSI)",
+      "30 پی ایس آئی (PSI)",
+      "کارخانہ دار کی ہدایات کے مطابق (According to the manufacturer's instructions)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "بریک پیڈز (Brake Pads) کب تبدیل کرنے چاہئیں؟ (When should brake pads be replaced?)",
+    "options": [
+      "جب بریک لگانے پر شور آئے (When the brakes make noise)",
+      "جب بریک لگانے میں دیر لگے (When the brakes take longer to stop the vehicle)",
+      "جب بریک پیڈز کی موٹائی کم ہو جائے (When the brake pads become thin)",
+      "یہ سب (All of the above)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "اگر انجن اسٹارٹ نہیں ہوتا تو اس کی ممکنہ وجہ کیا ہو سکتی ہے؟ (If the engine doesn't start, what could be the possible cause?)",
+    "options": [
+      "بیٹری خراب ہونا (Dead battery)",
+      "سٹارٹر موٹر کی خرابی (Faulty starter motor)",
+      "ایندھن کی کمی (Lack of fuel)",
+      "یہ سب (All of the above)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "اگر گاڑی سے دھواں نکل رہا ہے تو اس کی ممکنہ وجہ کیا ہو سکتی ہے؟ (If smoke is coming out of the car, what could be the possible cause?)",
+    "options": [
+      "انجن آئل جل رہا ہے (Burning engine oil)",
+      "ٹرانسمیشن فلوئڈ جل رہا ہے (Burning transmission fluid)",
+      "کولنٹ لیک (Coolant leak)",
+      "یہ سب (All of the above)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "اگر گاڑی کے ٹائر جلدی گھس رہے ہیں تو اس کی ممکنہ وجہ کیا ہو سکتی ہے؟ (If car tires are wearing out quickly, what could be the possible cause?)",
+    "options": [
+      "ٹائروں میں ہوا کا پریشر کم ہونا (Low tire pressure)",
+      "وہیل الائنمنٹ (Wheel alignment) کا مسئلہ",
+      "خراب معیار کے ٹائر (Poor quality tires)",
+      "یہ سب (All of the above)"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["ریفریجرینٹ"],
+    "questionText": "گاڑی کے اے سی (AC) میں کون سی گیس استعمال ہوتی ہے؟ (Which gas is used in car air conditioning systems?)",
+    "options": ["کاربن ڈائی آکسائیڈ", "نائٹروجن", "ریفریجرینٹ", "آکسیجن"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["کولنٹ کو ٹھنڈا کرنا"],
+    "questionText": "گاڑی کے ریڈی ایٹر (Radiator) کا کام کیا ہے؟ (What is the function of a car radiator?)",
+    "options": [
+      "انجن آئل کو ٹھنڈا کرنا",
+      "ٹرانسمیشن فلوئڈ کو ٹھنڈا کرنا",
+      "کولنٹ کو ٹھنڈا کرنا",
+      "بیٹری کو ٹھنڈا کرنا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["سلفیورک ایسڈ"],
+    "questionText": "گاڑی کی بیٹری میں کون سا تیزاب استعمال ہوتا ہے؟ (Which acid is used in a car battery?)",
+    "options": [
+      "ہائڈروکلورک ایسڈ",
+      "سلفیورک ایسڈ",
+      "نائٹرک ایسڈ",
+      "کاربونک ایسڈ"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["ایگزاسٹ"],
+    "questionText": "گاڑی کے انجن کی کس چیز کی وجہ سے ایندھن جلنے کے بعد دھواں پیدا ہوتا ہے؟ (What in a car engine causes smoke after the fuel burns?)",
+    "options": ["پسٹن", "پلگ", "سلنڈر", "ایگزاسٹ"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["بریک کا نشان"],
+    "questionText": "گاڑی کی بریک کے کام نہ کرنے کی صورت میں کون سا انتباہی نشان ظاہر ہوتا ہے؟ (What warning sign appears when the car's brakes fail?)",
+    "options": ["انجن کا نشان", "بیٹری کا نشان", "بریک کا نشان", "آئل کا نشان"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["پلگ"],
+    "questionText": "گاڑی کے انجن میں کس چیز کی وجہ سے ایندھن جلتا ہے؟ ",
+    "options": ["پسٹن", "پلگ", "سلنڈر", "ایگزاسٹ"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": [
+      "انجن کی طاقت کو پہیوں تک منتقل کرنا اور گاڑی کی رفتار کو کنٹرول کرنا"
+    ],
+    "questionText": "گاڑی کے گیئر بکس (Gearbox) کا کیا کام ہے؟ (What is the function of a gearbox in a car?)",
+    "options": [
+      "گاڑی کو اسٹارٹ کرنا",
+      "گاڑی کی رفتار کو بڑھانا",
+      "گاڑی کی سمت تبدیل کرنا",
+      "انجن کی طاقت کو پہیوں تک منتقل کرنا اور گاڑی کی رفتار کو کنٹرول کرنا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["کمپریشن"],
+    "questionText": "ڈیزل انجن میں ایندھن کو جالنے کے لیے کیا استعمال ہوتا ہے؟ (What is used to ignite fuel in a diesel engine?)",
+    "options": ["پلگ", "کمپریشن", "کاربیوریٹر", "انجيکٹر"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["گاڑی کی سمت تبدیل کرنا"],
+    "questionText": "گاڑی کے سٹیرنگ سسٹم (Steering System) کا بنیادی کام کیا ہے؟",
+    "options": [
+      "گاڑی کو ایندھن فراہم کرنا",
+      "گاڑی کے پہیوں کو گھمانا",
+      "گاڑی کو جھٹکوں سے بچانا",
+      "گاڑی کی سمت تبدیل کرنا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["گاڑی کی بیٹری کو چارج کرنا"],
+    "questionText": "گاڑی کے الٹرنیٹر (Alternator) کا بنیادی کام کیا ہے؟",
+    "options": [
+      "گاڑی کو اسٹارٹ کرنا",
+      "گاڑی کی بیٹری کو چارج کرنا",
+      "گاڑی کی برقی نظام کو چلانا",
+      "گاڑی کے انجن کو ٹھنڈا رکھنا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["گاڑی کو اسٹارٹ کرنا"],
+    "questionText": "گاڑی کے سٹارٹر موٹر (Starter Motor) کا بنیادی کام کیا ہے؟",
+    "options": [
+      "گاڑی کو اسٹارٹ کرنا",
+      "گاڑی کی بیٹری کو چارج کرنا",
+      "گاڑی کی برقی نظام کو چلانا",
+      "گاڑی کے انجن کو ٹھنڈا رکھنا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["گاڑی کے انجن کو چکنا رکھنا"],
+    "questionText": "گاڑی کے لوبری کیشن سسٹم (Lubrication System) کا بنیادی کام کیا ہے؟",
+    "options": [
+      "گاڑی کے انجن کو ٹھنڈا رکھنا",
+      "گاڑی کے انجن کو چکنا رکھنا",
+      "گاڑی کو ایندھن فراہم کرنا",
+      "گاڑی کی رفتار کو کنٹرول کرنا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["گاڑی کے انجن کو ایندھن فراہم کرنا"],
+    "questionText": "گاڑی کے فیول سسٹم (Fuel System) کا بنیادی کام کیا ہے؟",
+    "options": [
+      "گاڑی کے انجن کو ٹھنڈا رکھنا",
+      "گاڑی کے انجن کو چکنا رکھنا",
+      "گاڑی کے انجن کو ایندھن فراہم کرنا",
+      "گاڑی کی رفتار کو کنٹرول کرنا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["ڈیزل"],
+    "questionText": "ڈیزل مکینک کس قسم کے انجن پر کام کرتا ہے؟",
+    "options": ["ڈیزل", "پٹرول", "سی این جی", "ایل پی جی"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["موٹر سائیکل"],
+    "questionText": "موٹر سائیکل مکینک کس قسم کی گاڑی پر کام کرتا ہے؟",
+    "options": ["کار", "بس", "ٹرک", "موٹر سائیکل"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["ٹائر"],
+    "questionText": "گاڑی کے کون سے پرزے کو باقاعدگی سے تبدیل کرنا ضروری ہے؟",
+    "options": ["ٹائر", "گیئر باکس", "کرینک شافٹ", "سٹارٹر موٹر"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["ہلکا براؤن یا شفاف"],
+    "questionText": "گاڑی کے انجن آئل کا رنگ کتنا ہونا چاہیے؟",
+    "options": ["کالا", "سرخ", "ہلکا براؤن یا شفاف", "سفید"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["سیسہ"],
+    "questionText": "گاڑی کی بیٹری کے ٹرمینلز (Terminals) پر کون سی دھات کی تہہ (Coating) چڑھائی جاتی ہے؟",
+    "options": ["سونا", "چاندی", "تانبا", "سیسہ"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "گاڑی کے انجن میں کس چیز کو چیک کرنے کے لیے گیج (Gauge) استعمال ہوتا ہے؟",
+    "options": ["فیول گیج", "ٹمپریچر گیج", "پریشر گیج", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["ہلکا پیلا"],
+    "questionText": "گاڑی کے بریک فلوئڈ (Brake Fluid) کا رنگ کیسا ہونا چاہیے؟",
+    "options": ["کالا", "سرخ", "ہلکا پیلا", "نیلا"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["پلگ"],
+    "questionText": "گاڑی کے انجن میں کس چیز کی وجہ سے ایندھن کا دھماکہ ہوتا ہے؟",
+    "options": ["پسٹن", "پلگ", "سلنڈر", "ایگزاسٹ"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["گاڑی کو جھٹکوں سے بچانا"],
+    "questionText": "گاڑی کے شاک ابزربر (Shock Absorber) کا کیا کام ہے؟",
+    "options": [
+      "گاڑی کی رفتار بڑھانا",
+      "گاڑی کو جھٹکوں سے بچانا",
+      "گاڑی کو ایندھن فراہم کرنا",
+      "گاڑی کی سمت تبدیل کرنا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["نائٹروجن"],
+    "questionText": "گاڑی کے ٹائر کے اندر کون سی گیس بھری ہوتی ہے؟",
+    "options": ["آکسیجن", "کاربن ڈائی آکسائیڈ", "نائٹروجن", "ہیلیئم"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICE",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["ٹائر"],
+    "questionText": "گاڑی کے کون سے پرزے کو باقاعدگی سے تبدیل کرنا ضروری ہے؟",
+    "options": ["ٹائر", "گیئر باکس", "کرینک شافٹ", "سٹارٹر موٹر"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["ہلکا براؤن یا شفاف"],
+    "questionText": "گاڑی کے انجن آئل کا رنگ کتنا ہونا چاہیے؟",
+    "options": ["کالا", "سرخ", "ہلکا براؤن یا شفاف", "سفید"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["سیسہ"],
+    "questionText": "گاڑی کی بیٹری کے ٹرمینلز (Terminals) پر کون سی دھات کی تہہ (Coating) چڑھائی جاتی ہے؟",
+    "options": ["سونا", "چاندی", "تانبا", "سیسہ"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["یہ سب"],
+    "questionText": "گاڑی کے انجن میں کس چیز کو چیک کرنے کے لیے گیج (Gauge) استعمال ہوتا ہے؟",
+    "options": ["فیول گیج", "ٹمپریچر گیج", "پریشر گیج", "یہ سب"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["ہلکا پیلا"],
+    "questionText": "گاڑی کے بریک فلوئڈ (Brake Fluid) کا رنگ کیسا ہونا چاہیے؟",
+    "options": ["کالا", "سرخ", "ہلکا پیلا", "نیلا"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["پلگ"],
+    "questionText": "گاڑی کے انجن میں کس چیز کی وجہ سے ایندھن کا دھماکہ ہوتا ہے؟",
+    "options": ["پسٹن", "پلگ", "سلنڈر", "ایگزاسٹ"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["گاڑی کو جھٹکوں سے بچانا"],
+    "questionText": "گاڑی کے شاک ابزربر (Shock Absorber) کا کیا کام ہے؟",
+    "options": [
+      "گاڑی کی رفتار بڑھانا",
+      "گاڑی کو جھٹکوں سے بچانا",
+      "گاڑی کو ایندھن فراہم کرنا",
+      "گاڑی کی سمت تبدیل کرنا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["نائٹروجن"],
+    "questionText": "گاڑی کے ٹائر کے اندر کون سی گیس بھری ہوتی ہے؟",
+    "options": ["آکسیجن", "کاربن ڈائی آکسائیڈ", "نائٹروجن", "ہیلیئم"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["گیئر آئل"],
+    "questionText": "گاڑی کے ٹرانسمیشن میں کس قسم کے تیل (Oil) کا استعمال ہوتا ہے؟",
+    "options": ["انجن آئل", "بریک فلوئڈ", "گیئر آئل", "پاور سٹیرنگ فلوئڈ"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["ٹرانسمیشن"],
+    "questionText": "گاڑی کا کون سا حصہ انجن کی حرکت کو پہیوں تک پہنچاتا ہے؟",
+    "options": ["بریک", "سسپنشن", "ٹرانسمیشن", "سٹیرنگ"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["آئل پمپ"],
+    "questionText": "گاڑی کے انجن میں کس چیز کی مدد سے تیل پمپ ہوتا ہے؟",
+    "options": ["واٹر پمپ", "آئل پمپ", "فیول پمپ", "ایئر پمپ"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["کاربیوریٹر یا فیول انجیکٹر"],
+    "questionText": "گاڑی کے انجن میں کس چیز کی وجہ سے ایندھن اور ہوا کا صحیح تناسب بنتا ہے؟",
+    "options": ["سائلنسر", "کاربیوریٹر یا فیول انجیکٹر", "بیٹری", "ریڈی ایٹر"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["فریکشن میٹیریل"],
+    "questionText": "گاڑی کے بریک پیڈز (Brake Pads) کس چیز سے بنے ہوتے ہیں؟",
+    "options": ["ربڑ", "سٹیل", "فریکشن میٹیریل", "پلاسٹک"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["سیسہ اور اینٹیمونی"],
+    "questionText": "گاڑی کی بیٹری میں کون سی دھاتیں استعمال ہوتی ہیں؟",
+    "options": [
+      "سیسہ اور اینٹیمونی",
+      "تانبا اور ایلومینیم",
+      "لوہا اور نکل",
+      "چاندی اور سونا"
+    ],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["ریفریجرینٹ"],
+    "questionText": "گاڑی کے اے سی (AC) میں کون سی گیس استعمال ہوتی ہے؟",
+    "options": ["کاربن ڈائی آکسائیڈ", "نائٹروجن", "ریفریجرینٹ", "آکسیجن"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["بریک بوسٹر"],
+    "questionText": "گاڑی میں کس چیز کی مدد سے بریک پیڈل (Brake Pedal) کی طاقت بڑھائی جاتی ہے؟",
+    "options": ["بریک لائنز", "بریک ڈرمز", "بریک بوسٹر", "ماسٹر سلنڈر"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  },
+  {
+    "lang": "URDU",
+    "codeSnippet": null,
+    "correctAnswer": ["سلنڈر"],
+    "questionText": "گاڑی کے انجن کے کس حصے میں ایندھن اور ہوا کا آمیزہ جل کر توانائی پیدا کرتا ہے؟",
+    "options": ["سلنڈر", "کرینک شافٹ", "پسٹن", "والوز"],
+    "questionType": "MULTIPLE_CHOICE",
+    "optionsType": "MULTIPLE_CHOICES",
+    "language": "TEXT"
+  }
+]
